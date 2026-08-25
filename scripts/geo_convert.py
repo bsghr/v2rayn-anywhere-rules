@@ -652,12 +652,12 @@ def main():
         )
 
         if category == "ads":
-           domains = adguard_domains
+            domains = adguard_domains
         else:
-        domains = parse_geosite(
-            geosite_data,
-            category
-        )
+            domains = parse_geosite(
+                geosite_data,
+                category
+            )
 
         rules = build_domain_rules(
             domains
