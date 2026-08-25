@@ -584,6 +584,8 @@ def main():
     ADGUARD_CN_URL
     )
 
+    adguard_domains = parse_adguard_domains(adguard_data)
+
     print(
         f"geosite.dat: {len(geosite_data):,} bytes"
     )
