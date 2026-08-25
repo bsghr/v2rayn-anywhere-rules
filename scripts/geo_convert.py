@@ -651,9 +651,9 @@ def main():
             f"[GeoSite] {category}"
         )
 
-   if category == "ads":
-      domains = adguard_domains
-   else:
+        if category == "ads":
+           domains = adguard_domains
+        else:
         domains = parse_geosite(
             geosite_data,
             category
