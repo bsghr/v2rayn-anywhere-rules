@@ -515,8 +515,8 @@ def main():
             1
         ),
 
-        "facebook": (
-            "Facebook",
+        "instagram": (
+            "Instagram",
             1
         ),
 
