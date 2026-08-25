@@ -1,0 +1,7 @@
+# NAME: Advertising_CN
+# GENERATED-FOR: Anywhere Routing Rule Set
+# RULES: 0
+# SOURCE: Loyalsoldier/v2ray-rules-dat
+
+name = Advertising_CN
+routing = 2
