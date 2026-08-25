@@ -14,6 +14,10 @@ GEOIP_URL = (
     "releases/latest/download/geoip.dat"
 )
 
+ADGUARD_CN_URL = (
+    "https://filters.adtidy.org/android/filters/224_optimized.txt"
+)
+
 OUTPUT_DIR = Path("rules")
 
 # Anywhere 单个规则集上限为 100000。
