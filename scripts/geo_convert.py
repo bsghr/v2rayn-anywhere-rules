@@ -290,6 +290,90 @@ def download(url):
     ) as response:
         return response.read()
 
+# ------------------------------------------------------------
+# AdGuard 中文过滤器
+# ------------------------------------------------------------
+
+def parse_adguard_domains(data):
+    """
+    从 AdGuard 过滤器中提取可转换为
+    Anywhere Domain Suffix 的域名规则。
+
+    仅处理：
+        ||example.com^
+        ||example.com^$third-party
+
+    不处理：
+        @@ 例外规则
+        CSS 规则
+        Scriptlet
+        正则规则
+        URL 路径规则
+        IP 地址规则
+        通配符域名
+    """
+
+    rules = set()
+
+    text = data.decode(
+        "utf-8",
+        errors="ignore"
+    )
+
+    for line in text.splitlines():
+        line = line.strip()
+
+        if not line:
+            continue
+
+        if line.startswith("!"):
+            continue
+
+        if line.startswith("@@"):
+            continue
+
+        if not line.startswith("||"):
+            continue
+
+        body = line[2:]
+
+        domain = body.split(
+            "^",
+            1
+        )[0]
+
+        if not domain:
+            continue
+
+        if "/" in domain:
+            continue
+
+        if "*" in domain:
+            continue
+
+        if "?" in domain:
+            continue
+
+        if ":" in domain:
+            continue
+
+        if "." not in domain:
+            continue
+
+        try:
+            ipaddress.ip_address(domain)
+            continue
+        except ValueError:
+            pass
+
+        rules.add(
+            (2, domain.lower())
+        )
+
+    return sorted(
+        rules,
+        key=lambda x: x[1]
+    )
 
 # ------------------------------------------------------------
 # Anywhere Domain 转换
@@ -496,6 +580,10 @@ def main():
         GEOIP_URL
     )
 
+    adguard_data = download(
+    ADGUARD_CN_URL
+    )
+
     print(
         f"geosite.dat: {len(geosite_data):,} bytes"
     )
@@ -542,6 +630,11 @@ def main():
         
         "category-ads-all": (
             "Advertising",
+            2
+        ),
+
+        "ads": (
+            "Advertising_CN",
             2
         )
     }
