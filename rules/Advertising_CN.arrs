@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6549
+# RULES: 6553
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -597,6 +597,7 @@ routing = 2
 2, 6820tp1.com
 2, 68287zubo85737.com
 2, 68b1hx8ej.com
+2, 68pzwbugo.com
 2, 68td4yete.com
 2, 68tkaiaji.com
 2, 693836.com
@@ -2291,6 +2292,7 @@ routing = 2
 2, etjkljs.beauty
 2, etqu.cn
 2, ettoday.net
+2, eutrnfnm.com
 2, euuh.cn
 2, evidence20.com
 2, evpxl9a8h.com
@@ -2882,6 +2884,7 @@ routing = 2
 2, hdsrc-a.akamaihd.net
 2, hdtu.oss-cn-beijing.aliyuncs.com
 2, he3tf77ow.com
+2, he4j6lz6d.com
 2, heartstring66.com
 2, hebaidu.cc
 2, hecwgmokvc.com
@@ -3556,6 +3559,7 @@ routing = 2
 2, ldbwxo.cn
 2, lddvxfmswnnxny.com
 2, ldmnq.com
+2, ldyqwzfmd.com
 2, le4le.com
 2, leabd.douguo.com
 2, leektiylpi.com
