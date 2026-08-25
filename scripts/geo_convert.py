@@ -515,11 +515,7 @@ def main():
             1
         ),
 
-        "instagram": (
-            "Instagram",
-            1
-        ),
-
+        
         "twitter": (
             "Twitter",
             1
