@@ -1,0 +1,29 @@
+# NAME: OpenAI
+# GENERATED-FOR: Anywhere Routing Rule Set
+# RULES: 22
+# SOURCE: Loyalsoldier/v2ray-rules-dat
+
+name = OpenAI
+routing = 1
+2, browser-intake-datadoghq.com
+2, chat.com
+2, chatgpt.com
+2, chatgpt.livekit.cloud
+2, chatgpt.site
+2, crixet.com
+2, host.livekit.cloud
+2, o33249.ingest.sentry.io
+2, oaistatic.com
+2, oaistatsig.com
+2, oaiusercontent.com
+2, openai.com
+2, openai.com.cdn.cloudflare.net
+2, openai.qualtrics.com
+2, openaiapi-site.azureedge.net
+2, openaiassets.blob.core.windows.net
+2, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+2, openaicom.imgix.net
+2, openaicomproductionae4b.blob.core.windows.net
+2, production-openaicom-storage.azureedge.net
+2, sora.com
+2, turn.livekit.cloud

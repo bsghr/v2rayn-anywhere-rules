@@ -1,0 +1,31 @@
+# NAME: Twitter
+# GENERATED-FOR: Anywhere Routing Rule Set
+# RULES: 24
+# SOURCE: Loyalsoldier/v2ray-rules-dat
+
+name = Twitter
+routing = 1
+2, ads-twitter.com
+2, cms-twdigitalassets.com
+2, periscope.tv
+2, pscp.tv
+2, t.co
+2, tellapart.com
+2, tweetdeck.com
+2, twimg.com
+2, twitpic.com
+2, twitter.biz
+2, twitter.com
+2, twitter.jp
+2, twitter.map.fastly.net
+2, twittercommunity.com
+2, twitterflightschool.com
+2, twitterinc.com
+2, twitteroauth.com
+2, twitterstat.us
+2, twtrdns.net
+2, twttr.com
+2, twttr.net
+2, twvid.com
+2, vine.co
+2, x.com

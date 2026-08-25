@@ -1,0 +1,43 @@
+# NAME: TikTok
+# GENERATED-FOR: Anywhere Routing Rule Set
+# RULES: 36
+# SOURCE: Loyalsoldier/v2ray-rules-dat
+
+name = TikTok
+routing = 1
+2, analytics.tiktok.com
+2, bytedapm.com
+2, muscdn.com
+2, musical.ly
+2, p16-tiktokcdn-com.akamaized.net
+2, roovza-launches.appsflyersdk.com
+2, roovza.inapps.appsflyersdk.com
+2, roovza.launches.appsflyersdk.com
+2, roovza.skadsdk.appsflyersdk.com
+2, tik-tokapi.com
+2, tiktok-minis.com
+2, tiktok-row.net
+2, tiktok.com
+2, tiktokcdn-eu.com
+2, tiktokcdn-us.com
+2, tiktokcdn-us.com.edgesuite.net
+2, tiktokcdn.com
+2, tiktokcdn.com.akamaized.net
+2, tiktokcdn.com.edgesuite.net
+2, tiktokd.net
+2, tiktokd.org
+2, tiktokeu-cdn.com
+2, tiktokglobalshopv.com
+2, tiktokminis.us
+2, tiktokrow-cdn.com
+2, tiktokv.com
+2, tiktokv.com.edgekey.net
+2, tiktokv.com.edgesuite.net
+2, tiktokv.eu
+2, tiktokv.us
+2, tiktokw.eu
+2, tiktokw.us
+2, ttcdn-us.com
+2, ttlivecdn.com
+2, ttoverseaus.net
+2, ttwstatic.com

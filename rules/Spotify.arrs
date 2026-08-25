@@ -1,0 +1,35 @@
+# NAME: Spotify
+# GENERATED-FOR: Anywhere Routing Rule Set
+# RULES: 28
+# SOURCE: Loyalsoldier/v2ray-rules-dat
+
+name = Spotify
+routing = 1
+2, adeventtracker.spotify.com
+2, adstudio-assets.scdn.co
+2, audio-ak-spotify-com.akamaized.net
+2, audio4-ak-spotify-com.akamaized.net
+2, bloodhound.spotify.com
+2, byspotify.com
+2, cdn-spotify-experiments.conductrics.com
+2, heads-ak-spotify-com.akamaized.net
+2, heads4-ak-spotify-com.akamaized.net
+2, lifeatspotify.com
+2, pscdn.co
+2, scdn.co
+2, spoti.fi
+2, spotify-everywhere.com
+2, spotify.com
+2, spotify.com.edgesuite.net
+2, spotify.design
+2, spotify.link
+2, spotify.map.fastly.net
+2, spotify.map.fastlylb.net
+2, spotifycdn.com
+2, spotifycdn.net
+2, spotifycharts.com
+2, spotifycodes.com
+2, spotifyforbrands.com
+2, spotifyforvendors.com
+2, spotifyjobs.com
+2, tospotify.com
