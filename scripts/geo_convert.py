@@ -539,6 +539,11 @@ def main():
             "TikTok",
             1
         ),
+        
+        "category-ads-all": (
+            "Advertising",
+            2
+        )
     }
 
     for category, (
