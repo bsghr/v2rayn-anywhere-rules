@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6553
+# RULES: 6561
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -385,6 +385,7 @@ routing = 2
 2, 3iulae112b.com
 2, 3j4vjpx7k.com
 2, 3k2frl8r79.com
+2, 3lbqpzrlmz.com
 2, 3llzzztmz.com
 2, 3lxk4afsb.com
 2, 3nopvvhju5.com
@@ -2059,7 +2060,6 @@ routing = 2
 2, dlkfhlkjoirfgn.com
 2, dlkliqrxt2.com
 2, dlsybe78o0.com
-2, dm.17xuexiba.com
 2, dm.21hubei.com
 2, dm.51okc.com
 2, dm.66qw.net
@@ -2469,6 +2469,7 @@ routing = 2
 2, fretsaw55.top
 2, frhi5v6ez1.com
 2, frp8r3le9c.com
+2, frustum47.top
 2, frustum77.top
 2, frzlftr9y.com
 2, fsmnmorgb.com
@@ -2913,6 +2914,7 @@ routing = 2
 2, hi2pv3e9pr.com
 2, hi407ezyz.com
 2, hi4c61mi8d.com
+2, hi6uqvisz9.com
 2, hiad.myweb.hinet.net
 2, hiad.vmall.com
 2, hibiscus76.com
@@ -3643,6 +3645,7 @@ routing = 2
 2, lnme1q1qa.com
 2, lo2xxp73v7.com
 2, lo42y56tmy.com
+2, lobhvxlikxbjju.com
 2, lodipq3zb.com
 2, logarithm29.top
 2, lohylfnkagnlzw.com
@@ -4612,6 +4615,7 @@ routing = 2
 2, qmeqraen.com
 2, qmj89db55u.com
 2, qmoqruden.com
+2, qmtrnqp900.com
 2, qneb.cn
 2, qnpy8bumnc.com
 2, qnw0cru1i5.com
@@ -4791,6 +4795,7 @@ routing = 2
 2, roywc0iql.com
 2, rp9zb27jn1.com
 2, rphwjxzekcbzxu.com
+2, rpjjpm.site
 2, rpox.cn
 2, rpvkpz.icu
 2, rrpaafci9i.com
@@ -5517,6 +5522,7 @@ routing = 2
 2, uyfv.cn
 2, uz7w7bm4ns.com
 2, uzrtgekpw.com
+2, uzt7ud70j1.com
 2, uzurliev.com
 2, v.center
 2, v0su9ogte.com
@@ -5871,6 +5877,7 @@ routing = 2
 2, wrestle22.top
 2, wrlhhgeyh.com
 2, ws.wenshenxiu.com
+2, ws9jdpz802.com
 2, wshufa.com
 2, wsnxw6ihs.com
 2, wthizudgdg.com
@@ -5930,6 +5937,7 @@ routing = 2
 2, x6d93mku0.com
 2, x6img.com
 2, x6u6kw4sg.com
+2, x7qhjjryf1.com
 2, x7weiubb2f.com
 2, x8wyxfxul.com
 2, x94pjnejo.com
@@ -6115,7 +6123,6 @@ routing = 2
 2, xxp4802or.com
 2, xxsmad7.com
 2, xxsmtz1.com
-2, xxsmtz10.com
 2, xxsmtz2.com
 2, xxsmtz3.com
 2, xxsmtz4.com
@@ -6444,6 +6451,7 @@ routing = 2
 2, zither89.com
 2, ziweuu.com
 2, ziwl05nrf1.com
+2, zj5mqsb06x.com
 2, zj7coeb5i.com
 2, zjflf9epfe.com
 2, zjgfq.com
