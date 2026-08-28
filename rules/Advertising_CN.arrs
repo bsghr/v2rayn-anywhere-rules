@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6561
+# RULES: 6576
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -63,6 +63,7 @@ routing = 2
 2, 0s1wclct6.com
 2, 0sg1gx04is.com
 2, 0tc1bdbgsm.com
+2, 0tkwnl1cw.com
 2, 0v0qj9fnwf.top
 2, 0vllsf2g2.com
 2, 0wk6gdkg8r.com
@@ -1199,6 +1200,7 @@ routing = 2
 2, ams.fx678.com
 2, amusementt3.top
 2, amwm.cn
+2, an9ynwsct.com
 2, anesthesia58.top
 2, anews7.nvwu.com
 2, anixwallpaper.com
@@ -1616,6 +1618,7 @@ routing = 2
 2, c1.czcol.cn
 2, c114.com.cn
 2, c1qm3mg41.com
+2, c2y82fkyv.com
 2, c3mldou51.com
 2, c3q6l5oeq.com
 2, c3vzqvifsn.com
@@ -3001,6 +3004,7 @@ routing = 2
 2, huqraedu.com
 2, hurriedly18.com
 2, huwgjgf.icu
+2, hv7w3au49.com
 2, hvqyf.cn
 2, hwrzdbokzdttry.com
 2, hxbt.alading123.com
@@ -3058,6 +3062,7 @@ routing = 2
 2, ibjsaz5v4.com
 2, ibns3ibgf.com
 2, ibqh.cn
+2, ibwm5lynb6.com
 2, ichc1.xinglinpukang.com
 2, ichfzso7f.com
 2, idavmk1276.com
@@ -3068,6 +3073,7 @@ routing = 2
 2, idzdsbanio.com
 2, ieubws.icu
 2, if8hhbrk4.com
+2, ifb33zuqc.com
 2, ifeng.com
 2, ifengimg.com
 2, ifkyco.icu
@@ -3081,6 +3087,7 @@ routing = 2
 2, iiahutvaa.com
 2, ijxi.cn
 2, iklparx8i.com
+2, ikr42qvlg.com
 2, ikronzealu.com
 2, ikstatic.cn
 2, ikuailian.com
@@ -3245,6 +3252,7 @@ routing = 2
 2, jbdch1.appmobile.cn
 2, jbiwvt6x1e.com
 2, jbriyba0f.com
+2, jbsy20riz9.com
 2, jbw4kkuf2y.com
 2, jc1.dayfund.com.cn
 2, jc7t7it24.com
@@ -3561,6 +3569,7 @@ routing = 2
 2, ldbwxo.cn
 2, lddvxfmswnnxny.com
 2, ldmnq.com
+2, ldphrdhawfxhvc.com
 2, ldyqwzfmd.com
 2, le4le.com
 2, leabd.douguo.com
@@ -4505,6 +4514,7 @@ routing = 2
 2, purpose36.com
 2, pusherblight.com
 2, putmtmkfjbitxzlhijfc.top
+2, pututzdgwybrha.com
 2, pv.dakawm.cc
 2, pv.sohu.com
 2, pv4b.com
@@ -4526,6 +4536,7 @@ routing = 2
 2, pybmulveaz.com
 2, pyntbz.icu
 2, pyonbrj41b.com
+2, pyramid48.com
 2, pyrfpb.icu
 2, pz0d6zc6n.com
 2, pzkkot4kn.com
@@ -4569,6 +4580,7 @@ routing = 2
 2, qenb2pxx.xyz
 2, qezkdby1jj.com
 2, qf51ho9qtz.com
+2, qfc4ac1f6.com
 2, qfwhko.icu
 2, qgckb3ov46.com
 2, qgreedreau.com
@@ -4798,8 +4810,10 @@ routing = 2
 2, rpjjpm.site
 2, rpox.cn
 2, rpvkpz.icu
+2, rqilioakof.icu
 2, rrpaafci9i.com
 2, rrsxes4oy.com
+2, rrxzhpheqaprva.com
 2, rsfzjtdmbmxdfq.com
 2, rstdfyerm.icu
 2, rstqbtoqrxbvpk.com
@@ -6502,6 +6516,7 @@ routing = 2
 2, zq7fe47jh.com
 2, zqmhl8lgj.com
 2, zqqwr9snx1.com
+2, zqtdgsgkib.icu
 2, zqy0jcfipu.com
 2, zrgnoey.icu
 2, zrjr81na94.com
