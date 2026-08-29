@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6589
+# RULES: 6598
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -64,6 +64,7 @@ routing = 2
 2, 0sg1gx04is.com
 2, 0tc1bdbgsm.com
 2, 0tkwnl1cw.com
+2, 0u9w05cxo.com
 2, 0v0qj9fnwf.top
 2, 0vllsf2g2.com
 2, 0wk6gdkg8r.com
@@ -380,6 +381,7 @@ routing = 2
 2, 3hg6yh6h0.com
 2, 3hrv7yijx.com
 2, 3hx1ui2vt.com
+2, 3i22axdek.com
 2, 3i3w8hl6do.com
 2, 3ikcnjvsx.com
 2, 3is34bpqs4.com
@@ -864,6 +866,7 @@ routing = 2
 2, 9gau3j8x7.com
 2, 9ge9rc85r.com
 2, 9h3s1ew2qn.com
+2, 9h4lchgwh.com
 2, 9i5x05ovp7.com
 2, 9j9gc694o4.com
 2, 9jk7puqza.com
@@ -1592,6 +1595,7 @@ routing = 2
 2, by.dyq.cn
 2, by2lc7429r.com
 2, byirzeamuu.com
+2, byjhazenf.com
 2, byscy.cn
 2, byspvudwx.com
 2, bytytxkz.icu
@@ -2327,6 +2331,7 @@ routing = 2
 2, ezcl19vy10.com
 2, ezd6n7n4m7.com
 2, eztravude.com
+2, ezze0ct.com
 2, f0zvx9koy3.com
 2, f1.06ps.com
 2, f1.ichong123.com
@@ -2554,6 +2559,7 @@ routing = 2
 2, gb0143odqh.com
 2, gb3scpejq.com
 2, gbiltuj8w.com
+2, gcgcvbr52.com
 2, gchk5bcnaz.com
 2, gcjg3ry7m.com
 2, gd.189.cn
@@ -2968,6 +2974,7 @@ routing = 2
 2, hnyishidengbao.com
 2, hoamt60fa.com
 2, hohmanrtit.com
+2, hokkid5.com
 2, holmesmind.com
 2, hoopchina.com.cn
 2, horribletrainer.com
@@ -3729,6 +3736,7 @@ routing = 2
 2, lyo1dkdbp.com
 2, lyz.radio366.com
 2, lzdjxp.icu
+2, lzu1ocasf.com
 2, m.91heima.cn
 2, m.aty.sohu.com
 2, m.bjdcfy.net
@@ -5793,6 +5801,7 @@ routing = 2
 2, w766ewvx75.com
 2, w7gx7y9wk.com
 2, w97nv5ibv4.com
+2, w9cvyte89.com
 2, w9p70nort.com
 2, wa9dald544.com
 2, wacogzaeip.com
