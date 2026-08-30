@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6598
+# RULES: 6611
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -359,6 +359,7 @@ routing = 2
 2, 360640.com
 2, 360buyimg.com
 2, 360doc.com
+2, 36frocopxp.com
 2, 3798.com
 2, 37lwjdaua.com
 2, 37nu0riwfd.com
@@ -505,6 +506,7 @@ routing = 2
 2, 558158.xyz
 2, 56gwxudcy1.com
 2, 56img.com
+2, 56l9o1j3lk.com
 2, 56wj96l0x.com
 2, 57573zubo36833.com
 2, 57577.live
@@ -802,6 +804,7 @@ routing = 2
 2, 8tbllquzr6.com
 2, 8uuxq3tvn.com
 2, 8w6hovz0d2.com
+2, 8w76hjp1vd.com
 2, 8wvb8xoqgq.com
 2, 8x14khzwmi.com
 2, 8x5vviy4r2.com
@@ -1336,6 +1339,7 @@ routing = 2
 2, basically97.top
 2, bastion1.top
 2, bauddoih.com
+2, bb2k0pq1vf.com
 2, bbepv.com
 2, bbqy4ihvz9.com
 2, bbrav96ax.com
@@ -1803,6 +1807,7 @@ routing = 2
 2, contagion77.com
 2, contemplate23.top
 2, contrive73.top
+2, convergent16.top
 2, conyz.cn
 2, cos1999.top
 2, cosiskkm.com
@@ -2332,6 +2337,7 @@ routing = 2
 2, ezd6n7n4m7.com
 2, eztravude.com
 2, ezze0ct.com
+2, f0cmqjk.com
 2, f0zvx9koy3.com
 2, f1.06ps.com
 2, f1.ichong123.com
@@ -2409,6 +2415,7 @@ routing = 2
 2, fhgaikrolq.com
 2, fhnahnad.com
 2, fhovoldaw.com
+2, fi0e0xtinp.com
 2, fidruqwny.com
 2, fih3r.com
 2, fijipic.xyz
@@ -3073,6 +3080,7 @@ routing = 2
 2, iap2e750o.com
 2, iask.cn
 2, iauw.cn
+2, ib5s02kbxy.com
 2, ibjsaz5v4.com
 2, ibns3ibgf.com
 2, ibqh.cn
@@ -3249,6 +3257,7 @@ routing = 2
 2, j5sgdum5n4.com
 2, j694fx3bp.com
 2, j6gi9jgjpb.com
+2, j7kuo30qtn.com
 2, j7kv55pr70.com
 2, j85izots6.com
 2, j8n60aooj.com
@@ -3733,6 +3742,7 @@ routing = 2
 2, lyfdrh.icu
 2, lyjq9gwob.com
 2, lyk35otqfm.com
+2, lymxj.com
 2, lyo1dkdbp.com
 2, lyz.radio366.com
 2, lzdjxp.icu
@@ -4285,6 +4295,7 @@ routing = 2
 2, operetta17.com
 2, opev2lhm7h.com
 2, opg4g472vl.com
+2, opinicl.com
 2, opposite33.com
 2, opposite36.top
 2, opzphurkro.com
@@ -5272,6 +5283,7 @@ routing = 2
 2, tp4d21qek.com
 2, tphurqalq.com
 2, tpjhxbwkvjjvtq.com
+2, tqbjevhkgw.icu
 2, tqub.cn
 2, trafficjam.cn
 2, trammel46.top
@@ -5454,6 +5466,7 @@ routing = 2
 2, ufxs.cn
 2, ug4x1tagz.com
 2, ug54oqjpqq.com
+2, ug6zg26aq8.com
 2, ugheqrikui.com
 2, ugox.cn
 2, uhek.cn

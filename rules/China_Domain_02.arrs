@@ -1,35 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11297
+# RULES: 11273
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xm9.co
-2, xm909.com
-2, xm9m.com
-2, xmac.app
-2, xmafkj.com
-2, xmaibu.com
-2, xmalaya.com
-2, xmamiga.com
-2, xmanblog.net
-2, xmasg.com
-2, xmayitxt.com
-2, xmbankonline.com
-2, xmbhw.com
-2, xmbike.com
-2, xmbus.com
-2, xmccb.com
-2, xmcdn.com
-2, xmchong.com
-2, xmcimg.com
-2, xmcord.com
-2, xmcp.ltd
-2, xmcwh.com
-2, xmcx.net
-2, xmcy.com
-2, xmdh.com
 2, xmeasygo.com
 2, xmecard.com
 2, xmerak.com
@@ -510,7 +485,6 @@ routing = 1
 2, xresgrbw.com
 2, xrhhg.com
 2, xrichengapp.com
-2, xrjjk.com
 2, xrkapp.com
 2, xrkcdn.com
 2, xrlmold.com
@@ -927,6 +901,7 @@ routing = 1
 2, xuexigang.com
 2, xuexili.com
 2, xuexin365.com
+2, xuexiniu.com
 2, xuexinjiaoshi.com
 2, xuexito.com
 2, xuexitong.com
@@ -1094,6 +1069,7 @@ routing = 1
 2, xuyechem.com
 2, xuyi.net
 2, xuyongrongmei.com
+2, xuyuanyi.com
 2, xuyueswkj.com
 2, xuyunjt.com
 2, xuzai.com
@@ -1189,6 +1165,7 @@ routing = 1
 2, xxhrd.com
 2, xxinficity.com
 2, xxir.com
+2, xxjnjd.com
 2, xxjqgs.com
 2, xxjrjxc.com
 2, xxjzg.com
@@ -1547,6 +1524,7 @@ routing = 1
 2, xzlzf.com
 2, xznqcc.com
 2, xznqnews.com
+2, xzong.online
 2, xzoo.org
 2, xzpf110.com
 2, xzpm.com
@@ -1594,6 +1572,7 @@ routing = 1
 2, xzxxlcp.com
 2, xzyhealth.com
 2, xzynyy.com
+2, xzyseo.com
 2, xzzh.com
 2, xzzhbsq.com
 2, xzzhongye.com
@@ -2107,7 +2086,6 @@ routing = 1
 2, ybcxjd.com
 2, ybcxz.com
 2, ybdbz.com
-2, ybdlogistic.com
 2, ybe.net
 2, ybgkz.com
 2, ybgz.com
@@ -2372,6 +2350,7 @@ routing = 1
 2, ydtbl.com
 2, ydtnotary.com
 2, ydtqd.com
+2, ydtxisp.com
 2, yduav.com
 2, ydwatch.com
 2, ydwgame.net
@@ -2828,6 +2807,7 @@ routing = 1
 2, yibaixun.com
 2, yiban.io
 2, yiban1314.com
+2, yibanbianji.com
 2, yibaogao.com
 2, yibaojiankang.com
 2, yibaotech.com
@@ -3255,6 +3235,7 @@ routing = 1
 2, yingshe.com
 2, yingsheng.com
 2, yingshi-ai.com
+2, yingshi.dog
 2, yingshiyou.com
 2, yingso.fun
 2, yingsoft.com
@@ -3471,7 +3452,6 @@ routing = 1
 2, yiruituo.com
 2, yirujs.com
 2, yiruniot.com
-2, yiruwijojn1.com
 2, yiryi.com
 2, yisa.com
 2, yisanban.com
@@ -3784,7 +3764,6 @@ routing = 1
 2, ykccn.net
 2, ykcer.com
 2, ykclass.com
-2, ykcuqlt.com
 2, ykdgd.com
 2, ykelai.com
 2, ykfc.net
@@ -4005,6 +3984,7 @@ routing = 1
 2, ymxinke.com
 2, ymxinxi.com
 2, ymxlass.com
+2, ymy9.com
 2, ymyun.com
 2, ymyw.net
 2, ymyxsw.com
@@ -4243,7 +4223,6 @@ routing = 1
 2, yongnangroup.com
 2, yongootech.com
 2, yongqianbao.com
-2, yongqischool.net
 2, yongridt.com
 2, yongsheng-sl.com
 2, yongshenggroup.com
@@ -4662,6 +4641,7 @@ routing = 1
 2, youxishuo.com
 2, youxitexiao.com
 2, youxituoluo.com
+2, youxiuhr.com
 2, youxiuhui.com
 2, youxiwugui.com
 2, youxixinzhi.com
@@ -5025,7 +5005,6 @@ routing = 1
 2, yte1.com
 2, ytecn.com
 2, ytedi.com
-2, ytelc.com
 2, yteng.net
 2, ytesting.com
 2, ytf8888.com
@@ -5183,6 +5162,7 @@ routing = 1
 2, yuantest.com
 2, yuantiku.biz
 2, yuantiku.com
+2, yuantk.com
 2, yuantongyizhan.com
 2, yuantoushuo.com
 2, yuantu.info
@@ -5659,7 +5639,6 @@ routing = 1
 2, yunjifarm.com
 2, yunjiglobal.com
 2, yunjing720.com
-2, yunjingdian.net
 2, yunjinggo.com
 2, yunjinginc.com
 2, yunjitele.com
@@ -5713,7 +5692,6 @@ routing = 1
 2, yunpan.com
 2, yunpanx.com
 2, yunparking.cloud
-2, yunpay.cc
 2, yunpei.com
 2, yunpian.com
 2, yunpiao.net
@@ -6146,7 +6124,6 @@ routing = 1
 2, yxk120.com
 2, yxkjlcd.com
 2, yxkxyghx.org
-2, yxlaba.com
 2, yxlady.com
 2, yxlady.net
 2, yxle.net
@@ -7022,7 +6999,6 @@ routing = 1
 2, zeku.com
 2, zekv.com
 2, zelinai.com
-2, zemc.vip
 2, zemismart.com
 2, zen-est.com
 2, zencheer.com
@@ -7805,7 +7781,6 @@ routing = 1
 2, zhengcaimall.com
 2, zhengcaishangcheng.com
 2, zhengchang.com
-2, zhengdaijingji.com
 2, zhengdaojiapei.com
 2, zhengdapeanut.com
 2, zhengdichaiqian.com
@@ -8263,7 +8238,6 @@ routing = 1
 2, zhiyuanxinglvye.com
 2, zhiyuanyun.com
 2, zhiyuanzhongyi.com
-2, zhiyuapp.com
 2, zhiyun-cn.com
 2, zhiyun-tech.com
 2, zhiyunwang.net
@@ -8324,7 +8298,6 @@ routing = 1
 2, zhltech.net
 2, zhltraffic.com
 2, zhlyen.com
-2, zhlzw.com
 2, zhmag.com
 2, zhmedcenter.com
 2, zhmf.com
@@ -8957,6 +8930,7 @@ routing = 1
 2, zhyouliang.com
 2, zhyourun.com
 2, zhysdxl.com
+2, zhytstudio.com
 2, zhyymall.com
 2, zhyyz.com
 2, zhz.com
@@ -9931,6 +9905,7 @@ routing = 1
 2, zlkb.net
 2, zlketang.com
 2, zlkj20.com
+2, zllinks.com
 2, zlm4.com
 2, zlmlt.com
 2, zlnewlife.com
@@ -11080,6 +11055,7 @@ routing = 1
 2, zyxxlyg.com
 2, zyxyfy.com
 2, zyxzyyy.com
+2, zyyct.com
 2, zyydb.com
 2, zyydjk.net
 2, zyyfy.com
@@ -11229,7 +11205,6 @@ routing = 1
 2, zzsnewell.com
 2, zzspider.com
 2, zzsspnode.com
-2, zzssptop.com
 2, zzsteel.com
 2, zzstep.com
 2, zzszbsw.com
@@ -11291,6 +11266,7 @@ routing = 1
 2, zzzj.com
 2, zzzla.com
 2, zzzlsh.com
+2, zzzmap.com
 2, zzznkq.com
 2, zzzppp.com
 2, zzzqqp.com
