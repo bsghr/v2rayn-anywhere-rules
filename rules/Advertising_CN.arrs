@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6611
+# RULES: 6620
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -431,6 +431,7 @@ routing = 2
 2, 46q8oxohlt.com
 2, 46y7erj0mw.com
 2, 47c7zhqak.com
+2, 480ipil.com
 2, 48dswtxkw.com
 2, 48r3l2u5l2.com
 2, 49dlt9myv.com
@@ -1836,6 +1837,7 @@ routing = 2
 2, crirzaitai.com
 2, crjitvekbx.com
 2, cro541bud.com
+2, crossbar13.com
 2, cruhliip.com
 2, cruietoge.com
 2, crusher28.com
@@ -2514,6 +2516,7 @@ routing = 2
 2, fvk6k2jrdu.com
 2, fwbdfg5n6.com
 2, fwjtfo8f4z.com
+2, fwlkokvvkx.icu
 2, fwslpa9ks.com
 2, fwujkh7jw.com
 2, fwvzx907rr.com
@@ -3531,6 +3534,7 @@ routing = 2
 2, ksr6uu1mk.com
 2, kthul22k2z.com
 2, ktlztpx8f.com
+2, ku8d1fla8.com
 2, kuaizitech.com
 2, kugoucdn.com
 2, kuheju.com
@@ -3747,6 +3751,7 @@ routing = 2
 2, lyz.radio366.com
 2, lzdjxp.icu
 2, lzu1ocasf.com
+2, lzwdh6iwo.com
 2, m.91heima.cn
 2, m.aty.sohu.com
 2, m.bjdcfy.net
@@ -4714,6 +4719,7 @@ routing = 2
 2, r0eybo511.com
 2, r0hpdbkqs.com
 2, r1jprcr42.com
+2, r27y52dd7.com
 2, r40xff8q48.com
 2, r4uj20yt2u.com
 2, r4uws5iu3g.com
@@ -4760,6 +4766,7 @@ routing = 2
 2, redmx.cn
 2, redtvxjmgjbtlw.com
 2, reflection67.top
+2, refraction55.com
 2, register04.top
 2, registration09.top
 2, rehearsal55.top
@@ -5030,6 +5037,7 @@ routing = 2
 2, southmoney.com
 2, soy5c00zc.com
 2, sp.dnqc.com
+2, spanner44.com
 2, spatula91.com
 2, spatula93.top
 2, spcode.baidu.com
@@ -5110,6 +5118,7 @@ routing = 2
 2, svwo.cn
 2, svzkhal2zh.com
 2, swaw.cn
+2, swkqmcv.com
 2, swovtny444.com
 2, swqerog.com
 2, sx.fakjkwp.cn
