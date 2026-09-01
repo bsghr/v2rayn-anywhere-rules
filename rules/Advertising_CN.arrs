@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6620
+# RULES: 6633
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -634,6 +634,7 @@ routing = 2
 2, 6k2fehacp.com
 2, 6knlhnjfv.com
 2, 6kpudsordv.com
+2, 6lcb0f6wt.com
 2, 6lpm5zq6t3.com
 2, 6mdf9teiz.com
 2, 6mdgv1kmj.com
@@ -722,6 +723,7 @@ routing = 2
 2, 7na721c64.com
 2, 7nb71ub2xi.com
 2, 7p5ruxflv0.com
+2, 7pe17z68y.com
 2, 7q2701vx8e.com
 2, 7qkm33t55.com
 2, 7qxv9s5q16.com
@@ -892,6 +894,7 @@ routing = 2
 2, 9rkh7nbaj.com
 2, 9soefyenw.com
 2, 9swovqnp52.com
+2, 9tlfy3rrh.com
 2, 9txnu9rlmd.com
 2, 9v7sbm9zc.com
 2, 9vmbje748.com
@@ -1454,6 +1457,7 @@ routing = 2
 2, biuisz9ss.com
 2, biz.gexing.com
 2, bj9zvb5ih.com
+2, bjj02sf4c.com
 2, bjk08210ip.com
 2, bjk08211ip.com
 2, bjk08220ip.com
@@ -1534,6 +1538,7 @@ routing = 2
 2, btfclfeqc9.com
 2, btjsvl.icu
 2, btlgp4vze.com
+2, btm9uso7t.com
 2, btn.onlylady.com
 2, btn.pchome.net
 2, btreelmulq.com
@@ -2869,6 +2874,7 @@ routing = 2
 2, h8pc8w5twc.com
 2, h9806gjhz.com
 2, h9w02sx7t9.com
+2, hacksaw37.com
 2, hades.qyer.com
 2, hajolxtoruvvps.com
 2, handsaw46.com
@@ -3428,6 +3434,7 @@ routing = 2
 2, jynv.cn
 2, jywn7lkbdw.com
 2, k06kldksi3.com
+2, k0b9nwt6d.com
 2, k0jw6qzyh.com
 2, k0tdrkbhx.com
 2, k0winsnua2.com
@@ -3570,6 +3577,7 @@ routing = 2
 2, l5pv793tm.com
 2, l6906qxga.com
 2, l6h17ybxe.com
+2, l8opsdgim.com
 2, l9moubljmc.com
 2, l9qxrmda6.com
 2, lady177.com
@@ -4044,6 +4052,7 @@ routing = 2
 2, ndpfxnu.com
 2, necessitate22.com
 2, needle058.top
+2, nehpjdjqbafnvm.com
 2, nenlnl.icu
 2, nenodhezm.com
 2, neraenyqq.com
@@ -4141,7 +4150,6 @@ routing = 2
 2, nnuc.cn
 2, nnvx.cn
 2, no4k35w6zy.com
-2, norse.mingxiaow.com
 2, notlwkjg8.com
 2, novikanidf.com
 2, npgjij.cn
@@ -4307,6 +4315,7 @@ routing = 2
 2, oqcw1f9yw.com
 2, oqfy4va7a.com
 2, oqvodgp36.com
+2, or6p0f4i8.com
 2, oratorio77.com
 2, orbk.cn
 2, osuwwk.icu
@@ -4929,6 +4938,7 @@ routing = 2
 2, sa.sina.cn
 2, sa669.com
 2, sab5a4zz5.com
+2, saddlebag32.com
 2, sal5ab6uf.com
 2, salary.xiao84.com
 2, sales-frontier.com
@@ -5958,6 +5968,7 @@ routing = 2
 2, wwavo59q3.com
 2, www.dmhy.org
 2, www5.oss-cn-hangzhou.aliyuncs.com
+2, wx33a.com
 2, wx6hczwhh.com
 2, wxfdmri.xyz
 2, wxikfd89f.com
@@ -6007,6 +6018,7 @@ routing = 2
 2, xc.macd.cn
 2, xc.mydrivers.com
 2, xc5r5huxrr.com
+2, xcdacc.com
 2, xcf-bd-js.chuimg.com
 2, xciryzdnl.com
 2, xclikgrueb.com
@@ -6174,6 +6186,7 @@ routing = 2
 2, xv62yli8iz.com
 2, xvbwjd.icu
 2, xvhttu3c9.com
+2, xwafyzovqu.icu
 2, xwdsp.com
 2, xxffo.com
 2, xxhfuaek.icu
