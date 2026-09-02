@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6641
+# RULES: 6643
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -801,6 +801,7 @@ routing = 2
 2, 8p14q886v2.com
 2, 8p814q01np.com
 2, 8pbiddjtp.com
+2, 8poz7uwoho.com
 2, 8proe3xx6.com
 2, 8qfqhat9d.com
 2, 8rht5welv5.com
@@ -4030,6 +4031,7 @@ routing = 2
 2, n6pwo7whs2.com
 2, n7181.com
 2, n7fyrdeen.com
+2, n7hnij4fah.com
 2, n8bpikx1mt.com
 2, n8g1kvtmrf.com
 2, n906n29tm.com
