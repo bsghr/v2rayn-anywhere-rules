@@ -1,104 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11194
+# RULES: 11096
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xmrbi.com
-2, xmrdtx.com
-2, xmruanci.com
-2, xmruiyou.com
-2, xmseaview.com
-2, xmseeyouyima.com
-2, xmsgame.com
-2, xmsixian.com
-2, xmsiyb.com
-2, xmsj.org
-2, xmsme.com
-2, xmsmjk.com
-2, xmsoft.com
-2, xmsouhu.com
-2, xmsoushu.com
-2, xmspace.net
-2, xmssie.com
-2, xmsssyy.com
-2, xmsumi.com
-2, xmsuperlite.com
-2, xmswim.com
-2, xmtbang.com
-2, xmtcm.com
-2, xmtyy.net
-2, xmuli.tech
-2, xmwan.com
-2, xmwes.com
-2, xmwsrc.com
-2, xmx023.com
-2, xmxc.com
-2, xmxdev.com
-2, xmxfxh.com
-2, xmxgame.com
-2, xmxsapp.com
-2, xmxwl.net
-2, xmxwz.com
-2, xmyeditor.com
-2, xmylhy.com
-2, xmyouma.com
-2, xmyzm.com
-2, xmzangao.com
-2, xmzdls.com
-2, xmzgxcl.com
-2, xmzhdz.com
-2, xmzhkt.com
-2, xmzjjl.com
-2, xmzmmr.com
-2, xmzs.org
-2, xmzsyg.site
-2, xmzyark.com
-2, xmzzy.net
-2, xn--0lqwsu2w.com
-2, xn--1bs9ye16ez8b.com
-2, xn--1ctq05bvu1a.com
-2, xn--1d3a16a.com
-2, xn--1lqq7i4w0acli.com
-2, xn--1qqw23a
-2, xn--2cyr99a.com
-2, xn--2quu5hi8e69p.com
-2, xn--2vra6db.com
-2, xn--2vxsp6vi4j.com
-2, xn--3bs35yfl6bn8a.ink
-2, xn--3bs70igqdr64f.com
-2, xn--3bs781ecijtrt.com
-2, xn--3bsp13hurlcwb.com
-2, xn--3bst00m
-2, xn--3bsx54la62v.com
-2, xn--3bsz0pskmp89skv3a0zd724b1py.net
-2, xn--3ds443g
-2, xn--48s50dpwnbh95ah07i.com
-2, xn--4gq0d69oba129b9wd94ey8bs83ji3c3q7hoka.org
-2, xn--4gq1d760bszbgdv5p12rhq5bx2yc.net
-2, xn--4lwr21d.com
-2, xn--4qwqc04pn0lg9h.com
-2, xn--4xup5j.com
-2, xn--54q249denfzw9a.net
-2, xn--54q40czz0g7xp.com
-2, xn--54qu66awkkshgsf475q.com
-2, xn--55qw42g
-2, xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
-2, xn--55qx2ag79c1iq.com
-2, xn--55qx5d
-2, xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
-2, xn--5kv317c.com
-2, xn--5tzm5g
-2, xn--65qy41j.com
-2, xn--6fr40zm5ai2go3cnse89dtttbrb.com
-2, xn--6frz82g
-2, xn--6kr66fp2ep1ac5edz2hy7s2wq.com
-2, xn--6krw3qs7jl59b.com
-2, xn--6oq83hzb922dnorwsomx9dzkb.com
-2, xn--6qq986b3xl
-2, xn--6qqp94buie2ss.com
-2, xn--6rtq6phwfhva.com
 2, xn--6xv710dola.net
 2, xn--730-l44eu9iitvv9h.com
 2, xn--7mqy6dj0brts55e.com
@@ -4346,7 +4252,6 @@ routing = 1
 2, youked.com
 2, youkeda.com
 2, youkego.com
-2, youkexueyuan.com
 2, youkia.com
 2, youkia.net
 2, youking.com
@@ -5365,7 +5270,6 @@ routing = 1
 2, yulinhuaran.com
 2, yulinjue.com
 2, yulinqj.com
-2, yulins.com
 2, yulinshidefu.com
 2, yulinyw.com
 2, yuliqx.com
@@ -6251,7 +6155,6 @@ routing = 1
 2, yyzqta.com
 2, yyzqtb.com
 2, yyzsoft.com
-2, yyzxcj.com
 2, yyzzqk.com
 2, yyzzsem.com
 2, yz-iot.com
@@ -6611,7 +6514,6 @@ routing = 1
 2, zbcars.com
 2, zbchem.com
 2, zbcyrq.com
-2, zbczce.com
 2, zbdedu.com
 2, zbdzy.com
 2, zbgarden.cc
@@ -10743,6 +10645,7 @@ routing = 1
 2, zxblinux.com
 2, zxbook.net
 2, zxbzr.com
+2, zxc123zxc123.xyz
 2, zxchemgroup.com
 2, zxcmk.com
 2, zxcoder.com
@@ -10992,7 +10895,6 @@ routing = 1
 2, zz-invest.com
 2, zz.ci
 2, zz123456789.xyz
-2, zz2024.com
 2, zz2z.com
 2, zz314.com
 2, zz34.com
