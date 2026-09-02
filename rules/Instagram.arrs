@@ -1,0 +1,81 @@
+# NAME: Instagram
+# GENERATED-FOR: Anywhere Routing Rule Set
+# RULES: 74
+# SOURCE: Loyalsoldier/v2ray-rules-dat
+
+name = Instagram
+routing = 1
+2, achat-followers-instagram.com
+2, acheter-followers-instagram.com
+2, acheterdesfollowersinstagram.com
+2, acheterfollowersinstagram.com
+2, bookstagram.com
+2, carstagram.com
+2, cdninstagram.com
+2, chickstagram.com
+2, graph-fallback.instagram.com
+2, graph.instagram.com
+2, ig.me
+2, igcdn.com
+2, igsonar.com
+2, igtv.com
+2, imstagram.com
+2, imtagram.com
+2, instaadder.com
+2, instachecker.com
+2, instafallow.com
+2, instafollower.com
+2, instagainer.com
+2, instagda.com
+2, instagify.com
+2, instagmania.com
+2, instagor.com
+2, instagram-brand.com
+2, instagram-engineering.com
+2, instagram-help.com
+2, instagram-press.com
+2, instagram-press.net
+2, instagram.com
+2, instagramci.com
+2, instagramcn.com
+2, instagramdi.com
+2, instagramhashtags.net
+2, instagramhilecim.com
+2, instagramhilesi.org
+2, instagramium.com
+2, instagramizlenme.com
+2, instagramkusu.com
+2, instagramlogin.com
+2, instagramm.com
+2, instagramn.com
+2, instagrampartners.com
+2, instagramphoto.com
+2, instagramq.com
+2, instagramsepeti.com
+2, instagramtakipcisatinal.net
+2, instagramtakiphilesi.com
+2, instagramtips.com
+2, instagramtr.com
+2, instagran.com
+2, instagranm.com
+2, instagrem.com
+2, instagrm.com
+2, instagtram.com
+2, instagy.com
+2, instamgram.com
+2, instangram.com
+2, instanttelegram.com
+2, instaplayer.net
+2, instastyle.tv
+2, instgram.com
+2, intagram.com
+2, intagrm.com
+2, intgram.com
+2, kingstagram.com
+2, lnstagram-help.com
+2, oninstagram.com
+2, online-instagram.com
+2, onlineinstagram.com
+2, theinstagramhack.com
+2, web-instagram.net
+2, wwwinstagram.com
