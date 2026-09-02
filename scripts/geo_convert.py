@@ -634,6 +634,21 @@ def main():
             "Apple",
             1
         ),
+
+        "meta": (
+            "Meta",
+            1
+        ),
+
+        "instagram": (
+            "Instagram",
+            1
+        ),
+
+        "facebook": (
+            "Facebook",
+            1
+        ),
         
         "category-ads-all": (
             "Advertising",
