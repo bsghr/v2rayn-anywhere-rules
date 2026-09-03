@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6643
+# RULES: 6658
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -54,6 +54,7 @@ routing = 2
 2, 0l7t5qhb4.com
 2, 0lai5bvkg.com
 2, 0m9mjmrd.top
+2, 0mkeb9vth.com
 2, 0nyzdw2maq.com
 2, 0oi1ej7mo.com
 2, 0oo9j37xp.com
@@ -585,6 +586,7 @@ routing = 2
 2, 5yqi3kg1g.com
 2, 5zxkdat6t8.com
 2, 600g3yf2p.com
+2, 605abezk8.com
 2, 609999.xyz
 2, 614514.com
 2, 61fjluqray.com
@@ -1640,6 +1642,7 @@ routing = 2
 2, c1.czcol.cn
 2, c114.com.cn
 2, c1qm3mg41.com
+2, c2vodqlmy.com
 2, c2y82fkyv.com
 2, c3mldou51.com
 2, c3q6l5oeq.com
@@ -1860,6 +1863,7 @@ routing = 2
 2, cspb1.5w5w.com
 2, css.juqingba.cn
 2, css.zmjm.com
+2, cszpra.com
 2, ctc.weather.com.cn
 2, ctdv3faci.com
 2, ctirhpp.com
@@ -2298,6 +2302,7 @@ routing = 2
 2, entrance79.top
 2, entrepreneurs46.com
 2, envision75.com
+2, enwwlcrxi.com
 2, enzf.cn
 2, eo2eaqg5no.com
 2, epalepnn55.com
@@ -2509,6 +2514,7 @@ routing = 2
 2, fsnazsmk.icu
 2, fsu1cg19c.com
 2, fsuooh.cc
+2, fsxqfjkg.com
 2, ftqn9wedv.com
 2, ftrfnx.icu
 2, ftrgpdecexhzto.com
@@ -3487,6 +3493,7 @@ routing = 2
 2, kefeng56.com
 2, kegll5mwl2.com
 2, kekenet.com
+2, kelv47.xyz
 2, keyboard88.top
 2, kf4kwomxhl.com
 2, kfa9grestp.com
@@ -4465,6 +4472,7 @@ routing = 2
 2, pimuedrozt.com
 2, pin6d37stu.com
 2, pincai.com
+2, pincers55.com
 2, pipette22.top
 2, piplnlkmoandbq.com
 2, pitaltoid.com
@@ -4785,6 +4793,7 @@ routing = 2
 2, redmx.cn
 2, redtvxjmgjbtlw.com
 2, reflection67.top
+2, reflector19.com
 2, refraction55.com
 2, register04.top
 2, registration09.top
@@ -4899,6 +4908,7 @@ routing = 2
 2, rxi8jcy0aq.com
 2, rxys.cn
 2, rxzefz.icu
+2, rxzfhfmoegfvts.com
 2, ry7icaih0p.com
 2, ryd626moj.com
 2, rypebb.icu
@@ -5027,6 +5037,7 @@ routing = 2
 2, skads.gxsky.com
 2, skirmish33.top
 2, sky.dunsuan.com
+2, sl2qzbsn5.com
 2, sledgehammer09.com
 2, sm-cloud.yunsafe.top
 2, sm2ralisg.com
@@ -5307,6 +5318,7 @@ routing = 2
 2, torrent25.com
 2, touimg.com
 2, tovbus.cn
+2, towm85.xyz
 2, tp.sgcn.com
 2, tp.suppercacheimages.top
 2, tp4d21qek.com
@@ -5507,6 +5519,7 @@ routing = 2
 2, uiqyuydt9t.com
 2, uj08lr3rv.com
 2, uj2h8xm8w.com
+2, uj6i2bo3o.com
 2, ujfyzxfc01.com
 2, ujhu.cn
 2, ujj1ndg5i.com
@@ -5878,6 +5891,7 @@ routing = 2
 2, webkaka.com
 2, wefk2dgegr.com
 2, weh5lofraa.com
+2, weiakbtck.com
 2, weidianyuedu.com
 2, wenhua.jiaoshou.com
 2, wenkuxiazai.com
@@ -6512,6 +6526,7 @@ routing = 2
 2, zh4qnnf63.com
 2, zhangyuyidong.cn
 2, zhanlangcdnimg.top
+2, zhifupaypay.com
 2, zhihu.xmcimg.com
 2, zhimg.com
 2, zhjqtd.icu

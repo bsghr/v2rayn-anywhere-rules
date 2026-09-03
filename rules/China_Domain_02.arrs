@@ -1,32 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11096
+# RULES: 11074
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xn--6xv710dola.net
-2, xn--730-l44eu9iitvv9h.com
-2, xn--7mqy6dj0brts55e.com
-2, xn--7qvz7xssa.com
-2, xn--88-9s0f59z.com
-2, xn--8ou124e6ek.net
-2, xn--8owq8u.com
-2, xn--8stx8olrwkucjq3b.com
-2, xn--8y0a063a
-2, xn--91-y60d638c.xyz
-2, xn--9et52u
-2, xn--9kr72kqwe.com
-2, xn--9krt00a
-2, xn--9myo55bi8l.com
-2, xn--9pr56vfna007k.com
-2, xn--9pry86bq5ex68c.org
-2, xn--b0t462i.com
-2, xn--b0tp7p3met2a.com
-2, xn--b0tp7p3met2a.net
-2, xn--bjq584at06c.shop
-2, xn--btvs3aw8fhtbms310k.com
-2, xn--btvu9x9qgt8c.com
 2, xn--bxyy83e.net
 2, xn--cesw6hd3s99f.com
 2, xn--cesx3oukw29l.com
@@ -2164,6 +2142,7 @@ routing = 1
 2, ydjwy.net
 2, ydjy.net
 2, ydkj2019.com
+2, ydkkej.com
 2, ydl-sh.com
 2, ydl.com
 2, ydlcdn.com
@@ -3944,7 +3923,6 @@ routing = 1
 2, ynztrq.com
 2, ynztzh.com
 2, ynzy-tobacco.com
-2, ynzzwl.com
 2, yo4399.com
 2, yoagoa.com
 2, yobo.ink
