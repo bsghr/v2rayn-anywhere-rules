@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6658
+# RULES: 6666
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -70,6 +70,7 @@ routing = 2
 2, 0vllsf2g2.com
 2, 0wk6gdkg8r.com
 2, 0wpfe0duo.com
+2, 0x79jjyph7.com
 2, 0xr7ii3df.com
 2, 0xzxwnkqdu.com
 2, 0yfqg4qm0.com
@@ -1277,6 +1278,7 @@ routing = 2
 2, avivid.likr.tw
 2, avividone.likr.tw$third-party
 2, avpr.cn
+2, avqb7vrufi.com
 2, avspda.xyz
 2, awcecrod.com
 2, awh3vupyf.com
@@ -1840,6 +1842,7 @@ routing = 2
 2, cpvx.cn
 2, cpxzyul.com
 2, cq2f5kn85c.top
+2, cq5nsp7kya.com
 2, cqoqpcc.icu
 2, cqudya.icu
 2, crandrad.com
@@ -2968,6 +2971,7 @@ routing = 2
 2, hizechizr.com
 2, hjjwxb.icu
 2, hjkhxfh.360doc.cn
+2, hjlra23r7r.com
 2, hkitblog.com
 2, hkplzozwl.com
 2, hl.dyq.cn
@@ -3976,6 +3980,7 @@ routing = 2
 2, mtmkfjbitxzlhijfcenx.top
 2, mtmvrulutr.com
 2, mttpsy6666.cc
+2, mudguard68.com
 2, mukkoiigam.com
 2, multiple46.top
 2, multiplication29.top
@@ -4407,6 +4412,7 @@ routing = 2
 2, patriotic66.top
 2, pavdiibdvr.com
 2, pavwrr.icu
+2, pavxtxikkjrdfy.com
 2, pb.shuxigua.com
 2, pb1b7cqwvs.com
 2, pblwxn.icu
@@ -6004,6 +6010,7 @@ routing = 2
 2, wy7btl038.com
 2, wydk6zdk2.com
 2, wyfjagda.top
+2, wylct1tjdf.com
 2, wyqqanziid.com
 2, wyzq.rehuwang.com
 2, wzehmoil.com
@@ -6027,6 +6034,7 @@ routing = 2
 2, x4hu95mh0t.com
 2, x6d93mku0.com
 2, x6img.com
+2, x6kd8l204b.com
 2, x6u6kw4sg.com
 2, x7qhjjryf1.com
 2, x7weiubb2f.com
