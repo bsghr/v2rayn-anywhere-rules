@@ -1,10 +1,28 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11074
+# RULES: 11095
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
+2, xn--88-9s0f59z.com
+2, xn--8ou124e6ek.net
+2, xn--8owq8u.com
+2, xn--8stx8olrwkucjq3b.com
+2, xn--8y0a063a
+2, xn--91-y60d638c.xyz
+2, xn--9et52u
+2, xn--9kr72kqwe.com
+2, xn--9krt00a
+2, xn--9myo55bi8l.com
+2, xn--9pr56vfna007k.com
+2, xn--9pry86bq5ex68c.org
+2, xn--b0t462i.com
+2, xn--b0tp7p3met2a.com
+2, xn--b0tp7p3met2a.net
+2, xn--bjq584at06c.shop
+2, xn--btvs3aw8fhtbms310k.com
+2, xn--btvu9x9qgt8c.com
 2, xn--bxyy83e.net
 2, xn--cesw6hd3s99f.com
 2, xn--cesx3oukw29l.com
@@ -3122,6 +3140,7 @@ routing = 1
 2, yinjiabio.com
 2, yinjispace.com
 2, yinka.co
+2, yinkead.com
 2, yinlimedia.com
 2, yinlingshuyuan.com
 2, yinlvaa.com
@@ -6638,6 +6657,7 @@ routing = 1
 2, zcosz.com
 2, zcowh.com
 2, zcpc.net
+2, zcpin.com
 2, zcpm.net
 2, zcpzj.com
 2, zcqh.com
@@ -10937,6 +10957,7 @@ routing = 1
 2, zzhybz.com
 2, zzicpa.com
 2, zzidc.com
+2, zzimti.com
 2, zzjdgcxx.com
 2, zzjianyun.com
 2, zzjidi.com

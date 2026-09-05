@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6666
+# RULES: 6676
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -540,6 +540,7 @@ routing = 2
 2, 5e2hf0q3a.com
 2, 5edf1d2qv.com
 2, 5edrgrnqg.com
+2, 5enhjla7z.com
 2, 5eyal1g5a9.com
 2, 5f1qyi04vz.com
 2, 5gg466kzv.com
@@ -1023,6 +1024,7 @@ routing = 2
 2, aaxggkj.com
 2, ab.cnbanbao.com
 2, ab.rejushe.com
+2, ab1bhie0c.com
 2, ab3de9.gamersky.com
 2, ab41q03rvf.com
 2, abalone46.com
@@ -2217,6 +2219,7 @@ routing = 2
 2, e81j0an3d.com
 2, e90m7tos2.com
 2, e9377f.com
+2, e9zrvermi.com
 2, ea5s00h6oo.com
 2, eagb.cn
 2, eap.big5.enorth.com.cn
@@ -3342,6 +3345,7 @@ routing = 2
 2, jinanrqz.com
 2, jinti.com
 2, jisk.cn
+2, jiz4pa4hu.com
 2, jj5zwmzcze.com
 2, jjl4eob8mm.com
 2, jjnyzeck.icu
@@ -3438,6 +3442,7 @@ routing = 2
 2, jwxwvjsoadjlze.com
 2, jxad.jx163.com
 2, jxal.cn
+2, jxdbvmmau.com
 2, jxdown.com
 2, jxnews.com.cn
 2, jxnwbnxslrjvds.com
@@ -4179,6 +4184,7 @@ routing = 2
 2, npzc1yzag7.com
 2, npzjrlkmmjjtxe.com
 2, nq49x3m8g.com
+2, nqrsdhemqmfdry.com
 2, nqwgvk.cn
 2, nrfvq6g98.com
 2, nslfhb.icu
@@ -4905,6 +4911,7 @@ routing = 2
 2, rvr3psha.xyz
 2, rvrl1srlq.com
 2, rw56y62bgg.com
+2, rwilwcovop.icu
 2, rwtezd.icu
 2, rwtraqur.com
 2, rwtzv9ehv.com
@@ -5045,6 +5052,7 @@ routing = 2
 2, sky.dunsuan.com
 2, sl2qzbsn5.com
 2, sledgehammer09.com
+2, slz99md2o.com
 2, sm-cloud.yunsafe.top
 2, sm2ralisg.com
 2, smkqwa.icu
@@ -5255,6 +5263,7 @@ routing = 2
 2, thralgrean.com
 2, thricroiw.com
 2, throlnod.com
+2, thuk8hg48.com
 2, thumbb86.com
 2, thvptb.icu
 2, ti1nmd09a.com
@@ -5971,6 +5980,7 @@ routing = 2
 2, wrdo8dl9bb.com
 2, wres.cn
 2, wrestle22.top
+2, wrksb2gt0.com
 2, wrlhhgeyh.com
 2, ws.wenshenxiu.com
 2, ws9jdpz802.com
