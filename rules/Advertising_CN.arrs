@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6683
+# RULES: 6694
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -62,6 +62,7 @@ routing = 2
 2, 0qxfxqif0.com
 2, 0rvv7l6k7g.com
 2, 0s1wclct6.com
+2, 0s5qb3rfz.com
 2, 0sg1gx04is.com
 2, 0tc1bdbgsm.com
 2, 0tkwnl1cw.com
@@ -562,6 +563,7 @@ routing = 2
 2, 5lz3u8s5uq.com
 2, 5mm.zxfw5.cn
 2, 5mn041cdz.com
+2, 5ntq14y5y.com
 2, 5odd5zsn.xyz
 2, 5p35xkp1p.com
 2, 5qjspf2c.xyz
@@ -682,6 +684,7 @@ routing = 2
 2, 732quilulv.com
 2, 73336zubo25326.com
 2, 73vzmvg2bi.com
+2, 743w3z7pv.com
 2, 75b9dfiyb.com
 2, 75g4iplzyv.com
 2, 75ossyemu.com
@@ -800,6 +803,7 @@ routing = 2
 2, 8k69vb6421.com
 2, 8k9ynfczfd.com
 2, 8khgnlxk6.com
+2, 8lj6g9gz4.com
 2, 8lmggang9.com
 2, 8o5v23yip.com
 2, 8oghu1wcau.com
@@ -1929,6 +1933,7 @@ routing = 2
 2, d37d9zbli5ytch.cloudfront.net
 2, d3d7a0q05k6bvz.cloudfront.net
 2, d3iih5w7xp5hdg.cloudfront.net
+2, d3q5v0ai8.com
 2, d3s9in1sg.com
 2, d4.sina.com.cn
 2, d48paxyhx.com
@@ -2942,6 +2947,7 @@ routing = 2
 2, hebaidu.cc
 2, hecwgmokvc.com
 2, heiw99ovji.com
+2, heky0uxng.com
 2, hellocenter.xyz
 2, henghost.com
 2, heoddikvdm.com
@@ -3459,6 +3465,7 @@ routing = 2
 2, jynv.cn
 2, jywn7lkbdw.com
 2, k06kldksi3.com
+2, k08tn5uk9.com
 2, k0b9nwt6d.com
 2, k0jw6qzyh.com
 2, k0tdrkbhx.com
@@ -4875,6 +4882,7 @@ routing = 2
 2, rmfbrz.icu
 2, rmhfrtnd.com
 2, rmt827wgr.com
+2, rn221.xyz
 2, rn30y7u7h.com
 2, rndmlk8asw.com
 2, rnikvuneo.com
@@ -4918,6 +4926,7 @@ routing = 2
 2, rvrl1srlq.com
 2, rw56y62bgg.com
 2, rwilwcovop.icu
+2, rwjfbjhktsftpe.com
 2, rwtezd.icu
 2, rwtraqur.com
 2, rwtzv9ehv.com
@@ -5921,6 +5930,7 @@ routing = 2
 2, wenxue.youzhicn.com
 2, wew.dushiwenxue.net
 2, wew56nanuc.com
+2, wewubuwgz.com
 2, wftihvn.xyz
 2, wfvs.cn
 2, wfwadedzk.com
@@ -6563,6 +6573,7 @@ routing = 2
 2, zhwzsym.top
 2, zhy333.com
 2, ziajretrs.com
+2, zig1te84n.com
 2, zigq.cn
 2, zihqjf.icu
 2, zinoe.cn
