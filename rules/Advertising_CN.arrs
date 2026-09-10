@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6714
+# RULES: 6723
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -797,6 +797,7 @@ routing = 2
 2, 8g2a7mifv.com
 2, 8gptk28oag.com
 2, 8h6oiw0uo.com
+2, 8h6whvlpnz.com
 2, 8h7j79qxm.com
 2, 8h93.com
 2, 8hx7k0211.com
@@ -3498,6 +3499,7 @@ routing = 2
 2, k99.cc
 2, k9egtgh8v.com
 2, k9zxbudgix.com
+2, kab201k0xs.com
 2, kaboodle49.com
 2, kacq.cn
 2, kagxyvk.com
@@ -3829,6 +3831,7 @@ routing = 2
 2, m2.lelemh.com
 2, m292dfq9c.com
 2, m2wrsmrsbj.com
+2, m30bh0coz2.com
 2, m3cqjc3og6.com
 2, m3j1pkrjg3.com
 2, m3ks1o8jz.com
@@ -4418,6 +4421,7 @@ routing = 2
 2, p15vjj3og.com
 2, p2h08fn94d.com
 2, p2muoczf5.com
+2, p43c4oysmb.com
 2, p4dc8ve6i.com
 2, p4p.sina.com.cn
 2, p5si0mu8u7.com
@@ -4551,6 +4555,7 @@ routing = 2
 2, pow46ru6c.com
 2, power.adhacker.online
 2, ppbtdj.icu
+2, ppdzrzm5z7.com
 2, ppkufuc5vg.com
 2, ppluoli.xyz
 2, pppteennal.com
@@ -4671,6 +4676,7 @@ routing = 2
 2, qcs6kxekav.com
 2, qcuncolm.com
 2, qcvf.ifeng.com
+2, qcwvmdi.com
 2, qczg1nsnvo.com
 2, qd.x4399.com
 2, qd38xgoin9.com
@@ -4754,6 +4760,7 @@ routing = 2
 2, qtozietgp.com
 2, qtqv3cy43w.com
 2, qttroiey.com
+2, quarterdeck96.top
 2, qucxwvt.com
 2, quince22.top
 2, qujishu.com
@@ -5406,6 +5413,7 @@ routing = 2
 2, tsaor7o1e9.com
 2, tsdtvcx579.com
 2, tshmhp.icu
+2, tshnjvgecwtbzk.com
 2, tsjt0k8wa.com
 2, tslkd9ygnh.com
 2, tsuh.cn
@@ -6296,6 +6304,7 @@ routing = 2
 2, xxts11200zs.com
 2, xxts11201zs.com
 2, xxxx68xxxx.com
+2, xybrf8tcvf.com
 2, xyf21yawkj.com
 2, xyimg.net
 2, xyllbx.icu
