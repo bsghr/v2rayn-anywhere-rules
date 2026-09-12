@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6730
+# RULES: 6740
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -207,6 +207,7 @@ routing = 2
 2, 1h90ydceq.com
 2, 1hcgomshd.com
 2, 1hhwyb4vl.com
+2, 1hkhec0jk0.com
 2, 1hmklj60i.com
 2, 1hotu9uyll.com
 2, 1iuh5l.com
@@ -1480,6 +1481,7 @@ routing = 2
 2, bistoury55.com
 2, biuisz9ss.com
 2, biz.gexing.com
+2, bj8g3fso1i.com
 2, bj9zvb5ih.com
 2, bjj02sf4c.com
 2, bjk08210ip.com
@@ -1660,10 +1662,12 @@ routing = 2
 2, c1.china.cn
 2, c1.czcol.cn
 2, c114.com.cn
+2, c166fuy29o.com
 2, c1qm3mg41.com
 2, c2vodqlmy.com
 2, c2y82fkyv.com
 2, c3mldou51.com
+2, c3p9jkqd22.com
 2, c3q6l5oeq.com
 2, c3vzqvifsn.com
 2, c4ru5li2sa.com
@@ -2968,6 +2972,7 @@ routing = 2
 2, hfezidhmmm.com
 2, hfisngksng.com
 2, hfqarnolmm.com
+2, hfr8l4ebdt.com
 2, hfrkamhoz.com
 2, hg237nbher.com
 2, hgruknobpq.com
@@ -3141,6 +3146,7 @@ routing = 2
 2, identity39.com
 2, idobqo.icu
 2, idzdsbanio.com
+2, iedchqswx7.com
 2, ieubws.icu
 2, if8hhbrk4.com
 2, ifb33zuqc.com
@@ -4482,6 +4488,7 @@ routing = 2
 2, pepwpv.icu
 2, performance89.com
 2, periscope73.com
+2, periscope80.com
 2, permissible67.com
 2, perspective44.top
 2, pexels.com
@@ -4540,6 +4547,7 @@ routing = 2
 2, plateau77.com
 2, plectrum53.top
 2, plsec7wll8.com
+2, plzahxycoctjxq.com
 2, pm.poqwua.cn
 2, pmpantdgzvttbk.com
 2, pmqhelkean.com
@@ -5667,6 +5675,7 @@ routing = 2
 2, uxb030ku4s.com
 2, uxfe.cn
 2, uxjw.cn
+2, uxkjxzq7wh.com
 2, uxnsiyuew.com
 2, uxtlrah.com
 2, uxx1sawfwm.com
@@ -5793,6 +5802,7 @@ routing = 2
 2, vlpq.cn
 2, vlxmfvvknsxldw.com
 2, vm5xs8nvqh.com
+2, vmgi10lt0i.com
 2, vmj428qvi4.com
 2, vmkp.cn
 2, vmn05pnuh.com
