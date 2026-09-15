@@ -1,6 +1,6 @@
 # NAME: TikTok
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 36
+# RULES: 37
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = TikTok
@@ -9,6 +9,7 @@ routing = 1
 2, bytedapm.com
 2, muscdn.com
 2, musical.ly
+2, p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 2, p16-tiktokcdn-com.akamaized.net
 2, roovza-launches.appsflyersdk.com
 2, roovza.inapps.appsflyersdk.com

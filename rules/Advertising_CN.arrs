@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6755
+# RULES: 6765
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -162,6 +162,7 @@ routing = 2
 2, 129esrd5q5.com
 2, 12ybs41sa.com
 2, 12ypksztq.com
+2, 136ckqmwc.com
 2, 13afemc28.com
 2, 148a0hqnen.com
 2, 151xrobgqz.com
@@ -475,6 +476,7 @@ routing = 2
 2, 4paradigm.com
 2, 4pcp5e2w7i.com
 2, 4pyszxxaw.com
+2, 4q7unmlg5.com
 2, 4ro76m7k2n.com
 2, 4rzph5ytr.com
 2, 4totls9uh.com
@@ -2351,6 +2353,7 @@ routing = 2
 2, ergeapp.com
 2, esa2j46dwf.com
 2, eshm72fwql.com
+2, esotvjhho.com
 2, esozdcn.icu
 2, estuary98.top
 2, esudrp.cn
@@ -2400,6 +2403,7 @@ routing = 2
 2, f20r1b13iw.com
 2, f25ifd815p.com
 2, f3a95oy5m.com
+2, f3wl3q92p.com
 2, f4h123m89w.com
 2, f5g8ouidvf.com
 2, f5nn75ozf.com
@@ -3946,6 +3950,7 @@ routing = 2
 2, miaozhen.com
 2, mias92zmaf.com
 2, microscope9.com
+2, midship24.com
 2, mihoutao1868.github.io
 2, milk.yesky.com.cn
 2, milkenfr.com
@@ -4056,6 +4061,7 @@ routing = 2
 2, myunion1.qm120.com
 2, myunion1.tupians.com
 2, mzb60mu3z7.com
+2, mzuwfvo2e.com
 2, n.baminw.com.cn
 2, n01t94i6g.com
 2, n0211.com
@@ -4343,6 +4349,7 @@ routing = 2
 2, oi0wm8b09.com
 2, oiscuy.icu
 2, oiu132jhz.com
+2, oj1boygkz.com
 2, oj2c0dkk4.com
 2, oj95rctd5.com
 2, ojg8sflgl.com
@@ -4646,6 +4653,7 @@ routing = 2
 2, pv.sohu.com
 2, pv4b.com
 2, pv7ezc6as.com
+2, pv848vdcv.com
 2, pvgcyyh.icu
 2, pvhbhnqip.com
 2, pvino9yhp3.com
@@ -4899,6 +4907,7 @@ routing = 2
 2, rhaol5omof.com
 2, rhiolf.cn
 2, rhmt1jjyo.com
+2, rhnipjxcxlhzbc.com
 2, rhododendron15.top
 2, rhombus74.com
 2, rhrrf.cn
@@ -6435,6 +6444,7 @@ routing = 2
 2, yn68b5vn9.com
 2, ynkunarlg.com
 2, ynpkjip43x.com
+2, ynwibbkll.com
 2, ynzhby.com
 2, ynztzh.com
 2, yong.chazidian.com
