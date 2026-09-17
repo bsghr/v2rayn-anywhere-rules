@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6361
+# RULES: 6372
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -307,6 +307,7 @@ routing = 2
 2, 2hlcovn7n.com
 2, 2i0lliongn.com
 2, 2j9banjbst.com
+2, 2jdr5wuyzf.com
 2, 2juyabihe.com
 2, 2kbmdtlgme.com
 2, 2lj9n8sz0w.com
@@ -331,6 +332,7 @@ routing = 2
 2, 2xi988xu22.com
 2, 2xx63f0bfy.com
 2, 2y2lttjs.hair
+2, 2ypqjxnzo.com
 2, 2ytoxb1r7.com
 2, 2zjftxgl5s.com
 2, 2ztav5r7r.com
@@ -835,6 +837,7 @@ routing = 2
 2, 93txjw4rt2.com
 2, 94ab.com
 2, 94lm.com
+2, 95d684gnf.com
 2, 95k62nnvnh.com
 2, 95ktftpt6.com
 2, 9613gwqee.com
@@ -895,6 +898,7 @@ routing = 2
 2, 9t9r2tkr9.com
 2, 9tlfy3rrh.com
 2, 9txnu9rlmd.com
+2, 9uza7fi60e.com
 2, 9v7sbm9zc.com
 2, 9vmbje748.com
 2, 9yspkomgq.com
@@ -1495,6 +1499,7 @@ routing = 2
 2, braised58.top
 2, branch20.top
 2, brb3mb25zg.com
+2, bridge32.top
 2, briefcase95.com
 2, brirriek.com
 2, brnyzr.icu
@@ -2344,6 +2349,7 @@ routing = 2
 2, fdk6z2l7jt.com
 2, fdluoxnn.com
 2, fdtarpaueilvrs.com
+2, fe7xxmtg3.com
 2, feeceeyf.com
 2, fenxi.com
 2, fet20kdo93.com
@@ -3146,6 +3152,7 @@ routing = 2
 2, j0saeheja5.com
 2, j1.piaobing.com
 2, j12eaw9xs.com
+2, j17xor750.com
 2, j1bla75rck.com
 2, j1s956aee8.com
 2, j2fu64j4e.com
@@ -5224,6 +5231,7 @@ routing = 2
 2, u6421d8aqt.com
 2, u67qpnaexu.com
 2, u6uy9lzdcj.com
+2, u6vlqrwcv.com
 2, u6xpn4qn5b.com
 2, u6yzoru6u.com
 2, u7em9v4hp.com
@@ -5389,6 +5397,7 @@ routing = 2
 2, v8fjvv9o3.com
 2, v8j1rkai1.com
 2, va3yq7si6w.com
+2, vapvllaajrhhzc.com
 2, vaudeville44.top
 2, vauu8z77p.com
 2, vb5gi1zp5.com
@@ -6050,6 +6059,7 @@ routing = 2
 2, ykxwn.com
 2, ykyfhxr.xyz
 2, yl04z4v.cn
+2, yl9c8v1le.com
 2, ylkvxrimr.com
 2, ylr1xn2b4i.com
 2, ym3jmnu05.com
@@ -6225,6 +6235,7 @@ routing = 2
 2, zdh11071lo.com
 2, zdjcxtteffxrri.com
 2, zdl4o6sp3.com
+2, zdr6wn2f5.com
 2, ze5.com
 2, zeigraim.com
 2, zepcdxyiqtxtbc.com
