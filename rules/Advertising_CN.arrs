@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6372
+# RULES: 6382
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -306,6 +306,7 @@ routing = 2
 2, 2hiu.com
 2, 2hlcovn7n.com
 2, 2i0lliongn.com
+2, 2i93en16s9.com
 2, 2j9banjbst.com
 2, 2jdr5wuyzf.com
 2, 2juyabihe.com
@@ -352,6 +353,7 @@ routing = 2
 2, 33img.com
 2, 33kw1wc58.top
 2, 33mp2fbrns.com
+2, 33o5sjd1ao.com
 2, 3400.org
 2, 34dcvgw197.com
 2, 34twscl0hl.com
@@ -403,6 +405,7 @@ routing = 2
 2, 3q9j4w2r9d.com
 2, 3qtdjf4830.com
 2, 3qx0pnhyzi.com
+2, 3rc04o1rmy.com
 2, 3rs337ci4.com
 2, 3s7m2ss7g.com
 2, 3sd6w6oga9.com
@@ -457,6 +460,7 @@ routing = 2
 2, 4i2q0y9wv.com
 2, 4j7mf4mmx.com
 2, 4jh1le34m.com
+2, 4kngwxegq5.com
 2, 4l5bbkug99.com
 2, 4mvkxs0o0.com
 2, 4nc4qc1fo.com
@@ -2171,6 +2175,7 @@ routing = 2
 2, ebr6v3tdw.com
 2, ebrid.cn
 2, ebsqxaj8u.com
+2, ec00t7oue1.com
 2, ec8pr7nny.com
 2, ecbwemnff3.com
 2, ecg21n9t8d.com
@@ -2801,6 +2806,7 @@ routing = 2
 2, harpsichord34.com
 2, hash.trafficmanager.net
 2, hawfeniku.com
+2, hawsehole52.top
 2, hawthorn33.top
 2, hazardous58.top
 2, hbcjdwm.com
@@ -4404,6 +4410,7 @@ routing = 2
 2, pyntbz.icu
 2, pyramid48.com
 2, pyrfpb.icu
+2, pytm26vg9v.com
 2, pz0d6zc6n.com
 2, pzkkot4kn.com
 2, pzpcbt.icu
@@ -4687,6 +4694,7 @@ routing = 2
 2, rubrafoz.com
 2, rucksack85.top
 2, ruguoapp.com
+2, ruoky41k7a.com
 2, ruten.com.tw
 2, ruvowe4xeo.com
 2, ruziecoraz.com
@@ -4997,6 +5005,7 @@ routing = 2
 2, tcmxmlu.com
 2, tcyudzjp.com
 2, tdlop7tsme.com
+2, tdlqxdwwpptpli.com
 2, tebv.cn
 2, tech.jiukang.org
 2, telecome.cn
@@ -5653,6 +5662,7 @@ routing = 2
 2, wfvs.cn
 2, wfwadedzk.com
 2, wh2mu9uj5f.com
+2, wh4fd7x7or.com
 2, whazrm9wa.com
 2, wheelbarrow64.com
 2, whfpbc.99.com.cn
