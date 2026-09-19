@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6382
+# RULES: 6390
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -2392,6 +2392,7 @@ routing = 2
 2, fjpopxgyfrlxvc.com
 2, fjuga.top
 2, fjzimaoqu.cn
+2, fk0hwmdoh.com
 2, fk8k4t55e.com
 2, fkesfg.com
 2, fkfovt.icu
@@ -2530,6 +2531,7 @@ routing = 2
 2, ge99lo1z2.com
 2, geav5man0.com
 2, geecradv.com
+2, gef153x1u.com
 2, gege51.com
 2, generation456.com
 2, generation74.com
@@ -2805,6 +2807,7 @@ routing = 2
 2, harmful26.top
 2, harpsichord34.com
 2, hash.trafficmanager.net
+2, hatchway14.com
 2, hawfeniku.com
 2, hawsehole52.top
 2, hawthorn33.top
@@ -4689,6 +4692,7 @@ routing = 2
 2, rta4z4ncsl.com
 2, rtb.julang.taobao.com
 2, rtdjpmi.com
+2, rthijnsymshxxi.com
 2, rtip4abjv3.com
 2, rua50s4es8.com
 2, rubrafoz.com
@@ -4832,6 +4836,7 @@ routing = 2
 2, sjbaiduadv1.redou.com
 2, sjbbsja.forum
 2, sjhgfrvbxrbbr.com
+2, sjujmxg6d.com
 2, skads.gxsky.com
 2, skirmish33.top
 2, sky.dunsuan.com
@@ -5395,6 +5400,7 @@ routing = 2
 2, v1.phb123.com
 2, v1.taksh.cn
 2, v1.wphonelife.com
+2, v2bo21e4k.com
 2, v3pnvck24.com
 2, v46uj91gh.com
 2, v4ox630nia.com
@@ -5661,6 +5667,7 @@ routing = 2
 2, wftihvn.xyz
 2, wfvs.cn
 2, wfwadedzk.com
+2, wgkga5oh0.com
 2, wh2mu9uj5f.com
 2, wh4fd7x7or.com
 2, whazrm9wa.com
@@ -5745,6 +5752,7 @@ routing = 2
 2, wwavo59q3.com
 2, www.dmhy.org
 2, www5.oss-cn-hangzhou.aliyuncs.com
+2, wwyoqaf3g.com
 2, wx33a.com
 2, wx6hczwhh.com
 2, wxfdmri.xyz
