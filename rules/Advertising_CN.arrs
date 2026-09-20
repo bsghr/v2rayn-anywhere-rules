@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6390
+# RULES: 6398
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -46,6 +46,7 @@ routing = 2
 2, 0hagz9mdc.com
 2, 0hasprzzu.com
 2, 0hqq3dnjf.com
+2, 0hr4wyjfv3.com
 2, 0iem8mw1lx.com
 2, 0ihw4ipvm5.com
 2, 0jghm60qg.com
@@ -861,6 +862,7 @@ routing = 2
 2, 999aa666bb.com
 2, 999d.com
 2, 999xx333kk.com
+2, 99d8z9oqnu.com
 2, 99smsf.com
 2, 99zuowen.com
 2, 9a4v0clpi.com
@@ -2469,6 +2471,7 @@ routing = 2
 2, fwslpa9ks.com
 2, fwujkh7jw.com
 2, fwvzx907rr.com
+2, fx0blb9zp4.com
 2, fx455rrt4b.com
 2, fx8rurzhbf.com
 2, fxab9iuprt.com
@@ -2496,6 +2499,7 @@ routing = 2
 2, g2w9awdq0.com
 2, g2wg5308q.com
 2, g3m92egwo.com
+2, g4d2cox74f.com
 2, g4yk4cyyw.com
 2, g4z8712756.com
 2, g5xu1dslr6.com
@@ -2742,6 +2746,7 @@ routing = 2
 2, gummy-debt.com
 2, gun2v2neoo.com
 2, gunmi.cn
+2, gunwale68.top
 2, guu0bfmpf5.com
 2, guuia6hxf.com
 2, guulgakv.com
@@ -3853,6 +3858,7 @@ routing = 2
 2, musicallv.top
 2, muxc8wxhv.com
 2, muxingkj.com
+2, mv3yrsh593.com
 2, mvdrecrull.com
 2, mvquiema.xyz
 2, mvt0e2s72.com
@@ -4308,6 +4314,7 @@ routing = 2
 2, pm.poqwua.cn
 2, pmpantdgzvttbk.com
 2, pmqhelkean.com
+2, pmt0g2rugw.com
 2, pn9f3utrxu.com
 2, pnlx1ofua.com
 2, pnpq9y4te.com
@@ -5964,6 +5971,7 @@ routing = 2
 2, xvbwjd.icu
 2, xvhttu3c9.com
 2, xwafyzovqu.icu
+2, xwddvfoasvtxjo.com
 2, xwdsp.com
 2, xxffo.com
 2, xxhfuaek.icu
