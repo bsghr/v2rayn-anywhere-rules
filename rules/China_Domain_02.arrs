@@ -1,10 +1,16 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11113
+# RULES: 11122
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
+2, xn--54qu66awkkshgsf475q.com
+2, xn--55qw42g
+2, xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
+2, xn--55qx2ag79c1iq.com
+2, xn--55qx5d
+2, xn--55qzsxj5y4ozkz93dswptmau4jc88dg75ctid8raf29c.com
 2, xn--5kv317c.com
 2, xn--5tzm5g
 2, xn--65qy41j.com
@@ -4164,6 +4170,7 @@ routing = 1
 2, youbangyun.com
 2, youbbs.org
 2, youbian.com
+2, youbianku.com
 2, youbibi.com
 2, youbike.me
 2, youbikecn.com
@@ -8264,6 +8271,7 @@ routing = 1
 2, zhonglianhuashu.com
 2, zhonglianhuaxin.com
 2, zhonglianyx.com
+2, zhongliujie.com
 2, zhongliusp.com
 2, zhongliuyiyuan.com
 2, zhonglue-consulting.com
@@ -10470,6 +10478,7 @@ routing = 1
 2, zuixu.com
 2, zuiyanke.com
 2, zuiyou.com
+2, zuiyou.tv
 2, zuiyouxi.com
 2, zuizhifu.com
 2, zuji360.com

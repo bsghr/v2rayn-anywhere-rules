@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6398
+# RULES: 6408
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -459,6 +459,7 @@ routing = 2
 2, 4h87y9pc59.com
 2, 4hf2saujov.com
 2, 4i2q0y9wv.com
+2, 4ikj2pbeqb.com
 2, 4j7mf4mmx.com
 2, 4jh1le34m.com
 2, 4kngwxegq5.com
@@ -1212,6 +1213,7 @@ routing = 2
 2, aliyuncs.com
 2, allyes.$third-party
 2, alnhfq9ov4.com
+2, altitude52.com
 2, am.szhome.com
 2, amcraahmou.com
 2, amftsawknf.com
@@ -1805,6 +1807,7 @@ routing = 2
 2, cpxzyul.com
 2, cq2f5kn85c.top
 2, cq5nsp7kya.com
+2, cqg8zmtt3.com
 2, cqoqpcc.icu
 2, crayon.meishichina.com
 2, crinukpd.com
@@ -2143,6 +2146,7 @@ routing = 2
 2, dz3tfc2m9.com
 2, dz6xqe19d2.com
 2, dzihsqn.icu
+2, dzz8yyd41.com
 2, e1wluazgt.com
 2, e1yrns9aw.com
 2, e26fr9qb4m.com
@@ -2513,6 +2517,7 @@ routing = 2
 2, ga1.3dmgame.com
 2, gamecps.com
 2, games.ifeng.com
+2, gangplank39.com
 2, ganjistatic1.com
 2, ganjituiguang.ganji.com
 2, gardenia25.com
@@ -4415,6 +4420,7 @@ routing = 2
 2, pxdb08b82.com
 2, pxjabbtydothnc.com
 2, pxlizduukhnpps.com
+2, pxvoyuez.com
 2, pxx.tnklrs.cn
 2, pybmulveaz.com
 2, pyntbz.icu
@@ -5294,6 +5300,7 @@ routing = 2
 2, uftokromta.com
 2, ufurlokhqd.com
 2, ufxs.cn
+2, ug2k8bslb.com
 2, ug4x1tagz.com
 2, ug54oqjpqq.com
 2, ug6zg26aq8.com
@@ -5580,6 +5587,7 @@ routing = 2
 2, vzia.cn
 2, vzorzilmf.com
 2, vzrhwmsj.icu
+2, vzzvfpvwyyhfvo.com
 2, w.xiaopiaoyou.com
 2, w0054.com
 2, w0057.com
@@ -5774,6 +5782,7 @@ routing = 2
 2, wylct1tjdf.com
 2, wyqqanziid.com
 2, wyzq.rehuwang.com
+2, wz2jy3t94.com
 2, wzehmoil.com
 2, wzjs1.oss-accelerate.aliyuncs.com
 2, wzvaknomh.com
@@ -6399,6 +6408,7 @@ routing = 2
 2, zyek35wsn.com
 2, zyifk.cn
 2, zyjfjziavcdpnk.com
+2, zyy25t69u.com
 2, zzad.com
 2, zzfxfz.com
 2, zzhizbzowrzlvy.com

@@ -1,6 +1,6 @@
 # NAME: Facebook
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 396
+# RULES: 397
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Facebook
@@ -386,6 +386,7 @@ routing = 1
 2, sportstream.com
 2, supportfacebook.com
 2, terragraph.com
+2, tfbnw.net
 2, thefacebook.com
 2, thefacebook.net
 2, thefind.com
