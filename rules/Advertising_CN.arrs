@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6408
+# RULES: 6419
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -14,6 +14,7 @@ routing = 2
 2, 02exl1ql2l.com
 2, 03in08p3r1.com
 2, 03mhpavj25.com
+2, 03mnj87wir.com
 2, 049bv1hdzn.com
 2, 0512s.com
 2, 0592.mobi
@@ -160,6 +161,7 @@ routing = 2
 2, 123456.asia
 2, 129esrd5q5.com
 2, 12ypksztq.com
+2, 12yr3wkwi5.com
 2, 136ckqmwc.com
 2, 13afemc28.com
 2, 148a0hqnen.com
@@ -462,6 +464,7 @@ routing = 2
 2, 4ikj2pbeqb.com
 2, 4j7mf4mmx.com
 2, 4jh1le34m.com
+2, 4k3nzijpm0.com
 2, 4kngwxegq5.com
 2, 4l5bbkug99.com
 2, 4mvkxs0o0.com
@@ -890,6 +893,7 @@ routing = 2
 2, 9l9ck7mdd2.com
 2, 9ma1sr1tb1.com
 2, 9mdg9cu59.com
+2, 9nwplq7y2o.com
 2, 9nzrfglryy.com
 2, 9obmf866d.com
 2, 9oxhstb2m2.com
@@ -1787,6 +1791,7 @@ routing = 2
 2, contemplate23.top
 2, contrive73.top
 2, convergent16.top
+2, corkscrew33.com
 2, cos1999.top
 2, cosiskkm.com
 2, count.xxxssk.com
@@ -3378,6 +3383,7 @@ routing = 2
 2, kagxyvk.com
 2, kanxiao.net
 2, kasgnh7xwl.com
+2, kavxx.com
 2, kawf.cn
 2, kb894lngt.com
 2, kbkvmeg.com
@@ -3589,6 +3595,7 @@ routing = 2
 2, lmhrchi.com
 2, lmlmvip.com
 2, lmtruueagl.com
+2, ln3v4pjf1h.com
 2, lnfmhl.icu
 2, lnhsjob.com
 2, lnme1q1qa.com
@@ -3800,6 +3807,7 @@ routing = 2
 2, mkguynd.com
 2, mks8vq5qfu.com
 2, mkue.cn
+2, mkyc81u6je.com
 2, mliyokonw.com
 2, mm.jbzj.com
 2, mm.nwell.net
@@ -4041,6 +4049,7 @@ routing = 2
 2, nvielkaa.com
 2, nvxq.cn
 2, nwbuhr.icu
+2, nwhdrmll9l.com
 2, nwholf.icu
 2, nwq7zxf6jt.com
 2, nws5ay4cr2.com
@@ -4212,6 +4221,7 @@ routing = 2
 2, p43c4oysmb.com
 2, p4dc8ve6i.com
 2, p4p.sina.com.cn
+2, p5doaulee2.com
 2, p5si0mu8u7.com
 2, p66jed4iv.com
 2, p6q6qpze3f.com
@@ -5130,6 +5140,7 @@ routing = 2
 2, tp4d21qek.com
 2, tphurqalq.com
 2, tpjhxbwkvjjvtq.com
+2, tpvqrzryebtfhu.com
 2, tqbjevhkgw.icu
 2, tqub.cn
 2, trafficjam.cn
