@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6419
+# RULES: 6424
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -555,6 +555,7 @@ routing = 2
 2, 5hu7hee0pt.com
 2, 5ipifco2tf.com
 2, 5j45n3f6r.com
+2, 5jj6zcxpo.com
 2, 5k1cyldc9.com
 2, 5kjpa028wo.com
 2, 5kmqy60r7.com
@@ -1935,6 +1936,7 @@ routing = 2
 2, daiwofei2019.top
 2, dajiahao3.top
 2, daliantong.com.cn
+2, dan4irc1i.com
 2, danpy3riac.com
 2, daqnetgw.com
 2, darren01.oss-cn-beijing.aliyuncs.com
@@ -3785,6 +3787,7 @@ routing = 2
 2, miaozhen.com
 2, mias92zmaf.com
 2, microscope9.com
+2, microwave97.com
 2, midship24.com
 2, mihoutao1868.github.io
 2, milk.yesky.com.cn
@@ -4709,6 +4712,7 @@ routing = 2
 2, rrsxes4oy.com
 2, rrxzhpheqaprva.com
 2, rsfzjtdmbmxdfq.com
+2, rsrldrnubehntu.com
 2, rstdfyerm.icu
 2, rstqbtoqrxbvpk.com
 2, rt5x78mhcq.com
@@ -6367,6 +6371,7 @@ routing = 2
 2, zqtdgsgkib.icu
 2, zqy0jcfipu.com
 2, zrgnoey.icu
+2, zri2wv8u1.com
 2, zrjr81na94.com
 2, zrkeirapi.com
 2, zrosq6dsha.com
