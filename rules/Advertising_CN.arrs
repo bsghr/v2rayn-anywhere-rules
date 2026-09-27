@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6459
+# RULES: 6473
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -273,6 +273,7 @@ routing = 2
 2, 22vie9ula.com
 2, 2345.com
 2, 23cox7hu4.com
+2, 23dx6xe42.com
 2, 23img.com
 2, 2481e.com
 2, 249999.xyz
@@ -666,6 +667,7 @@ routing = 2
 2, 6park.com
 2, 6pctuhriw.com
 2, 6q77vsjez1.com
+2, 6qcvth5fb.com
 2, 6ql83wy90f.com
 2, 6s0zo8jzbb.com
 2, 6s78n1rj4r.com
@@ -1568,6 +1570,7 @@ routing = 2
 2, bugs01220ko.com
 2, bugs01221ko.com
 2, bugs01231ko.com
+2, bulwark37.top
 2, bun1.dayi.org.cn
 2, burette34.com
 2, burniecrepes.com
@@ -2490,6 +2493,7 @@ routing = 2
 2, fvk6k2jrdu.com
 2, fwbdfg5n6.com
 2, fwjtfo8f4z.com
+2, fwlkegiqfn.icu
 2, fwlkokvvkx.icu
 2, fwslpa9ks.com
 2, fwujkh7jw.com
@@ -3362,6 +3366,7 @@ routing = 2
 2, jxnews.com.cn
 2, jxnwbnxslrjvds.com
 2, jxudh7t5cg.com
+2, jxvylwrra.com
 2, jy.zhongxues.com
 2, jy135.com
 2, jygdb.com
@@ -3493,6 +3498,7 @@ routing = 2
 2, kw17vswzu.com
 2, kw7addjwr.com
 2, kwflvcdn.000dn.com
+2, kwgvshdzl.com
 2, kwn91x0jke.top
 2, kxsu.cn
 2, ky595images.com
@@ -3929,6 +3935,7 @@ routing = 2
 2, n2d79v41a3.com
 2, n2ivsbik2.com
 2, n2m8u4ae9.com
+2, n2nqp4osu.com
 2, n2xj2mxg3z.com
 2, n3567.com
 2, n4d3ev3m1.com
@@ -4163,6 +4170,7 @@ routing = 2
 2, ojg8sflgl.com
 2, ojh9bc9puh.com
 2, ojn1zxz0ni.com
+2, ojobjjol7.com
 2, ojrgbc6kfz.com
 2, ok3o5s3xi.com
 2, okbmf.com
@@ -4216,6 +4224,7 @@ routing = 2
 2, overcoat55.top
 2, overflow33.com
 2, overture34.top
+2, ovgadhtcyvak.in
 2, owqbirykia.com
 2, owvqpfbrrk.com
 2, ox3e5wyy79.com
@@ -4470,6 +4479,7 @@ routing = 2
 2, q1txsah8s.com
 2, q1yv4669q6.com
 2, q29k22vpu.com
+2, q2f3fw9st.com
 2, q2fwgl4q8.com
 2, q2tqrsh02.com
 2, q4173l5op.com
@@ -4708,6 +4718,7 @@ routing = 2
 2, rlduhmakdm.com
 2, rlhhlp.icu
 2, rlkx.cn
+2, rlr1ubj9u.com
 2, rltwz2cmo.com
 2, rlvyrr.icu
 2, rmhfrtnd.com
@@ -5459,6 +5470,7 @@ routing = 2
 2, v1.taksh.cn
 2, v1.wphonelife.com
 2, v2bo21e4k.com
+2, v2e5kim4o.com
 2, v3pnvck24.com
 2, v46uj91gh.com
 2, v4ox630nia.com
@@ -6027,6 +6039,7 @@ routing = 2
 2, xvbwjd.icu
 2, xvhttu3c9.com
 2, xvndpbjwhhvnfu.com
+2, xwafoccqlr.icu
 2, xwafyzovqu.icu
 2, xwddvfoasvtxjo.com
 2, xwdsp.com
@@ -6322,6 +6335,7 @@ routing = 2
 2, zdr6wn2f5.com
 2, ze5.com
 2, zeigraim.com
+2, zellxviqqlhdpg.com
 2, zepcdxyiqtxtbc.com
 2, zf56jef1dd.com
 2, zfc2ul88s.top

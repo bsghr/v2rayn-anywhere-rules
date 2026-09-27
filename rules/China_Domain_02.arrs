@@ -1,59 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 11359
+# RULES: 11305
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xlreads.com
-2, xlsdn.com
-2, xlsemi.com
-2, xlshou.com
-2, xlsxmj.com
-2, xltll.com
-2, xltnjslfd.com
-2, xlwl95.com
-2, xlxkgjt.com
-2, xlxqsgf.com
-2, xlxslny.com
-2, xlyap.com
-2, xlyfhw.com
-2, xlykzz.com
-2, xlyouxi.com
-2, xlyouxi.net
-2, xlysauc.com
-2, xlysauc.net
-2, xlysoft.net
-2, xlyx3.com
-2, xlyxo.com
-2, xlyxp.com
-2, xlzfpt.com
-2, xlzhao.com
-2, xlzyd.com
-2, xlzys.com
-2, xm-ais.net
-2, xm-chuang.com
-2, xm-gzf.com
-2, xm-olympic-museum.org
-2, xm200.com
-2, xm51.com
-2, xm5156.com
-2, xm680.com
-2, xm6wpp.com
-2, xm9.co
-2, xm909.com
-2, xm9m.com
-2, xmac.app
-2, xmafkj.com
-2, xmaibu.com
-2, xmalaya.com
-2, xmamiga.com
-2, xmanblog.net
-2, xmaosms.com
-2, xmasg.com
-2, xmayitxt.com
-2, xmbankonline.com
-2, xmbhw.com
 2, xmbike.com
 2, xmbus.com
 2, xmccb.com
@@ -1901,7 +1852,6 @@ routing = 1
 2, yangyongquan.com
 2, yangyq.net
 2, yangzhe1991.org
-2, yangzhi777.com
 2, yangzhihb.com
 2, yangzhiriji.com
 2, yangzhongchao.com
@@ -2739,6 +2689,7 @@ routing = 1
 2, ygfengshui.com
 2, yggk.net
 2, yghsh.com
+2, yghy123.com
 2, ygibao.com
 2, yginsight.com
 2, ygjctech.com
@@ -6852,7 +6803,6 @@ routing = 1
 2, zbyz.net
 2, zbz.com
 2, zbzb.org
-2, zbzdm.com
 2, zbzw.la
 2, zc-gs100.com
 2, zc-ha.com
@@ -7096,7 +7046,6 @@ routing = 1
 2, zenha.net
 2, zenhotspring.com
 2, zenith-group.net
-2, zenithmining.com
 2, zenithspace.net
 2, zenixauto.com
 2, zenkungforging.com
@@ -7566,6 +7515,7 @@ routing = 1
 2, zhangbj.com
 2, zhangchangfa.com
 2, zhangchi.art
+2, zhangdkl.asia
 2, zhangdongxuan.com
 2, zhangdu.com
 2, zhangdu520.com
@@ -7606,7 +7556,6 @@ routing = 1
 2, zhangrunnan.com
 2, zhangsenhao.com
 2, zhangshangtong.com
-2, zhangshengcw.com
 2, zhangshengrong.com
 2, zhangshi.org
 2, zhangshuchang.com
@@ -8055,7 +8004,6 @@ routing = 1
 2, zhidejian.com
 2, zhidemai.com
 2, zhidesoft.com
-2, zhidi66.com
 2, zhidianfan.com
 2, zhidianlife.com
 2, zhidieyun.com
@@ -9064,7 +9012,6 @@ routing = 1
 2, zigeer.com
 2, zigonggroup.com
 2, ziguhonglan.com
-2, zihai0351.com
 2, zihai24.com
 2, zihaixiaochengxu.com
 2, zihexin.com
@@ -10332,7 +10279,6 @@ routing = 1
 2, zqcloudgame.com
 2, zqcyzg.com
 2, zqedu.net
-2, zqfdc.net
 2, zqgame.com
 2, zqgjz1312.com
 2, zqgreen.com
