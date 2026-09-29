@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6473
+# RULES: 6488
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -310,6 +310,7 @@ routing = 2
 2, 2gvnr9sx9.com
 2, 2hiu.com
 2, 2hlcovn7n.com
+2, 2hqxy07fw.com
 2, 2i0lliongn.com
 2, 2i93en16s9.com
 2, 2j9banjbst.com
@@ -547,6 +548,7 @@ routing = 2
 2, 5dycay3rr.com
 2, 5e2hf0q3a.com
 2, 5e770lhs7b.com
+2, 5e9rwtjh1s.com
 2, 5edf1d2qv.com
 2, 5edrgrnqg.com
 2, 5enhjla7z.com
@@ -643,6 +645,7 @@ routing = 2
 2, 6gvg5saail.com
 2, 6h6pdph56.com
 2, 6iejd9pk0.com
+2, 6ign0q6xb1.com
 2, 6iiz8ni96v.com
 2, 6iyq4atled.com
 2, 6j7ywcn8sx.com
@@ -1330,6 +1333,7 @@ routing = 2
 2, b477.life
 2, b47e82rmue.com
 2, b4afsapz0.com
+2, b56iy3m1jg.com
 2, b7ijghyla1.com
 2, b7pgs2ifvq.com
 2, b7sw62.pingshu8.xyz
@@ -1351,6 +1355,7 @@ routing = 2
 2, baizhu.cc
 2, baj.fanwenzhan.com
 2, bakrathtfa.com
+2, ballast85.top
 2, balmoralmkt.com
 2, balsam18.com
 2, balvehgmhw.com
@@ -2800,6 +2805,7 @@ routing = 2
 2, gzk72wa1f.com
 2, gzldas.icu
 2, gzsy12348.com
+2, gzx2d0jvwm.com
 2, gzzkjdam.cn
 2, h1.azuimeh.top
 2, h1.cfxinxi.cn
@@ -3307,6 +3313,7 @@ routing = 2
 2, jqbhtv.icu
 2, jqfuser.icu
 2, jqmr7zssmd.com
+2, jqopurafw.com
 2, jqsex.com
 2, jqszhz7wo.com
 2, jquery.envi-met.com.cn
@@ -3463,6 +3470,7 @@ routing = 2
 2, kolsh.cn
 2, kowt80ufwg.com
 2, kpshx.douguo.com
+2, kpymx56ch3.com
 2, kqg8jh8rk.com
 2, kqgx3eyz7.com
 2, kqmz0ym0fo.com
@@ -3584,6 +3592,7 @@ routing = 2
 2, lj43bm3y8.com
 2, ljvt4pnl9.com
 2, lk0v8teerw.com
+2, lk54dfg87.com
 2, lkhmlx.icu
 2, lkpda6xuy.com
 2, lkpjbr.icu
@@ -3734,6 +3743,7 @@ routing = 2
 2, m8h5qjmlb3.com
 2, m8qk101065.com
 2, m8ysv4ckls.com
+2, m96v7deg59.com
 2, m9sm6th48c.com
 2, m9sz0hh3f7.com
 2, m9ylqs5rn.com
@@ -4471,6 +4481,7 @@ routing = 2
 2, pytm26vg9v.com
 2, pz0d6zc6n.com
 2, pzkkot4kn.com
+2, pzmu7go7i2.com
 2, pzpcbt.icu
 2, pzq7ilwvv.com
 2, pztnzqwz.icu
@@ -4575,6 +4586,7 @@ routing = 2
 2, qrtibl.cn
 2, qrumphathu.com
 2, qrzwjfq.xyz
+2, qs2zdat2pi.com
 2, qsjdi1vyq.com
 2, qslhdidxkazlzuuelsz.top
 2, qsne.cn
@@ -4971,6 +4983,7 @@ routing = 2
 2, star-media.cn
 2, star-seo.oss-ap-northeast-1.aliyuncs.com
 2, starboard65.com
+2, stateroom28.com
 2, static-cn.plista.com
 2, static-ssp.yidianzixun.com
 2, static.dhsz.cn
@@ -5559,6 +5572,7 @@ routing = 2
 2, vjie.com
 2, vjpdxx.icu
 2, vjvj.vj24co.com
+2, vkdytplocrhlhm.com
 2, vkeqoidm.com
 2, vkoq4kyzmj.com
 2, vksy.cn
@@ -5922,6 +5936,7 @@ routing = 2
 2, xhckbgvd0.com
 2, xhe87zexdk.com
 2, xhgwho0fx.com
+2, xhhgjfpswovlvg.com
 2, xhluphuewwlbnc.com
 2, xhr7cqlob.com
 2, xhtkm35sw.com
