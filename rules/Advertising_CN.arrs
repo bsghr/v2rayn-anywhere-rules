@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6488
+# RULES: 6498
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -573,6 +573,7 @@ routing = 2
 2, 5lz3u8s5uq.com
 2, 5mm.zxfw5.cn
 2, 5mn041cdz.com
+2, 5n131lck8.com
 2, 5ntq14y5y.com
 2, 5p35xkp1p.com
 2, 5sghirlr5b.com
@@ -914,6 +915,7 @@ routing = 2
 2, 9pbeoey9j.com
 2, 9pyn42z6d.com
 2, 9pzoz6taf.com
+2, 9qvpcta0t.com
 2, 9r0v0go0el.com
 2, 9rkh7nbaj.com
 2, 9s3g5vd8or.com
@@ -1539,6 +1541,7 @@ routing = 2
 2, btn.onlylady.com
 2, btn.pchome.net
 2, btreelmulq.com
+2, btsel5g.com
 2, bu1.duba.com
 2, bu1.vvvdj.com
 2, bu1jw93q1l.com
@@ -2993,6 +2996,7 @@ routing = 2
 2, huwgjgf.icu
 2, hv7w3au49.com
 2, hvqyf.cn
+2, hweianpqxl.icu
 2, hweiopvvxd.icu
 2, hwrzdbokzdttry.com
 2, hxbt.alading123.com
@@ -3338,6 +3342,7 @@ routing = 2
 2, js1.dadiniu.cn
 2, js1.haoge500.com
 2, js154azzn.com
+2, js1lw9n6w.com
 2, js22f.net
 2, jsb.qianzhan.com
 2, jsckjqr.com
@@ -3666,6 +3671,7 @@ routing = 2
 2, lsoclwa.icu
 2, lt3f9p5ox2.com
 2, ltbbjzwmdavdny.com
+2, ltdzz.com
 2, ltiekurv.com
 2, ltnkpzlinptlde.com
 2, ltrb.cn
@@ -4613,6 +4619,7 @@ routing = 2
 2, qwt9oyg741.com
 2, qwuylnl.com
 2, qxaz2xcw.com
+2, qxbpi331k.com
 2, qxwoiv.com
 2, qyel.cn
 2, qykezpy.xyz
@@ -4651,6 +4658,7 @@ routing = 2
 2, raxkvb.icu
 2, rb51rh02h.com
 2, rbmg4agmo.com
+2, rbru3ubey.com
 2, rc.ie13.com
 2, rcguamf.icu
 2, rchqtr.icu
@@ -4828,9 +4836,11 @@ routing = 2
 2, s3t75j8o7.com
 2, s45hkb25i.com
 2, s4fqior1wk.com
+2, s6cfki4v4.com
 2, s6ctxsmoaj.com
 2, s6ujh3ynv.com
 2, s72h7io4o.com
+2, s7jkxkm72.com
 2, s7xrlzfa.top
 2, s8.pw
 2, s9dik0ydj.com

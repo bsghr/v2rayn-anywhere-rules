@@ -1,6 +1,6 @@
 # NAME: Meta
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 555
+# RULES: 557
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Meta
@@ -480,9 +480,11 @@ routing = 1
 2, messengerdevelopers.com
 2, meta.ai
 2, meta.com
+2, metaaivm.com
 2, midentsolutions.com
 2, mobilefacebook.com
 2, moneywithfacebook.com
+2, muse.ai
 2, myfbfans.com
 2, nbabot.net
 2, newsfeed.com
