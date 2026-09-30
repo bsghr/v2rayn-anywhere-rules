@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6498
+# RULES: 6507
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -230,6 +230,7 @@ routing = 2
 2, 1nrlydgrr.com
 2, 1o0g85u7k1.com
 2, 1o1nuqbjea.com
+2, 1o23ptd0sv.com
 2, 1paujqtq9.com
 2, 1phyxws373.com
 2, 1pt7wq8di.com
@@ -1370,6 +1371,7 @@ routing = 2
 2, basically97.top
 2, bastion1.top
 2, bauddoih.com
+2, baztfhhqiuvttm.com
 2, bb2k0pq1vf.com
 2, bbepv.com
 2, bbqy4ihvz9.com
@@ -2549,6 +2551,7 @@ routing = 2
 2, gamecps.com
 2, games.ifeng.com
 2, gangplank39.com
+2, gangway97.com
 2, ganjistatic1.com
 2, ganjituiguang.ganji.com
 2, gardenia25.com
@@ -2977,6 +2980,7 @@ routing = 2
 2, hsvtdj.top
 2, hsvwvr.icu
 2, hswxsatk7x.com
+2, ht55hm12n2.com
 2, ht9s1j1bf.com
 2, hthelulyq.com
 2, htlwbn.icu
@@ -3410,6 +3414,7 @@ routing = 2
 2, k98033ewp.com
 2, k99.cc
 2, k9egtgh8v.com
+2, k9x1d1uuj0.com
 2, k9zxbudgix.com
 2, kab201k0xs.com
 2, kaboodle49.com
@@ -4136,6 +4141,7 @@ routing = 2
 2, o03fssif8l.com
 2, o0rnzwzst5.com
 2, o1.jyjyj.cn
+2, o17kbwlq9p.com
 2, o1fhfeu6qa.com
 2, o28wg9kq8i.com
 2, o2x4h2txrc.com
@@ -4276,6 +4282,7 @@ routing = 2
 2, p74ugyuur.com
 2, p78vz5tcho.com
 2, p7d3miyh2q.com
+2, p7w3bmhmns.com
 2, p8u.hinet.net
 2, p99c3kwxg.com
 2, pagechoice.net
@@ -4789,6 +4796,7 @@ routing = 2
 2, rvdkjn.icu
 2, rvrl1srlq.com
 2, rw56y62bgg.com
+2, rwhyrlb8r2.com
 2, rwilwcovop.icu
 2, rwjfbjhktsftpe.com
 2, rwtraqur.com
@@ -6251,6 +6259,7 @@ routing = 2
 2, yuwenbin.host
 2, yvdb.cn
 2, ywnrqpd.xyz
+2, ywxc.net
 2, yx1.managershare.com
 2, yxdd.com
 2, yxgfcj.com
