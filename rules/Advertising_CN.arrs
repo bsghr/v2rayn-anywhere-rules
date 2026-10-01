@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6507
+# RULES: 6517
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -475,6 +475,7 @@ routing = 2
 2, 4kngwxegq5.com
 2, 4l5bbkug99.com
 2, 4mvkxs0o0.com
+2, 4mwe9ki9r.com
 2, 4nc4qc1fo.com
 2, 4nfesm3itf.com
 2, 4nndezdx2u.com
@@ -680,6 +681,7 @@ routing = 2
 2, 6spczz2hj1.com
 2, 6tdz25urqj.com
 2, 6uliq2uive.com
+2, 6ulv19ce9.com
 2, 6v2wkfw6pc.com
 2, 6v4.cn
 2, 6vspt720xf.com
@@ -1279,6 +1281,7 @@ routing = 2
 2, as1.wenku.baidu.com
 2, ashow.pcpop.com
 2, askjbvjnejcbzweh.com
+2, asrxwyud2.com
 2, assp.sohu.com
 2, asy76rvai.com
 2, at32jaers.com
@@ -2712,6 +2715,7 @@ routing = 2
 2, gownbea.icu
 2, gp.jstv.com
 2, gp.zaiyunli.cn
+2, gp2mi428s.com
 2, gpfwx.cn
 2, gpu2rbzpe.com
 2, gqcrgyufg.com
@@ -4719,6 +4723,7 @@ routing = 2
 2, rgzz3rs.icu
 2, rhaol5omof.com
 2, rhiolf.cn
+2, rhl8r3dkc.com
 2, rhmt1jjyo.com
 2, rhnipjxcxlhzbc.com
 2, rhododendron15.top
@@ -5121,6 +5126,7 @@ routing = 2
 2, tfgfgtm.com
 2, tfhpxv.icu
 2, tfjhjrqmu.icu
+2, tftwrvvavlpjjq.com
 2, tfyam4np2y.com
 2, tg0val4vb.com
 2, tgdlqeqpbh.com
@@ -5139,6 +5145,7 @@ routing = 2
 2, thragmoth.com
 2, thraittidz.com
 2, thralgrean.com
+2, thresher30.com
 2, throlnod.com
 2, thuk8hg48.com
 2, thvptb.icu
@@ -6017,6 +6024,7 @@ routing = 2
 2, xleemek84.com
 2, xlekg58lub.com
 2, xlx2ddw4f.com
+2, xmggucgmy.com
 2, xmgi1tqka.com
 2, xmm.wxc.cc
 2, xmo0oixbx8.com
@@ -6223,6 +6231,7 @@ routing = 2
 2, yr2spd4ucy.com
 2, yr7unl1qs.com
 2, yrgsqi0zc.com
+2, yrjxf61zb.com
 2, yrnv.cn
 2, yrwks6l3cy.com
 2, ys2000.cdn.bcebos.com
@@ -6319,6 +6328,7 @@ routing = 2
 2, zaxffxesykzvfs.com
 2, zay7gs1xkl.com
 2, zb4ohbnsf9.com
+2, zbeh6v9jj.com
 2, zbgoyqs.xyz
 2, zbl40hvzzy.com
 2, zbmeerconq.com
