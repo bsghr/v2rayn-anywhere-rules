@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6517
+# RULES: 6531
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -482,6 +482,7 @@ routing = 2
 2, 4p04u96158.com
 2, 4paradigm.com
 2, 4pcp5e2w7i.com
+2, 4ppj7n846t.com
 2, 4pyszxxaw.com
 2, 4q7unmlg5.com
 2, 4ro76m7k2n.com
@@ -516,6 +517,7 @@ routing = 2
 2, 52tian.net
 2, 5399.com
 2, 53h7rxip9.com
+2, 54ad.net
 2, 54ads.com
 2, 54igqsjd9.com
 2, 55726zubo56686.com
@@ -529,6 +531,7 @@ routing = 2
 2, 57573zubo36833.com
 2, 57577.live
 2, 57l2ng6r91.com
+2, 588677.xyz
 2, 58rfnch2yq.com
 2, 58tg.com
 2, 591520.xyz
@@ -596,6 +599,7 @@ routing = 2
 2, 5wv0y42ub.com
 2, 5wzew9jht.com
 2, 5xdz5pz072.com
+2, 5xg31saxfv.com
 2, 5xvtbbvb6.com
 2, 5y9nfpes.52pk.com
 2, 5yahh8v3.xyz
@@ -1331,6 +1335,7 @@ routing = 2
 2, b1.engdvd.com
 2, b1.xiao84.com
 2, b10.justacdn.net
+2, b11tuokk6g.com
 2, b11yn56zn.com
 2, b168.net
 2, b1zftjhtwb.com
@@ -1649,6 +1654,7 @@ routing = 2
 2, c3vzqvifsn.com
 2, c4ru5li2sa.com
 2, c5krw17gn0.com
+2, c5mj81yuuo.com
 2, c5mwwyqfvi.com
 2, c6.friok.com
 2, c64ihqx0gj.com
@@ -2314,10 +2320,12 @@ routing = 2
 2, ettoday.net
 2, eutrnfnm.com
 2, euuh.cn
+2, eux6eonqhd.com
 2, evidence20.com
 2, evpxl9a8h.com
 2, evrmwlh0dl.com
 2, evycvuy.icu
+2, ew0ctzt3vd.com
 2, ewbaenkiu.com
 2, ewekeoqn.com
 2, ewu1nguhw.com
@@ -4257,6 +4265,7 @@ routing = 2
 2, oxggiwdp57.com
 2, oxidation83.com
 2, oyb2ev9lqn.com
+2, oysdzwzivk.com
 2, oyz61nhz8.com
 2, oz6q1drif.com
 2, ozrnsf3ta.com
@@ -4648,6 +4657,7 @@ routing = 2
 2, r0eybo511.com
 2, r1jprcr42.com
 2, r27y52dd7.com
+2, r30vhf31sv.com
 2, r40xff8q48.com
 2, r4uws5iu3g.com
 2, r528e.cn
@@ -4702,6 +4712,7 @@ routing = 2
 2, remedyy46.com
 2, remehealth.net
 2, renrenkanpian.com
+2, reo682syw4.com
 2, reorganizes64.com
 2, requisite57.com
 2, rescission77.top
@@ -5529,6 +5540,7 @@ routing = 2
 2, vbjmrh.cn
 2, vbunpfvdn.com
 2, vbw3q6jxn.com
+2, vchhgjkbod.icu
 2, vcjzjnef.icu
 2, vclunl.icu
 2, vcsc1fp2f.com
@@ -5794,6 +5806,7 @@ routing = 2
 2, wifytd4tlq.com
 2, wih5mo0586.top
 2, wildwist.com
+2, winnower18.top
 2, wisteria37.top
 2, wit.qq.com
 2, witticism19.top
@@ -6409,6 +6422,7 @@ routing = 2
 2, zig1te84n.com
 2, zigq.cn
 2, zinoe.cn
+2, zipobfrcbodrvq.com
 2, zisu.cn.com
 2, zither89.com
 2, ziweuu.com
