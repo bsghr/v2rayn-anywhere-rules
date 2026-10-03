@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6531
+# RULES: 6542
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -317,6 +317,7 @@ routing = 2
 2, 2j9banjbst.com
 2, 2jdr5wuyzf.com
 2, 2juyabihe.com
+2, 2ka41vagh.com
 2, 2kbmdtlgme.com
 2, 2lj9n8sz0w.com
 2, 2lpwji3xr.com
@@ -836,6 +837,7 @@ routing = 2
 2, 8rnmj0roe1.com
 2, 8spjnme44.com
 2, 8tbllquzr6.com
+2, 8tjomzqlw.com
 2, 8uuxq3tvn.com
 2, 8w6hovz0d2.com
 2, 8w76hjp1vd.com
@@ -1649,6 +1651,7 @@ routing = 2
 2, c2vodqlmy.com
 2, c2y82fkyv.com
 2, c3mldou51.com
+2, c3mx41iik.com
 2, c3p9jkqd22.com
 2, c3q6l5oeq.com
 2, c3vzqvifsn.com
@@ -2202,6 +2205,7 @@ routing = 2
 2, e5yx.com
 2, e68k5d1yw6.com
 2, e75liqii98.com
+2, e7x2ccuv9.com
 2, e81j0an3d.com
 2, e90m7tos2.com
 2, e9377f.com
@@ -2891,6 +2895,7 @@ routing = 2
 2, hdcvecyv8.com
 2, hdjthzg.cn
 2, hdo0zseqy.com
+2, hdry1a0g9.com
 2, hdsrc-a.akamaihd.net
 2, he3tf77ow.com
 2, he4j6lz6d.com
@@ -3421,6 +3426,7 @@ routing = 2
 2, k6d.falang.net
 2, k7m4co459k.com
 2, k8mb640mta.com
+2, k8t39fu2n.com
 2, k8velr77p.com
 2, k90ey77nx.com
 2, k98033ewp.com
@@ -3583,6 +3589,7 @@ routing = 2
 2, legislator85.top
 2, leju.com
 2, lel704cjev.com
+2, lelzbtm2o.com
 2, letvdbrwhbnhrs.com
 2, leue.cn
 2, leyf5q4rk.com
@@ -4777,6 +4784,7 @@ routing = 2
 2, roj7ah16d.com
 2, ronfjvonmo.com
 2, rorwdbuazjbxta.com
+2, rotovator44.top
 2, rovz7ekw3r.com
 2, rowlock05.com
 2, roywc0iql.com
@@ -5526,6 +5534,7 @@ routing = 2
 2, v53groc9v.com
 2, v5rv8mnfk.com
 2, v700rtlhd.com
+2, v7mf6q1mx.com
 2, v84tz11w7.com
 2, v85ps46o4.com
 2, v8fjvv9o3.com
@@ -5918,6 +5927,7 @@ routing = 2
 2, x6kd8l204b.com
 2, x7qhjjryf1.com
 2, x7weiubb2f.com
+2, x8s007rgs.com
 2, x8wyxfxul.com
 2, x94pjnejo.com
 2, x9flqeptn.com
@@ -6036,6 +6046,7 @@ routing = 2
 2, xkverkik38.com
 2, xleemek84.com
 2, xlekg58lub.com
+2, xlljnxnyhrprhw.com
 2, xlx2ddw4f.com
 2, xmggucgmy.com
 2, xmgi1tqka.com
