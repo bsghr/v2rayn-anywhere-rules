@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6542
+# RULES: 6556
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -42,6 +42,7 @@ routing = 2
 2, 0e9knynfb.com
 2, 0elq99i0w.com
 2, 0etmx4b4o.com
+2, 0fs3mb0hh7.com
 2, 0fs6pe6w0j.com
 2, 0h9yewgei.com
 2, 0hagal2csg.com
@@ -316,9 +317,11 @@ routing = 2
 2, 2i93en16s9.com
 2, 2j9banjbst.com
 2, 2jdr5wuyzf.com
+2, 2ju7b73ton.com
 2, 2juyabihe.com
 2, 2ka41vagh.com
 2, 2kbmdtlgme.com
+2, 2lcdjyf37f.com
 2, 2lj9n8sz0w.com
 2, 2lpwji3xr.com
 2, 2nbg86d2x.com
@@ -538,6 +541,7 @@ routing = 2
 2, 591520.xyz
 2, 595image.com
 2, 598n8mpd6.com
+2, 59ufs4hof5.com
 2, 59zzkdt8pj.com
 2, 5b025cnm.top
 2, 5b0a1c63v9.com
@@ -1117,6 +1121,7 @@ routing = 2
 2, adasset.ethersaga.online
 2, adasset.flixfiend.top
 2, adbd.liuxue86.com
+2, adbfkaoxvm.in
 2, adblock.sina.cn
 2, adbot.tw
 2, adbottw.net
@@ -1599,6 +1604,7 @@ routing = 2
 2, bustles1.com
 2, butoqj0vh.com
 2, buttocks33.com
+2, buyrbto5z2.com
 2, bvfqhnyofanbfk.com
 2, bvhd1uhl5z.com
 2, bvnnxhmypzrpbe.com
@@ -2312,6 +2318,7 @@ routing = 2
 2, erebor.douban.com
 2, ergeapp.com
 2, esa2j46dwf.com
+2, esaqwot.com
 2, eshm72fwql.com
 2, esotvjhho.com
 2, esozdcn.icu
@@ -2557,6 +2564,7 @@ routing = 2
 2, g5xu1dslr6.com
 2, g64njjhyh.com
 2, g66ryy88z.com
+2, g6f0w30cze.com
 2, g6ird1tez2.com
 2, g6x2uvza37.com
 2, g89eyc8a1.com
@@ -2837,6 +2845,7 @@ routing = 2
 2, h1cn8nwng.com
 2, h1yfrt.com
 2, h27aq0mc6.com
+2, h32rbpk7ne.com
 2, h40q9nv18.com
 2, h4htfgrei0.com
 2, h4soqcsrp5.com
@@ -3705,6 +3714,7 @@ routing = 2
 2, lu.sogoucdn.com
 2, luolikong.net
 2, luolitang.com
+2, lurhtbf.com
 2, luujhia.com
 2, luwkhuku.com
 2, lv.myapks.com
@@ -4182,6 +4192,7 @@ routing = 2
 2, ocvdi0rum.com
 2, oczeilqyw.com
 2, od6992uotl.com
+2, odj3j8dsff.com
 2, odmerorlzo.com
 2, oe8mnxdtoi.com
 2, oe9s24wy9.com
@@ -4997,6 +5008,7 @@ routing = 2
 2, spellbind33.com
 2, spl.ztvx8.com
 2, spnuninugr.com
+2, sprinkler69.com
 2, spst2.com
 2, sq5f10q3d.com
 2, sqiorli2w.com
@@ -5546,6 +5558,7 @@ routing = 2
 2, vb5gi1zp5.com
 2, vbfsljw.com
 2, vbgyniffuy.com
+2, vbhbzhjaeudztw.com
 2, vbjmrh.cn
 2, vbunpfvdn.com
 2, vbw3q6jxn.com
@@ -5947,6 +5960,7 @@ routing = 2
 2, xdh0808.com
 2, xdhrvr.icu
 2, xdlipr.icu
+2, xdnjqtn.com
 2, xdxqw9nnr.com
 2, xdyjt.com
 2, xdyn03010jy.com
