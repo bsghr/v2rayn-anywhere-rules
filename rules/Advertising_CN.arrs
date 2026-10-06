@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6566
+# RULES: 6578
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -35,6 +35,7 @@ routing = 2
 2, 0bb8jytek.com
 2, 0bhl1k9hi.com
 2, 0c484j022z.com
+2, 0cvo4ebbpk.com
 2, 0d1oo8jp69.com
 2, 0dy3evz6x.com
 2, 0e1y8x7ft.com
@@ -433,6 +434,7 @@ routing = 2
 2, 3x8zapzon.com
 2, 3xeedcdci.com
 2, 3xeo00tqz.com
+2, 3ylj411rdn.com
 2, 3yx95kv3at.com
 2, 40nao7anx6.com
 2, 40vhwswtr6.com
@@ -699,6 +701,7 @@ routing = 2
 2, 6w4ix4bxz1.com
 2, 6x59axt21.com
 2, 6xu7at70ok.com
+2, 6y10di5jko.com
 2, 6zc7gvmavf.com
 2, 7011.stia.cn
 2, 70ba9ncke.com
@@ -1539,6 +1542,7 @@ routing = 2
 2, boyloves.fun
 2, bp.blogspot.com
 2, bp8mct71pn.com
+2, bpucmkg.com
 2, bpuvuun0xg.com
 2, bqloqigu.com
 2, bqmbcznkaz.icu
@@ -2262,6 +2266,7 @@ routing = 2
 2, egvhd2ggc1.com
 2, egvnfpnb31.com
 2, egxo.cn
+2, ehcecws.com
 2, ehh91kb6ic.com
 2, ehsf5afviv.com
 2, ehvkaakviw.com
@@ -2589,6 +2594,7 @@ routing = 2
 2, gcgcvbr52.com
 2, gchk5bcnaz.com
 2, gcjg3ry7m.com
+2, gcqgmgq.com
 2, gcvns12jp.com
 2, gd.189.cn
 2, gd.ct10000.com
@@ -3250,6 +3256,7 @@ routing = 2
 2, j3fvhzit0.com
 2, j3gkwzt7o.com
 2, j3idyosut.com
+2, j3ossmqgmc.com
 2, j4s12kfavg.com
 2, j5sgdum5n4.com
 2, j694fx3bp.com
@@ -5066,6 +5073,7 @@ routing = 2
 2, stringent19.com
 2, stubborn80.top
 2, su0k43kcy.com
+2, su4wxsrtku.com
 2, sub.powerapple.com
 2, subtraction59.com
 2, sudupan.com
@@ -5194,6 +5202,7 @@ routing = 2
 2, tianji520.cn
 2, tiexing.com
 2, tigfvdr.com
+2, tightrope23.com
 2, tiimg.com
 2, tikz.cn
 2, tinypic.com
@@ -5847,6 +5856,7 @@ routing = 2
 2, wj8i1rlp2b.com
 2, wk5fo6pyf.com
 2, wk70ccjk1a.com
+2, wkduza2x10.com
 2, wkjwumtex3.com
 2, wkzw.me
 2, wl.uqwjdhgv.top
@@ -6117,6 +6127,7 @@ routing = 2
 2, xtfxjlpglilrdo.com
 2, xtg5gdugqi.com
 2, xtjgtbzugy.com
+2, xtorbk1g3f.com
 2, xtxbemp.xyz
 2, xu919zz2i.com
 2, xue.zbyw.cn
@@ -6454,6 +6465,7 @@ routing = 2
 2, zhuashi.oss-cn-beijing.aliyuncs.com
 2, zhuqellv.com
 2, zhy333.com
+2, zhzrvjmyqvdhrc.com
 2, zig1te84n.com
 2, zigq.cn
 2, zinoe.cn
