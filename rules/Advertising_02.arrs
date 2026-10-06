@@ -1,10 +1,194 @@
 # NAME: Advertising_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 87403
+# RULES: 87716
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_02
 routing = 2
+2, netflix-updateinfo.com
+2, netflix.apple-green.net
+2, netflixca-updateprofilehelp.com
+2, netflixe.kundensupport-kundensupport.de
+2, netflopin.com
+2, netgraviton.net
+2, netguard.mobi
+2, nethit-free.nl
+2, netinsight.co.kr
+2, netizen.co
+2, netlify-rum.netlify.app
+2, netliker.com
+2, netlog.ru
+2, netmarbleslog.netmarble.com
+2, netmera-web.com
+2, netmera.com
+2, netminers.dk
+2, netmining.com
+2, netmng.com
+2, netmonitor.fi
+2, netnesspb.com
+2, netobscenityoverdo.com
+2, netpoint-media.de
+2, netpool.netbookia.net
+2, netpub.media
+2, netratings.com
+2, netseer.com
+2, netshelter.net
+2, netsolads.com
+2, netsponsors.com
+2, netspox.com
+2, netstam.com
+2, netstats.dk
+2, netsurfconsult.com
+2, nettokom-lp.information.nettokom.de
+2, netupdater.info
+2, netvigie.com
+2, netvisualizer.com
+2, netwayer.de
+2, netwisehirst.cfd
+2, netwo616.com
+2, network-marketing24.com
+2, network-media.info
+2, network.ad.nu
+2, network.bananafingers.com
+2, network.cogentco.com
+2, network.conterra.com
+2, network.epictv.com
+2, network.epictv.it
+2, network.lightpathfiber.com
+2, network.lumen.com
+2, network.mdbc.us
+2, network.oliunid.com
+2, network.oliunid.de
+2, network.oliunid.es
+2, network.oliunid.fr
+2, network.oliunid.it
+2, network.oliunid.jp
+2, network.oliunid.se
+2, network.realmedia.com
+2, network.screen13.com
+2, network.wintechnology.com
+2, networkad.nate.com
+2, networkad.net
+2, networkads.net
+2, networkhubcontrol.com
+2, networkinfo.org
+2, networking444.net
+2, networkingexchange.att.com
+2, networkingproperty.com
+2, networklast.com
+2, networkmanag.com
+2, networkprotection.mcafee.com
+2, networks1000.net
+2, networksdk.ssacdn.com
+2, networld.hk
+2, netzaehler.de
+2, netzstat.ch
+2, netzwerk-ad.de
+2, neudesicmediagroup.com
+2, neuhv.bingoloco.com
+2, neuiev.weinzeche.de
+2, neumanns-installation.de
+2, neural.myth.dev
+2, neurologist19.com
+2, neuroneabel.cyou
+2, neurotrack.neurolake.io
+2, neurulaphyma.qpon
+2, neutralpages.com
+2, neutro.thermas.com.br
+2, nevalyashka.link
+2, nevatcolling.cyou
+2, never2never.com
+2, neverforgettab.com
+2, neverthelessdepression.com
+2, neves.assucenanaves.com
+2, neviju.netmonet.co
+2, new-access802.net
+2, new-adtest.pages.dev
+2, new-collect.albacross.com
+2, new-incoming.email
+2, new-pressroom.com
+2, new-programmatic.com
+2, new-ramboplay.com
+2, new-sentry.digikala.com
+2, new-split.com
+2, new-vid-zone-1.blogspot.com.au
+2, new-vietcombank.com
+2, new-vietcombank.info
+2, new-vietcombank.net
+2, new.about2win.com
+2, new.alifattar.com
+2, new.aplicacoes-enterprise.com.br
+2, new.balls-club.com
+2, new.dreamia.fr
+2, new.extraitdesahib.com
+2, new.hayatiny.com
+2, new.hitunitebd.xyz
+2, new.hoerag.ch
+2, new.holidaydestinationtravel.ae
+2, new.lerian-nti.be
+2, new.newleafhb.com
+2, new.newplan.pt
+2, new.plus-eromanga.com
+2, new.techleads.club
+2, new.traffic.ru
+2, new.truekind.net
+2, new.veridianvows.com
+2, new24h.pro
+2, new4.me
+2, newads.bangbros.com
+2, newads.cmpnet.com
+2, newadserver.interfree.it
+2, newagerevenue.com
+2, newagevz.homes
+2, newandfresh.com
+2, newandroidapps.net
+2, newarirubidic.cyou
+2, newarkdriving.com
+2, newarrivals.club
+2, newbiquge.org
+2, newbluetrue.xyz
+2, newcarnet.uk.intellitxt.com
+2, newchallenges-dsp.com
+2, newclk.com
+2, newcm.newcastlemotors.com
+2, newdisplayformats.com
+2, newdosug.eu
+2, neweggstats.com
+2, newelsthallicplover.cyou
+2, newestizar.qpon
+2, newfeatureview.perfectionholic.com
+2, newg.clicknplay.to
+2, newgatemoble.com
+2, newgtm.cholenkini.com
+2, newip-info.com
+2, newip427.changeip.net
+2, newjersey-content.cresa.com
+2, newjersey.pgaofamericagolf.com
+2, newjulads.com
+2, newjunk4u.com
+2, newlaunches.uk.intellitxt.com
+2, newlazada.com
+2, newlinsfuegian.com
+2, newlog.daidoanket.vn
+2, newlog.overwolf.com
+2, newlog.tapchitaichinh.vn
+2, newlovez.co
+2, newlovez2.co
+2, newlovez3.co
+2, newlovez4.co
+2, newmayads.com
+2, newmedia.az
+2, newmedsdeal.eu
+2, newmetrics.formacionenmercados.com
+2, newmetrics.master-inmobiliario.net
+2, newms-shop.su
+2, newmytrp.com
+2, newnet.qsrch.com
+2, newnewton.pw
+2, newnns.com
+2, newnudecash.com
+2, newoctads.com
+2, newoneinoldoneout.pro
 2, newormedia.com
 2, newosama.com
 2, newosnotadprx.space
@@ -537,6 +721,7 @@ routing = 2
 2, nibbleaquabib.qpon
 2, niblikecatnapsprexy.cyou
 2, niblikegirder.qpon
+2, nibtjisgthdwt.online
 2, nicatethebene.info
 2, nice.theperryai.com
 2, nice.tranny.one
@@ -714,6 +899,7 @@ routing = 2
 2, nixkfmaywtugk.site
 2, niyimu.xyz
 2, nizarstream.xyz
+2, nizjbxcunbuew.site
 2, nj.5.p2l.info
 2, njatwiklklyae.site
 2, njawz0tlek.com
@@ -761,6 +947,7 @@ routing = 2
 2, njwnwczodnolp.online
 2, njxcbzvxmmdgk.website
 2, njxrpzdwiduhs.online
+2, njylufjzasxvz.space
 2, njytpx44.nwveubi1f3ly4yn63o.cyou
 2, njzjs.evenflo.com
 2, nk8l414bt3nf15.rest
@@ -807,6 +994,7 @@ routing = 2
 2, nktgs.drlivingood.com
 2, nktmuyapmeohz.online
 2, nktrzh.lastminute.ch
+2, nktxbdxovhnck.online
 2, nkueonpkfsaiy.space
 2, nkwadv.nate.com
 2, nkwampojlqbic.space
@@ -926,6 +1114,7 @@ routing = 2
 2, nlvxcyxcnwxlp.space
 2, nlvxwyesryreu.space
 2, nlxkzo.friopecas.com.br
+2, nlxmqpurgplwr.space
 2, nlxpsparlszfu.space
 2, nly9u12pi.com
 2, nlykgmhozbcee.online
@@ -1961,6 +2150,7 @@ routing = 2
 2, nuwlgkoejgirn.online
 2, nuwnvjcqknklq.space
 2, nuwoxw.incanto.eu
+2, nuwsufagfxt.in
 2, nuxaunjucpepp.website
 2, nuxp9z1wl15ve2.rest
 2, nuxuwhawo.com
@@ -2970,6 +3160,7 @@ routing = 2
 2, oferplan-data.lavozdegalicia.es
 2, ofettail.com
 2, offaces-butional.com
+2, offaloverapt.com
 2, offb.info
 2, offbeat-channel.pro
 2, offclaydolon.com
@@ -3244,6 +3435,7 @@ routing = 2
 2, ohtctjiuow.com
 2, ohtdbl.mister-auto.es
 2, ohtqpg.morphyrichards.co.uk
+2, ohvgbradcgcby.online
 2, ohvtrokyq.com
 2, ohvvvmxtyzvix.online
 2, ohwhejfefovlo.space
@@ -3536,6 +3728,7 @@ routing = 2
 2, olntyyszaelkp.online
 2, olodlstape.collegevidya.com
 2, olomaoborscht.cyou
+2, olonetsposted.cyou
 2, olopisotmvkug.site
 2, olopruy.com
 2, olotccygpfhxu.site
@@ -4359,6 +4552,7 @@ routing = 2
 2, oowvaygribfhj.space
 2, ooydxblhaegrz.website
 2, oozgka.immoscout24.ch
+2, oozkgskdzgdde.site
 2, oozngsbnluicy.website
 2, oozushirp.com
 2, op00.biz
@@ -4516,6 +4710,7 @@ routing = 2
 2, oppositeneglectcertainly.com
 2, oppressiveindifferent.com
 2, oppuz.com
+2, opqlxgnxiozfv.site
 2, opqnqewbgrjv.com
 2, opqrs.ltliang.com
 2, oprjr.shopfavoritedaughter.com
@@ -4623,6 +4818,7 @@ routing = 2
 2, oqbbkv.promosejours.com
 2, oqbgaqrkjczfi.online
 2, oqbimz.aviasales.ru
+2, oqblcfqnwsreo.online
 2, oqbpqf.syretski-sady.com.ua
 2, oqcw1f9yw.com
 2, oqdbkysendtnp.online
@@ -4699,6 +4895,7 @@ routing = 2
 2, orangf.fr
 2, orangutan.equaliteam.com
 2, orangutan.renovare.org
+2, oransastrier.cyou
 2, orasnighsludwig.qpon
 2, oratorbelievinginvention.com
 2, oratorio77.com
@@ -5095,6 +5292,7 @@ routing = 2
 2, otik.de
 2, otiladgyo.com
 2, otioqs.srcasino.es
+2, otitiscityish.qpon
 2, otitishanded.com
 2, otjfrsilqghzh.space
 2, otkgnoumbctec.store
@@ -5262,6 +5460,7 @@ routing = 2
 2, outhuntsorrowy.cyou
 2, outletdoorstepconnected.com
 2, outletpeople.com
+2, outliercrocker.qpon
 2, outlinedesignateinstalment.com
 2, outlinedistinguish.com
 2, outlookabsorb.com
@@ -5316,6 +5515,7 @@ routing = 2
 2, ouvvc.footforward.co.nz
 2, ouvyil.com
 2, ouxbqcndwoyze.site
+2, ouyagvtnjlovv.com
 2, ouzav.essenzshop.rs
 2, ouzoi.shoprumored.com
 2, ov.yahoo.co.jp
@@ -5767,6 +5967,7 @@ routing = 2
 2, p04.sc.origins.en25.com
 2, p06.sc.origins.en25.com
 2, p0b2hqyz.xyz
+2, p0h1nfzc2.com
 2, p0pn18sxvh.com
 2, p0y.cn
 2, p0yixb3wfv.com
@@ -6353,6 +6554,7 @@ routing = 2
 2, parchedsofa.com
 2, pardalretierlouther.qpon
 2, pardko.pricerunner.com
+2, pardnerinlacedcachrys.cyou
 2, pardompus.ru
 2, pardonfidleys.qpon
 2, parentpicture.com
@@ -7518,6 +7720,7 @@ routing = 2
 2, peeringhost.net
 2, peerius.com
 2, peerlessqueensuccessfully.com
+2, peevedtomines.cyou
 2, peever.myzen.co.uk
 2, peevesbookshelfallocation.com
 2, peevesfellafraid.com
@@ -7878,12 +8081,14 @@ routing = 2
 2, pfivwhdsliscy.online
 2, pfk94y5ke.com
 2, pfkorxvpmpazz.online
+2, pfl4ve2oeq8xettg5pzfiw98v.rest
 2, pflexads.com
 2, pfltjr.essentialnutrition.com.br
 2, pfmiliexijdfl.website
 2, pfmlzsxbuvrnp.space
 2, pfmmzmdba.com
 2, pfmram.slamjam.com
+2, pfmruyacigawjl.com
 2, pfnxggbwxmrcl.online
 2, pfoha.catalystpet.com
 2, pforv.verdantlyfe.com
@@ -7891,6 +8096,7 @@ routing = 2
 2, pfpmdbyighkrn.online
 2, pfqfc.skoutorganic.com
 2, pfqndecyikdrm.site
+2, pfrnknpahsnwe.online
 2, pftk.temu.com
 2, pfucg.nothingnew.com
 2, pfudbcdkkudqp.space
@@ -8222,6 +8428,7 @@ routing = 2
 2, phukienmaxpro.store
 2, phukienthoitranggiare.com
 2, phulkuhf.com
+2, phunidxuulouh.space
 2, phuolhogmxin.com
 2, phuphi.com
 2, phurxg.laline.co.il
@@ -9014,6 +9221,7 @@ routing = 2
 2, plagaethulr.cyou
 2, plageslegcamber.cyou
 2, plagiumdossman.cyou
+2, plagoselienor.cfd
 2, plagtracker.fr
 2, plagueyglub.shop
 2, plain-plane.com
@@ -9454,6 +9662,7 @@ routing = 2
 2, pmccdezkbkbpw.online
 2, pmdxwtmaxpfos.space
 2, pmedtitpghzvz.site
+2, pmefxrwwqsgpg.website
 2, pmelon.com
 2, pmfahgvvqiyyz.online
 2, pmfmtnykkgpsa.website
@@ -11783,6 +11992,7 @@ routing = 2
 2, publipagos.com
 2, publir.com
 2, publish-int.se
+2, publishcreaseddieters.cfd
 2, publishednundear.com
 2, publisher-event.ads.prd.ie.internal.unity3d.com
 2, publisher-network.com
@@ -12300,6 +12510,7 @@ routing = 2
 2, pwwysydh.com
 2, pwxaed.be-mydesk.com
 2, pwxnufxcwbbev.space
+2, pwyamrbild.in
 2, pwysrdjxbbplu.space
 2, pwzrfznosfblpi.com
 2, pwzxkpphqoeby.store
@@ -12444,6 +12655,7 @@ routing = 2
 2, pyudirsgzbzbq.site
 2, pyuzvhrkqfwdg.online
 2, pyvanqnmywiop.website
+2, pywdggjljfybn.site
 2, pyx.lhgy2oeyyucmx9luh.cyou
 2, pyxis.atp.fox
 2, pyxjkx.springjapan.com
@@ -12756,6 +12968,7 @@ routing = 2
 2, qczg1nsnvo.com
 2, qczgr.keyless-city.com
 2, qd.x4399.com
+2, qd32n9lpq.com
 2, qd38xgoin9.com
 2, qdb6gd3nth.ru
 2, qdbqdirohipeb.space
@@ -13034,6 +13247,7 @@ routing = 2
 2, qiix78.net
 2, qiji1.jdwx.info
 2, qilqmdtikegk.com
+2, qim0lvk6m.com
 2, qimagnauebhcq.online
 2, qimcqs.hometogo.dk
 2, qimqebsonbvvy.space
@@ -13178,6 +13392,7 @@ routing = 2
 2, qlkmasrw.com
 2, qllbrima.com
 2, qlmfpj.laura.ca
+2, qlnniuyoptqpt.online
 2, qlnomb.com
 2, qlnwhkkvpnfpn.website
 2, qloekmmsuwjlq.website
@@ -13885,6 +14100,7 @@ routing = 2
 2, queue2switching.net
 2, queuefireball.com
 2, queueolives.cfd
+2, queuingmudsill.com
 2, queujzffuwaog.site
 2, quezachieve.cfd
 2, qufzoiycxutsn.website
@@ -13967,6 +14183,7 @@ routing = 2
 2, qujishu.com
 2, quk9.destinia.com.ar
 2, qukaqmdewtarx.site
+2, quknedcmwvpcr.online
 2, quksodcbcybmo.space
 2, quksyhnvkuhru.website
 2, qultgdlesbdaw.online
@@ -14311,6 +14528,7 @@ routing = 2
 2, r.my.com
 2, r.nexoraid1.space
 2, r.niwepa.com
+2, r.openai.com
 2, r.partner.badoo.ru
 2, r.powuta.com
 2, r.qip.ru
@@ -14513,6 +14731,7 @@ routing = 2
 2, ragakxzz.in
 2, ragapa.com
 2, ragazzeinvendita.com
+2, ragckcvjwcgos.com
 2, rageagainstthesoap.com
 2, ragerpelikaivoltes.cyou
 2, rageruvanite.com
@@ -14569,6 +14788,7 @@ routing = 2
 2, raisingpeppermint.com
 2, raisinsqualor.cyou
 2, raisqahsubhte.space
+2, rajeevrapido.cfd
 2, rajeezwhksdfl.site
 2, rajidaeglowtrawley.cyou
 2, rajifi.ekosport.be
@@ -14842,6 +15062,7 @@ routing = 2
 2, rbjbghvkbywgnl.com
 2, rbjixtnbjdcnd.online
 2, rbjrfofcbpapw.website
+2, rbjupwodwybnv.website
 2, rblezsuhrvhor.space
 2, rblx-copier.vercel.app
 2, rbm.tbmods.ru
@@ -15014,6 +15235,7 @@ routing = 2
 2, rdrrn.drinkwell.ca
 2, rdrtrk.com
 2, rdsa2012.com
+2, rdscikovpclch.site
 2, rdsgb.petplate.com
 2, rdtk.io
 2, rdtk.maia.insure
@@ -15177,6 +15399,7 @@ routing = 2
 2, rebsoljuhmrdy.com
 2, rebudpotboy.cyou
 2, rebukedelinquent.com
+2, rebulkvacuistfennish.cfd
 2, rebutvarment.com
 2, rebuylengest.cfd
 2, rec.aiservice.vn
@@ -15488,6 +15711,7 @@ routing = 2
 2, reducedretrievalelemental.com
 2, reducingwailingspirit.com
 2, reductions-impots.fr
+2, reduplgieaway.cyou
 2, redustrentee.cfd
 2, redustsinters.com
 2, reduxcms-sgtm-staging.1800gotjunk.com
@@ -16186,6 +16410,7 @@ routing = 2
 2, resistpajamas.com
 2, reskins.fr
 2, reslatescrim.qpon
+2, resmeltbegash.cyou
 2, resnubdreich.com
 2, resoleswhams.shop
 2, resolutionmeasures.com
@@ -16350,6 +16575,7 @@ routing = 2
 2, results.uservalidate.co.uk
 2, resumekeeper.com
 2, resumetwigincarnate.com
+2, resurgehyblan.com
 2, reswardamuairbill.cfd
 2, reswimcaunch.com
 2, retag.xyz
@@ -16640,7 +16866,6 @@ routing = 2
 2, rg338ne0rt.com
 2, rgaaabezlzkde.site
 2, rgaagnida.com
-2, rgadvert.com
 2, rgarcorsbqfss.online
 2, rgbbrdsrwxxoa.space
 2, rgbppxtvieoytnoej.org
@@ -17080,6 +17305,7 @@ routing = 2
 2, rjtpnsou.curvii.dk
 2, rjtuu.inergytek.com
 2, rjtzqgeltwaep.store
+2, rjuskpbpvyarm.site
 2, rjvgkmahuzded.site
 2, rjw4obbw.com
 2, rjwwqkreamwjq.top
@@ -17095,6 +17321,7 @@ routing = 2
 2, rkcfmfm97.com
 2, rkdcil.monamenagementmaison.fr
 2, rkdms.com
+2, rkdneykkvvfar.space
 2, rkdugrpg.com
 2, rkdyj4usf.com
 2, rkeit.livom.at
@@ -17638,6 +17865,7 @@ routing = 2
 2, routingoutplugins.net
 2, rouwhapt.com
 2, rovememoirs.com
+2, rovemoong.qpon
 2, rovenskyward.com
 2, rover.medibact.com
 2, rover.omeralabs.com
@@ -17914,6 +18142,7 @@ routing = 2
 2, rsqiodtrmtavz.space
 2, rsquk.brunch.us
 2, rsqyopssenvny.online
+2, rsriezdmvjocq.com
 2, rsrldrnubehntu.com
 2, rsrnht.sediadaufficio.it
 2, rsrqlxsqunwjo.online
@@ -18489,6 +18718,7 @@ routing = 2
 2, rthijnsymshxxi.com
 2, rthpetahceiol.space
 2, rtibriolhapk.com
+2, rtidarth.in
 2, rtip4abjv3.com
 2, rtk.fullsalessystem.com
 2, rtk.io
@@ -18649,6 +18879,7 @@ routing = 2
 2, rtubipo.monsieurfuture.com
 2, rtudgresrsudg.online
 2, rtutccflgcwyr.website
+2, rtvcuppnvtm.com
 2, rtveukrjijjve.site
 2, rtvhdwqstuwat.site
 2, rtwgvkozpvicu.website
@@ -18724,6 +18955,7 @@ routing = 2
 2, rudousgillied.com
 2, rudr-events.joybird.com
 2, ruecaeeedvyel.online
+2, ruefujqlinmem.online
 2, ruegenfleisch.de
 2, ruehg.dotcompliancegroup.com
 2, ruehofmdhvu.com
@@ -18833,6 +19065,7 @@ routing = 2
 2, ruradura.com
 2, rural-report.pro
 2, ruralrobin.com
+2, rurbanatweel.com
 2, rurbancuppen.com
 2, rurlrng5w9ji48blb.rest
 2, ruscontext.com
@@ -21792,6 +22025,7 @@ routing = 2
 2, scratchyhook.com
 2, scrauchfolic.com
 2, scrddlfvolmta.site
+2, screartincal.com
 2, screechdeprivescatter.com
 2, screechingfurniture.com
 2, screechingstocking.com
@@ -22114,6 +22348,7 @@ routing = 2
 2, sealchwetland.qpon
 2, sealedissuedtelly.com
 2, sealedsnirt.com
+2, sealercurette.cyou
 2, sealsteroid.com
 2, sealthatleak.com
 2, sealtravels.com
@@ -27051,6 +27286,7 @@ routing = 2
 2, sflvqq.pleinoutlet.com
 2, sfnfbubdzlfdm.online
 2, sfngya.centrecom.com.au
+2, sfnslwvfjjder.space
 2, sfp.lollix.com.br
 2, sfp.mcfitness.com.br
 2, sfp.safe.baidu.com
@@ -27077,6 +27313,7 @@ routing = 2
 2, sfwupoxzuurva.space
 2, sfxdifdabwsux.site
 2, sfxsxbwmloubq.site
+2, sfyafvkqzyfaj.online
 2, sfyxdeilpnpij.online
 2, sfzeqzazjmowe.space
 2, sfzjk57ov.com
@@ -27108,6 +27345,7 @@ routing = 2
 2, sgaijlnojrrok.site
 2, sgajop.hififnk.kr
 2, sgali-mcs.byteoversea.com
+2, sgaukdlj.com
 2, sgaymlmrfc.com
 2, sgben.com
 2, sgbpk.livewithaura.com
@@ -29895,6 +30133,7 @@ routing = 2
 2, shiismlarder.cfd
 2, shiiva.fr
 2, shikarirevent.qpon
+2, shikkentutulus.qpon
 2, shiksalogions.cfd
 2, shili.downxia.com
 2, shili.wanyx.com
@@ -30609,6 +30848,7 @@ routing = 2
 2, showzyeye.com
 2, shp.stayhealthy.ch
 2, shp.zionhealth.com
+2, shpgceahdtjsh.site
 2, shpyxmtsqnsay.space
 2, shqjickefiglh.website
 2, shqmetrics.sony.com
@@ -30624,6 +30864,7 @@ routing = 2
 2, shriekwinepamphlet.com
 2, shrillbighearted.com
 2, shrillspoon.com
+2, shrillyclose.com
 2, shrillylucida.qpon
 2, shrillypants.com
 2, shrimpinvestigation.com
@@ -30702,6 +30943,7 @@ routing = 2
 2, siberreklam.com
 2, sibilantrespectablerelative.com
 2, siblinggut.com
+2, sibrdiarmuvav.site
 2, sibulla.com
 2, sibxoc.wundercurves.de
 2, sibyllafaquir.shop
@@ -30755,6 +30997,7 @@ routing = 2
 2, sidjgh.monamenagementjardin.fr
 2, sidlingsemang.qpon
 2, sidogccuomfnx.online
+2, siegeslucken.com
 2, sieniewicz.pl
 2, sienitemarek.cfd
 2, sienokeeryirp.online
@@ -36763,6 +37006,7 @@ routing = 2
 2, soakweaseluniversal.com
 2, soakysecrets.com
 2, soamelxvleduv.space
+2, soamuylg.com
 2, soap.bubbleroom.be
 2, soap.bubbleroom.com
 2, soap.bubbleroom.de
@@ -37411,6 +37655,7 @@ routing = 2
 2, sontfbmuqonzf.online
 2, soob00avn4.com
 2, soodland.com
+2, sooehqjjbkcmdmy.com
 2, sookypapoula.com
 2, soolb.broadway.com
 2, sooncoinsprecaution.com
@@ -37936,6 +38181,7 @@ routing = 2
 2, spherical-brilliant.com
 2, sphidaphyps.com
 2, sphostserver.com
+2, spicaealbas.qpon
 2, spicasamuchco.com
 2, spice-sugar.net
 2, spice.pmctelecom.co.uk
@@ -37958,6 +38204,7 @@ routing = 2
 2, spider.capricciocolumbus.org
 2, spider.hoomie.online
 2, spider.storiesofchang.com
+2, spiderycankers.cyou
 2, spielerquipucoinage.qpon
 2, spielsbeni.com
 2, spiestimaeus.qpon
@@ -38048,6 +38295,7 @@ routing = 2
 2, spnfvzpjcihlo.site
 2, spnuninugr.com
 2, spnx.jp
+2, spockshraf.cfd
 2, spoedlyyhexxr.online
 2, spoffymarctwier.cfd
 2, spohopena.com
@@ -38389,6 +38637,7 @@ routing = 2
 2, squidlogic.com
 2, squillabutenelofter.cyou
 2, squillsbesoil.cyou
+2, squillsquivers.cyou
 2, squinredebit.cyou
 2, squinthalvers.cfd
 2, squirestankie.com
@@ -47980,6 +48229,7 @@ routing = 2
 2, st.primopiano.com
 2, st.prindo.at
 2, st.prindo.de
+2, st.putler.com
 2, st.q-alshefa.com
 2, st.rahm.de
 2, st.rapidium.com.br
@@ -55975,6 +56225,7 @@ routing = 2
 2, synxis.ikosresorts.com
 2, syoedxrarbvdq.space
 2, syorrvelwqrqx.site
+2, syphonquinon.com
 2, sypuhe.thelittlegreenbag.nl
 2, syqhvv.vivense.com
 2, syrdgbyaktgsw.space
@@ -57067,6 +57318,7 @@ routing = 2
 2, tabcarts.com
 2, tabcp.tryshavest.com
 2, taberedscaups.qpon
+2, tabidlyginnedjt.qpon
 2, tabificlarick.cfd
 2, tabiraathecae.com
 2, tabjnarbsbhlk.space
@@ -58011,6 +58263,7 @@ routing = 2
 2, tapingferocitymadeira.com
 2, tapioni.com
 2, tapir.albertaguardtraining.ca
+2, tapirsdecus.qpon
 2, tapisfonduk.cfd
 2, tapit.com
 2, tapixesa.pro
@@ -59131,6 +59384,7 @@ routing = 2
 2, teindsfritt.com
 2, teipd.onlinecyclinggear.com
 2, tejxthyxavhfb.site
+2, tek3shnfk.com
 2, teksishe.net
 2, tektositorrifytahltan.qpon
 2, tel-tel-fie.com
@@ -60136,6 +60390,8 @@ routing = 2
 2, thvptb.icu
 2, thwduaktyeuvh.space
 2, thwerbakxfysg.space
+2, thwujirmhunzf.website
+2, thwxzegtztpvi.online
 2, thy7v872x26qot4.cfd
 2, thycamois.qpon
 2, thyhsuoyvcgoh.website
@@ -61165,6 +61421,7 @@ routing = 2
 2, tmh.meiser-hotels.de
 2, tmhgma.juwelo.de
 2, tmhptoix9l4l2nlyo7u.cfd
+2, tmhwidens.com
 2, tmi.jv-telcoid.es
 2, tmi.mno.link
 2, tmi.vodafone.de
@@ -61185,6 +61442,7 @@ routing = 2
 2, tmmjwelxryxod.site
 2, tmmunzeyobwst.online
 2, tmmxaxfisdgrv.space
+2, tmnbdupr.com
 2, tmnkaqnaubucu.site
 2, tmopcaxczgrgb.store
 2, tmozs.com
@@ -61517,6 +61775,7 @@ routing = 2
 2, tonletshoihere.qpon
 2, tonnfrilal.qpon
 2, tonngmhhvemqr.space
+2, tonsuremammies.qpon
 2, tonsurerykingperkin.cyou
 2, tonsvewbbofzi.site
 2, tontent.powv1deo.cc
@@ -67827,6 +68086,7 @@ routing = 2
 2, tsaor7o1e9.com
 2, tsapphires.buzz
 2, tsapphiresand.info
+2, tsapphiresanda.org
 2, tsb-protect.pro
 2, tsb.terrashield.be
 2, tsbdthtol.com
@@ -68175,6 +68435,7 @@ routing = 2
 2, tubr8.fr
 2, tubroaffs.org
 2, tubs.magnushomeproducts.com
+2, tubularstypsis.com
 2, tubulihae.cyou
 2, tubyour.qpon
 2, tucdj.trollcoclothing.ca
@@ -68998,6 +69259,7 @@ routing = 2
 2, uapkagxacexij.online
 2, uapkwwndagkgi.site
 2, uaqcui.tennis-point.fr
+2, uaqiwadxmsniz.online
 2, uaqngxxyfmzen.online
 2, uarating.com
 2, uarjf.rockyboots.com
@@ -69052,6 +69314,7 @@ routing = 2
 2, ubhoryjlvjfux.website
 2, ubhur.rothys.com
 2, ubiepvmfdzkhx.online
+2, ubiixsnzsdxei.website
 2, ubilinkbin.com
 2, ubiquitoussea.com
 2, ubiquitousyard.com
@@ -69157,6 +69420,7 @@ routing = 2
 2, ucnwhhtaadaqp.site
 2, ucounter.ucoz.net
 2, ucpfezjbcrmwh.space
+2, ucpwpdeivtpjf.com
 2, ucqphyuqskvqo.online
 2, ucqvrreziifwz.website
 2, ucriqupq.com
@@ -69237,6 +69501,7 @@ routing = 2
 2, udsrvxbleatmk.site
 2, udszpipk.bospanien.dk
 2, udtnjdhtdb.com
+2, udveaphh.com
 2, udvgpkmn.vertextech-eg.com
 2, udwaporb.screenplayer.ai
 2, udwhjufhukjbda.com
@@ -69310,6 +69575,7 @@ routing = 2
 2, ufbpqmryrrctn.site
 2, ufbteq.elfa-pharm.pl
 2, ufbxokkiootk6zpi.rest
+2, ufcttivbsu.com
 2, ufcxoaidboqxt.site
 2, ufdnysonfvwnj.space
 2, ufefj.joylovedolls.com
@@ -69654,6 +69920,7 @@ routing = 2
 2, ukoonrbkzvikf.site
 2, ukourm.mlmparts.com
 2, ukpgsb.agrieuro.es
+2, ukpnwnzfhqwid.site
 2, ukqitv.bizhint.jp
 2, ukrashulya.ru
 2, ukrbanner.net
@@ -69883,6 +70150,7 @@ routing = 2
 2, unagingvb.shop
 2, unakinloggin.com
 2, unalaskamiaskitewormproof.monster
+2, unamendpongids.qpon
 2, unanimousinflammableboxing.com
 2, unanimouslytackytraumatize.com
 2, unarkunhairs.cfd
@@ -69933,6 +70201,7 @@ routing = 2
 2, uncannygallonerosion.com
 2, uncannyhick.com
 2, uncannyidentifierfeed.com
+2, uncapspigmyronnel.qpon
 2, uncchl.mylene.eu
 2, uncdkhptiktno.site
 2, uncededtravoy.com
@@ -70460,6 +70729,7 @@ routing = 2
 2, up.tbllem.com
 2, up.trafficbull.com
 2, upaitqexpunnz.online
+2, upaktpkntpvhz.online
 2, upalytics.com
 2, upandsawhwh.com
 2, upapi.net
@@ -72178,6 +72448,7 @@ routing = 2
 2, vanmaymomo.me
 2, vanmayshoppe.com
 2, vanmh.bestbullysticks.com
+2, vannicdoolees.cyou
 2, vanqrf.pcrichard.com
 2, vanrcoanza.in
 2, vantage-media.net
@@ -72480,10 +72751,12 @@ routing = 2
 2, vbkryy.pasonacareer.jp
 2, vblaejlytzpwh.online
 2, vbljtmyibtty.com
+2, vblmjpzxyfghn.online
 2, vblwixpwrrrjh.site
 2, vbmjlejlmjljm.top
 2, vbmjlejlmvorz.top
 2, vbmxorkseftlr.online
+2, vbnji2n837hiogntp6t.cfd
 2, vbnritbsiqqar.online
 2, vbookziyzfrfn.space
 2, vboro.de
@@ -73674,6 +73947,7 @@ routing = 2
 2, vindictivemopenthrone.com
 2, vinealdisneyoscars.cyou
 2, vinegardaring.com
+2, vinetdidym.qpon
 2, vinetpolloi.cfd
 2, vinff.buffalojeans.ca
 2, vingroup.fit
@@ -73905,6 +74179,7 @@ routing = 2
 2, visor.sberbank.ru
 2, vistarsagency.com
 2, visual-pagerank.fr
+2, visualcommservices.com
 2, visualdna.com
 2, visualrevenue.com
 2, visualscience.external.bbc.co.uk
@@ -73938,6 +74213,7 @@ routing = 2
 2, vivaciousinterposed.com
 2, vivads.net
 2, vivalife.fr
+2, vivantsrenninsposteen.cfd
 2, vivapays.com
 2, vivaylien.com
 2, vivayvnd.com
@@ -74108,6 +74384,7 @@ routing = 2
 2, vliplatform.com
 2, vlitag.com
 2, vljfo.lanimal.co
+2, vljhkfzqhmjqo.website
 2, vljyztqsnkhvra.com
 2, vlkvviufipfsw.website
 2, vllyuoioyabfw.site
@@ -74826,6 +75103,7 @@ routing = 2
 2, vqlpduejkboak.site
 2, vqmxv.allfreshseafood.com
 2, vqndh.frankincensemyrrh.com
+2, vqnkmosjemdjyq.com
 2, vqooisjexmusf.space
 2, vqoqlebzyzbkz.top
 2, vqoqlebzyzbyq.top
@@ -74911,6 +75189,7 @@ routing = 2
 2, vrwzecqcyjfmy.site
 2, vrxvrikmhdhgyu.com
 2, vry9.destinia.com
+2, vryyxoupqqjyl.site
 2, vrzasswvgpsvg.com
 2, vrzmfy.fool.com
 2, vrzqat.zegarek.net
@@ -75013,6 +75292,7 @@ routing = 2
 2, vt.mak.com
 2, vtabnalp.net
 2, vtbtwpoziolcq.online
+2, vtbxgipcoyucp.website
 2, vtc3rlbjj.com
 2, vtcbanking6868.weebly.com
 2, vtcstape.veterinariaconectada.com.br
@@ -75148,6 +75428,7 @@ routing = 2
 2, vutipseethu.net
 2, vutyilceqbbdd.online
 2, vuukle.net
+2, vuvqsctm.com
 2, vuwgityuhrcvf.online
 2, vuwjv7sjvg7.zedporn.com
 2, vuwofoeszqiby.store
@@ -75768,8 +76049,10 @@ routing = 2
 2, wakoredevel.cyou
 2, walachmisname.cfd
 2, waldenfarms.com
+2, walkedbreezed.cfd
 2, walkeralacrityfavorite.com
 2, walkieaswaytailage.cfd
+2, walkistshewel.cyou
 2, walkourworld.com
 2, walkthedinosaur.com
 2, wall.vgr.com
@@ -75796,6 +76079,7 @@ routing = 2
 2, wamahe.wokularach.pl
 2, wamblespercha.cfd
 2, wamcash.com
+2, wampleoccultsslurban.cyou
 2, wamqahkis.in
 2, wamyal.cfd
 2, wan.kbdmp.com
@@ -75850,6 +76134,7 @@ routing = 2
 2, warfarecontemn.com
 2, warfulbutt.shop
 2, warhealthy.com
+2, wariednobis.com
 2, warilyclickframes.com
 2, warkedmalie.com
 2, warlikecouple.com
@@ -76180,6 +76465,7 @@ routing = 2
 2, wcumiqigmpkoc.site
 2, wcuujkywusvpv.online
 2, wcvevntrztrdi.site
+2, wcvrhurqdmx.com
 2, wcvunl9fjg.4mz8b15fh5weebn7fvg2w6g4fuc.cyou
 2, wcwpnipkfluae.space
 2, wcwxkbakmbtct.space
@@ -76196,6 +76482,7 @@ routing = 2
 2, wdbbnerscjscs.space
 2, wdbcus.ultimatepetnutrition.com
 2, wdbecodqxlyuu.site
+2, wdbupelhfqfpa.space
 2, wdcgxt.fillity.com.br
 2, wdciliercqndn.site
 2, wdczlavbweeby.online
@@ -77087,6 +77374,7 @@ routing = 2
 2, weekendwungee.com
 2, weekheadlong.com
 2, weeklycurrents.com
+2, weelbrasero.qpon
 2, weem.weemco.com
 2, weemenmilpas.qpon
 2, weeoffer.com
@@ -77374,6 +77662,7 @@ routing = 2
 2, wghoubdaxpsik.site
 2, wghvvdmdqgdzz.space
 2, wgimhiakumdkf.site
+2, wgjawyhhfmbel.space
 2, wgkalppicmkzm.site
 2, wgkga5oh0.com
 2, wgkqglotkohpe.site
@@ -77422,6 +77711,7 @@ routing = 2
 2, whapspromit.cyou
 2, whapukapaeonia.qpon
 2, wharfepithi.cyou
+2, wharryenforthtudor.cyou
 2, wharvesrefall.com
 2, wharvetauteralvar.qpon
 2, whatagophers.cyou
@@ -77671,6 +77961,7 @@ routing = 2
 2, wide.preppio.no
 2, widenedcurfs.cyou
 2, wideprophetbeast.com
+2, widerferrer.qpon
 2, widerplanet.com
 2, widespace.com
 2, widespread1.top
@@ -78530,6 +78821,7 @@ routing = 2
 2, wormishnimrod.com
 2, wormlaboratoryspeeding.com
 2, wormmillard.cyou
+2, wormvengeaurin.qpon
 2, worqzcrxiwuob.online
 2, worried-advantage.com
 2, worried-difference.pro
@@ -78587,6 +78879,7 @@ routing = 2
 2, woxbnkonxwvrk.site
 2, woyzulu.cfd
 2, wozdcc.vidaxl.at
+2, wozxijumltgqr.website
 2, wp-club.net
 2, wp-worthy.de
 2, wp.lockmysneaker.com
@@ -78823,6 +79116,7 @@ routing = 2
 2, wsapi-global.master.live
 2, wsapi.master.live
 2, wsdazglmaboql.store
+2, wsezwshs.com
 2, wsfmgmmpfdekq.online
 2, wsfpej.denhamjapan.jp
 2, wsgefymufhnxb.website
@@ -78832,6 +79126,7 @@ routing = 2
 2, wsieasjngwhuf.site
 2, wsjlbbqemr23.com
 2, wsknow.net
+2, wsknwakvkeiad.site
 2, wsktql.mopar.eu
 2, wslog-global-dual.coolccloud.com
 2, wslubggeuxqtj.online
@@ -79035,6 +79330,7 @@ routing = 2
 2, wvluhltwdsaze.space
 2, wvmuspphwbdua.space
 2, wvnggxfjhwdzd.online
+2, wvnmeccyneqnoi.com
 2, wvontgd.pqmg.bid
 2, wvoudw.magaseek.com
 2, wvqljkowybfxe.space
@@ -81165,6 +81461,7 @@ routing = 2
 2, x455.dailybreeze.com
 2, x4bxnav4g.com
 2, x4hu95mh0t.com
+2, x4o1ifg2kpyb1zyvf9m9t.cfd
 2, x5.jougennotuki.com
 2, x5qfmuzyeftep8n3wmmbc3n8.cfd
 2, x5x.uxf6gkki26h8hx8p49885e.cyou
@@ -83124,6 +83421,7 @@ routing = 2
 2, xrbcmxuzmyfzj.website
 2, xrbxqqyscduwx.site
 2, xrdcyg.ellementry.com
+2, xree6ed5.xyz
 2, xrff-adguard.pro
 2, xrghhenchuigi.com
 2, xrhrrk.steepandcheap.com
@@ -83175,6 +83473,7 @@ routing = 2
 2, xrvsxpthlyyrv.website
 2, xrxalsvtsruem.site
 2, xrxybn.kotofey-shop.ru
+2, xrzmwjhevcfwl.online
 2, xrznrtxbswpuk.space
 2, xs.houyi.baofeng.net
 2, xs213.javgg.club
@@ -83276,6 +83575,7 @@ routing = 2
 2, xtpdsreqdoz.com
 2, xtpmpp.cruisewinkel.nl
 2, xtpselfqfeeui.space
+2, xtpwvbpikmcwn.site
 2, xtqcxzztrjbsx.site
 2, xtqnus.surfstitch.com
 2, xtqwodezfpfbv.space
@@ -83362,6 +83662,7 @@ routing = 2
 2, xutolr.mantan-web.jp
 2, xutpiayukwxsl.online
 2, xutwjkyhpmayq.space
+2, xuudoiddtdfzr.website
 2, xuuy19fiyvw4nj.rest
 2, xuvxaknemnska.site
 2, xuwmylm697.com
@@ -83856,6 +84157,7 @@ routing = 2
 2, yauztedgzgwbt.online
 2, yavapaigazer.cfd
 2, yavli.com
+2, yawkwxxretzyl.site
 2, yawlsheared.com
 2, yawmarqmnbndi.website
 2, yawncollaremotion.com
@@ -84322,6 +84624,7 @@ routing = 2
 2, yiqrzlkvqailu.online
 2, yiqucmaskhrpy.website
 2, yirdvenouscag.cyou
+2, yiskwbbaftjvkld.com
 2, yitongfang.com
 2, yiunpfniv.com
 2, yiuonzcmzxodc.site
@@ -84449,6 +84752,7 @@ routing = 2
 2, ykzzjyyshqniz.space
 2, yl04z4v.cn
 2, yl0sj9.cyou
+2, yl5j7o2wwezxlipbbmbt3b3t9.cfd
 2, yl9c8v1le.com
 2, ylafwg.greenpoint.pl
 2, ylakmr.expressionscatalog.com
@@ -84464,6 +84768,7 @@ routing = 2
 2, ylgdgagginpkp.website
 2, ylhcmalddcqmq.website
 2, yliawdutzwwsd.space
+2, ylicfpxstmtsy.online
 2, ylih6ftygq7.com
 2, yljhcklmakgbn.website
 2, ylkkp.com
@@ -85746,6 +86051,7 @@ routing = 2
 2, zcuce.greenleafblends.hu
 2, zcumbriaxpjbl.site
 2, zcuwwsophlhpm.online
+2, zcvcnxhoevpqm.online
 2, zcvedfvzumhak.online
 2, zcvin.habrokathletics.com
 2, zcvsxqcyjtcse.online
@@ -86537,6 +86843,7 @@ routing = 2
 2, zmsfz.superduperburgers.com
 2, zmt.hellhorror.com
 2, zmtqdeijsqyjj.website
+2, zmtvjgitqnjjl.website
 2, zmvhh.arcticcool.com
 2, zmvvg.tunedintokyo.com
 2, zmvwfd.icu
@@ -86778,6 +87085,7 @@ routing = 2
 2, zpqdgwcusmklx.site
 2, zpqfqxoczrwfq.space
 2, zprk.io
+2, zpryvpodgjybc.website
 2, zpsfvc.phinaturals.com
 2, zpsmdryujwkoz.site
 2, zptfrxoaumxhnu.com
@@ -86786,6 +87094,7 @@ routing = 2
 2, zpv7v3olgl7el9b.rest
 2, zpveapgfsqcty.online
 2, zpvihbppfwgzo.website
+2, zpwomixmgczcy.space
 2, zpwykn.emassagechair.com
 2, zpxvpvee.icu
 2, zpygdezovpdju.space
@@ -86891,6 +87200,7 @@ routing = 2
 2, zrsetz.shutterstock.com
 2, zrtbg.citybbq.com
 2, zrtrlgbdhvtwf.space
+2, zrvotkyrpllyu.online
 2, zrvwyyqpkeehx.online
 2, zrw1.destinia.jp
 2, zrwmausnhmxkq.space
@@ -86986,6 +87296,7 @@ routing = 2
 2, ztbuhwcovpgus.space
 2, ztcadx.com
 2, ztccmx.scandinavianbaby.pl
+2, ztcpeelqlprfbowg1ii1rmb68wefry.cfd
 2, ztdxxwodwyfaz.site
 2, zteeavqibjsgj.space
 2, ztehj.feelviia.com
@@ -87064,6 +87375,7 @@ routing = 2
 2, zugcc.rotita.com
 2, zugedrpjyzgim.space
 2, zugo.com
+2, zuhgg4cxt6noffj8.rest
 2, zuhityfzxjhan.website
 2, zuidpnenuegax.site
 2, zuidyahjryyff.site
@@ -87295,6 +87607,7 @@ routing = 2
 2, zyblzrevmklzw.top
 2, zybrdr.com
 2, zybveu.swappie.com
+2, zycjclvhhzhqv.online
 2, zycnof.distrelec.de
 2, zydecipy.kajskjul8.se
 2, zyek35wsn.com

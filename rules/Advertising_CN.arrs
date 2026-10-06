@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6556
+# RULES: 6566
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -340,6 +340,7 @@ routing = 2
 2, 2top98spp.shop
 2, 2u2wyftqmr.com
 2, 2vcb9onxjm.com
+2, 2wg8pp90e.com
 2, 2wqs6d2gp.com
 2, 2xi988xu22.com
 2, 2xx63f0bfy.com
@@ -642,6 +643,7 @@ routing = 2
 2, 6acupxubky.com
 2, 6aontlsdf.com
 2, 6aoodbdx94.com
+2, 6aqqzbehy.com
 2, 6avz.com
 2, 6b8emvi3ya.com
 2, 6b9wbbjf5s.com
@@ -819,6 +821,7 @@ routing = 2
 2, 8h6oiw0uo.com
 2, 8h6whvlpnz.com
 2, 8h7j79qxm.com
+2, 8hvq8jskh.com
 2, 8hx7k0211.com
 2, 8iav2fuiy.com
 2, 8j7tu8vtxx.com
@@ -1454,6 +1457,7 @@ routing = 2
 2, beareyes.com.cn
 2, beautiful45.com
 2, becode.xiao84.com
+2, bedwlzqwkxpzfc.com
 2, begonia20.com
 2, beijing.buzhi5.com
 2, beizi.biz
@@ -2069,6 +2073,7 @@ routing = 2
 2, discount63.top
 2, discuss.com.hk
 2, disentangle56.top
+2, dishwasher46.com
 2, display.itmemo.cn
 2, displink.com
 2, disruptive49.com
@@ -3605,6 +3610,7 @@ routing = 2
 2, lf2cgxz0b.com
 2, lfew.cn
 2, lftw3i7d5.com
+2, lfxm6qdn0.com
 2, lg0lh2qfj4.com
 2, lgaekait.com
 2, lgmi.com
@@ -4295,6 +4301,7 @@ routing = 2
 2, p.qlogo.cn
 2, p.wktfkj.com
 2, p.zol-img.com.cn
+2, p0h1nfzc2.com
 2, p0pn18sxvh.com
 2, p0y.cn
 2, p0yixb3wfv.com
@@ -4561,6 +4568,7 @@ routing = 2
 2, qcwvmdi.com
 2, qczg1nsnvo.com
 2, qd.x4399.com
+2, qd32n9lpq.com
 2, qd38xgoin9.com
 2, qdqf7syrx0.com
 2, qdzyspjx.com
@@ -4587,6 +4595,7 @@ routing = 2
 2, qigreveth.com
 2, qihang168.top
 2, qiji1.jdwx.info
+2, qim0lvk6m.com
 2, qirloith.com
 2, qirqritp.com
 2, qishen123.com
@@ -5144,6 +5153,7 @@ routing = 2
 2, tdlqxdwwpptpli.com
 2, tebv.cn
 2, tech.jiukang.org
+2, tek3shnfk.com
 2, telecome.cn
 2, telphiruq.com
 2, tempest22.top
