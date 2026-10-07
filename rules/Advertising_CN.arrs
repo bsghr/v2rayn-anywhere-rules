@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6578
+# RULES: 6589
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -51,6 +51,7 @@ routing = 2
 2, 0hasprzzu.com
 2, 0hqq3dnjf.com
 2, 0hr4wyjfv3.com
+2, 0i2nax2di.com
 2, 0iem8mw1lx.com
 2, 0ihw4ipvm5.com
 2, 0jghm60qg.com
@@ -293,7 +294,7 @@ routing = 2
 2, 27gh.cc
 2, 27ocdto914.com
 2, 283.laobanfa.com
-2, 28lu.net
+2, 28ksw.com
 2, 29ruu0q5p.com
 2, 29zle9rx4.com
 2, 2agmk5mh07.com
@@ -1145,6 +1146,7 @@ routing = 2
 2, admd.housefun.com.tw
 2, admd.yam.com
 2, admsapi.businessweekly.com.tw
+2, ado35vj3i.com
 2, adotone.com
 2, adp.cnki.net
 2, adp.cnool.net
@@ -2565,6 +2567,7 @@ routing = 2
 2, g1.taijuba.com
 2, g12tm6xl3.com
 2, g15wt3ci68.com
+2, g2afpbshj.com
 2, g2w9awdq0.com
 2, g2wg5308q.com
 2, g3m92egwo.com
@@ -2620,6 +2623,7 @@ routing = 2
 2, gez1mlp2xy.com
 2, gf6axe5bdb.com
 2, gfblaghzk2.com
+2, gfehmnq5e.com
 2, gfh9j4wyub.com
 2, gfnulonelb.com
 2, gfvk.cn
@@ -3019,6 +3023,7 @@ routing = 2
 2, hswxsatk7x.com
 2, ht55hm12n2.com
 2, ht9s1j1bf.com
+2, htazjxk.com
 2, hthelulyq.com
 2, htlwbn.icu
 2, httpcn.com
@@ -3108,6 +3113,7 @@ routing = 2
 2, ifb33zuqc.com
 2, ifeng.com
 2, ifengimg.com
+2, ifnb6hfem.com
 2, ig65.vip
 2, ig66.vip
 2, ig67.vip
@@ -3611,6 +3617,7 @@ routing = 2
 2, leju.com
 2, lel704cjev.com
 2, lelzbtm2o.com
+2, leotard54.com
 2, letvdbrwhbnhrs.com
 2, leue.cn
 2, leyf5q4rk.com
@@ -3899,6 +3906,7 @@ routing = 2
 2, mkue.cn
 2, mkyc81u6je.com
 2, mliyokonw.com
+2, mly5hvbae.com
 2, mm.jbzj.com
 2, mm.nwell.net
 2, mm.paizi.net
@@ -5276,6 +5284,7 @@ routing = 2
 2, trafficjam.cn
 2, trammel46.top
 2, trammel74.top
+2, trampoline12.com
 2, trapezium69.top
 2, travel44.top
 2, treatment11.top
@@ -5785,6 +5794,7 @@ routing = 2
 2, w75zr9nfj.com
 2, w766ewvx75.com
 2, w7gx7y9wk.com
+2, w8n97pkzn6.com
 2, w97nv5ibv4.com
 2, w9cvyte89.com
 2, w9p70nort.com
@@ -6144,6 +6154,7 @@ routing = 2
 2, xwddvfoasvtxjo.com
 2, xwdsp.com
 2, xxffo.com
+2, xxfjhbiuwyphdi.com
 2, xxhfuaek.icu
 2, xxp4802or.com
 2, xxsmad7.com
