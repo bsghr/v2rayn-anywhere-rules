@@ -1,6 +1,6 @@
 # NAME: Meta
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 557
+# RULES: 555
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Meta
@@ -392,8 +392,6 @@ routing = 1
 2, gfacecbook.com
 2, graph-fallback.instagram.com
 2, graph.instagram.com
-2, graph.whatsapp.com
-2, graph.whatsapp.net
 2, groups.com
 2, hackerfacebook.com
 2, hackfacebook.com

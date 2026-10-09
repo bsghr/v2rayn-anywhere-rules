@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6589
+# RULES: 6596
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -553,6 +553,7 @@ routing = 2
 2, 5b518c8he0.com
 2, 5bayjqsrgd.com
 2, 5bess6df0.com
+2, 5bfjvunmrp.com
 2, 5bkhq0lwmq.com
 2, 5bpajgg436.com
 2, 5bybyqjzl.com
@@ -1159,7 +1160,6 @@ routing = 2
 2, ads.yeeyi.com
 2, adsage.com
 2, adsc.wasu.tv
-2, adsclick.yx.js.cn
 2, adserve.work
 2, adshows.21cn.com
 2, adsmind.gdtimg.com
@@ -1973,6 +1973,7 @@ routing = 2
 2, da.daji.com
 2, da.mgtv.com
 2, dabaoku.com
+2, dabetlewtbdppi.com
 2, daciuehpyf.com
 2, dadatuwz.com
 2, dahaolong.top
@@ -2133,6 +2134,7 @@ routing = 2
 2, dms.xuexxing.com
 2, dmym.fwol.cn
 2, dmyzf4op0.com
+2, dn1pvim4v1.com
 2, dneimig.com
 2, dnminullwq.com
 2, dnnxq2b16.com
@@ -2568,6 +2570,7 @@ routing = 2
 2, g12tm6xl3.com
 2, g15wt3ci68.com
 2, g2afpbshj.com
+2, g2dgmgl9dy.com
 2, g2w9awdq0.com
 2, g2wg5308q.com
 2, g3m92egwo.com
@@ -2580,6 +2583,7 @@ routing = 2
 2, g6f0w30cze.com
 2, g6ird1tez2.com
 2, g6x2uvza37.com
+2, g86a0qbf1h.com
 2, g89eyc8a1.com
 2, g8nwdolod.com
 2, g9cvic3khh.com
@@ -2593,6 +2597,7 @@ routing = 2
 2, gardenia25.com
 2, gb0143odqh.com
 2, gb3scpejq.com
+2, gb742ld0c.com
 2, gbiltuj8w.com
 2, gcgcvbr52.com
 2, gchk5bcnaz.com
@@ -3167,7 +3172,6 @@ routing = 2
 2, img50.pingguolv.com
 2, img599.net
 2, img999.com
-2, imgdb.cn
 2, imgoss820.top
 2, imgs.cc
 2, imgur.com
@@ -3408,6 +3412,7 @@ routing = 2
 2, juandou.com
 2, judicial4.com
 2, judicious85.top
+2, juggler36.com
 2, jun01.oss-cn-beijing.aliyuncs.com
 2, junior48.com
 2, junshizhanlue.com
@@ -4609,7 +4614,6 @@ routing = 2
 2, qifake.com
 2, qigreveth.com
 2, qihang168.top
-2, qiji1.jdwx.info
 2, qim0lvk6m.com
 2, qirloith.com
 2, qirqritp.com
@@ -5617,6 +5621,7 @@ routing = 2
 2, vfie3ximi3elx4uw.cfd
 2, vfnq.cn
 2, vfpkraveam.com
+2, vfqhky3tos.com
 2, vfymgla.com
 2, vglkx9lick.com
 2, vgovvoinf.com
@@ -5763,6 +5768,7 @@ routing = 2
 2, w2qyyljk71.com
 2, w3.ting55.com
 2, w3fov7zal.com
+2, w4b52osbr5.com
 2, w4nw434j7n.com
 2, w505cb.cc
 2, w505cb.com
@@ -6534,6 +6540,7 @@ routing = 2
 2, zqqwr9snx1.com
 2, zqtdgsgkib.icu
 2, zqy0jcfipu.com
+2, zr7f20uk8y.com
 2, zrgnoey.icu
 2, zri2wv8u1.com
 2, zrjr81na94.com
