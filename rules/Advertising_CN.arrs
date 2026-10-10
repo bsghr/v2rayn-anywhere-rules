@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6551
+# RULES: 6557
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -66,6 +66,7 @@ routing = 2
 2, 0oi1ej7mo.com
 2, 0oo9j37xp.com
 2, 0otmh22aj2.com
+2, 0qry58i9es.com
 2, 0qxfxqif0.com
 2, 0s1wclct6.com
 2, 0s5qb3rfz.com
@@ -173,7 +174,6 @@ routing = 2
 2, 159i.com
 2, 15mxfnk6sw.com
 2, 15tianqi.com
-2, 1615vip.com
 2, 165tchuang.com
 2, 168.it168.com
 2, 169v9l59i.com
@@ -218,6 +218,7 @@ routing = 2
 2, 1iuh5l.com
 2, 1iw9r46xh5.com
 2, 1j397opcuw.com
+2, 1jlbewhnp5.com
 2, 1jlp1qbgu.com
 2, 1jzocofm4.com
 2, 1k1bd77k9.com
@@ -425,6 +426,7 @@ routing = 2
 2, 3t4j5adg9x.com
 2, 3vkgutjorg.com
 2, 3vvuu0z8ui.com
+2, 3wrv1uzotr.com
 2, 3wzq2yxde.com
 2, 3x1ry6we9.com
 2, 3x5h6x434.com
@@ -437,6 +439,7 @@ routing = 2
 2, 40vhwswtr6.com
 2, 412dyo1ef.com
 2, 41vtzzt0s.com
+2, 42mu2c4akt.com
 2, 42vaywaovr.com
 2, 431kls9qsf.com
 2, 4399sj.com
@@ -1315,11 +1318,11 @@ routing = 2
 2, awcecrod.com
 2, awh3vupyf.com
 2, awifi.cn
-2, awjakpos.com
 2, ax.ifeng.com
 2, ax07in8xkr.com
 2, ax1x.com
 2, ax2t0u9ly.com
+2, axkozwhiqah.in
 2, axq9j15p0.com
 2, aybhalkar.com
 2, aybikaemg.com
@@ -2510,6 +2513,7 @@ routing = 2
 2, fuma8ligq.com
 2, fummd03je4.com
 2, fun8.us
+2, funambulist98.com
 2, fuoo1.top
 2, fuw6cipmw.com
 2, fuztty4b5g.com
@@ -3097,7 +3101,6 @@ routing = 2
 2, ig65.vip
 2, ig66.vip
 2, ig67.vip
-2, ih336.com
 2, ihbkqdj55.com
 2, ihhuyvugv.com
 2, ii1.chajiaotong.com
@@ -3841,7 +3844,6 @@ routing = 2
 2, mgky6yjwq.com
 2, mgpl5pqg29.com
 2, mgzjin.cn
-2, mh3666.com
 2, mhaqoffcj7.com
 2, mhdnspro.com
 2, mhgu.cn
@@ -4005,6 +4007,7 @@ routing = 2
 2, naivety48.com
 2, namnothp.com
 2, nannvshuo.com
+2, nar17stuqf.com
 2, naszig.cn
 2, naxqhla.com
 2, nb4ds7c13d.com
@@ -4537,6 +4540,7 @@ routing = 2
 2, q6zikgclq9.com
 2, q7vnwa1ma7.com
 2, q8pmxabng9.com
+2, q9cu7eok92.com
 2, q9ss0yqwa.com
 2, qa2bdtwm7h.com
 2, qab0m5irus.com
@@ -5106,6 +5110,7 @@ routing = 2
 2, t7fv5mjt8i.com
 2, t7h2otlhd.com
 2, t7ywa5ai3.com
+2, t8yctltd8s.com
 2, t9x2gu6it3.com
 2, ta7088hrd.com
 2, ta7tfk0o2h.com
@@ -6522,6 +6527,7 @@ routing = 2
 2, zsz8xljo8y.top
 2, zt2088.com
 2, zthuhludil.com
+2, zttrpnhufhdxno.com
 2, ztyumn.ifeng.com
 2, zu9srbxg0t.com
 2, zujtlj.icu
