@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6557
+# RULES: 6572
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -181,6 +181,7 @@ routing = 2
 2, 16mzw9gff.com
 2, 16xxq8lb4g.com
 2, 17.huanqiu.com
+2, 1736js66.com
 2, 177o.com
 2, 17ce.com
 2, 17ryi4j3qb.com
@@ -340,6 +341,7 @@ routing = 2
 2, 2top98spp.shop
 2, 2u2wyftqmr.com
 2, 2vcb9onxjm.com
+2, 2w7urj3f2.com
 2, 2wg8pp90e.com
 2, 2wqs6d2gp.com
 2, 2xi988xu22.com
@@ -748,6 +750,7 @@ routing = 2
 2, 7g761j2nc.com
 2, 7ho8oc3svg.com
 2, 7imz0d5nay.com
+2, 7istqn6fh.com
 2, 7iwxojx1s.com
 2, 7jf3kxi6bq.com
 2, 7jqi6um1g.com
@@ -1394,6 +1397,8 @@ routing = 2
 2, bbs.gmbbk.com
 2, bchina-1.xsfaya.com
 2, bcjhlhuhq.icu
+2, bcmbmedbqx.icu
+2, bcmbmedbqx.top
 2, bd-china-1.appmobile.cn
 2, bd-js.duote.com
 2, bd-js1.2345.com
@@ -1834,6 +1839,7 @@ routing = 2
 2, considerice.com
 2, contagion77.com
 2, contemplate23.top
+2, contortionist08.com
 2, contrive73.top
 2, convergent16.top
 2, corkscrew33.com
@@ -2600,6 +2606,7 @@ routing = 2
 2, geav5man0.com
 2, geecradv.com
 2, gef153x1u.com
+2, gefxhyby9.com
 2, gege51.com
 2, generation456.com
 2, generation74.com
@@ -4192,6 +4199,7 @@ routing = 2
 2, od6992uotl.com
 2, odj3j8dsff.com
 2, odmerorlzo.com
+2, odzfjvbsd.com
 2, oe8mnxdtoi.com
 2, oe9s24wy9.com
 2, oeaznhm2wx.com
@@ -4330,6 +4338,7 @@ routing = 2
 2, pavxtxikkjrdfy.com
 2, pb.shuxigua.com
 2, pb1b7cqwvs.com
+2, pbeldhnbk.com
 2, pbo8y8igrp.com
 2, pbuuzazvrw.com
 2, pbwlwdzje.com
@@ -4559,6 +4568,7 @@ routing = 2
 2, qd.x4399.com
 2, qd32n9lpq.com
 2, qd38xgoin9.com
+2, qddlm.com
 2, qdqf7syrx0.com
 2, qdzyspjx.com
 2, qe9wckxig.com
@@ -4597,6 +4607,7 @@ routing = 2
 2, qjiz.cn
 2, qjqdkli0ag.com
 2, qkdrsi4et.com
+2, qkfywghv.com
 2, qkg7yplpfo.com
 2, qkixeld.xyz
 2, qkr4uac6tx.com
@@ -5101,6 +5112,7 @@ routing = 2
 2, t19olm6fd.com
 2, t2.picb.cc
 2, t298jlqqf.com
+2, t2f3pqd40.com
 2, t2q0gv7zjg.com
 2, t4s8t6p39.com
 2, t57u6anx2.com
@@ -5690,6 +5702,7 @@ routing = 2
 2, vv1.pyhfxdm.cn
 2, vvogrqq6r.com
 2, vvqc95xhtx.com
+2, vvs0eu66z.com
 2, vvtpftuiqrbdha.com
 2, vvv.ieduw.com
 2, vvzjhzccndbhva.com
@@ -5788,6 +5801,7 @@ routing = 2
 2, wbraekvint.com
 2, wc6y3nrv7g.com
 2, wc74aa875.com
+2, wcu79k85a.com
 2, wde0a1qrm.com
 2, wdp5rczwlp.com
 2, wdrn97z1o.com
@@ -6119,6 +6133,7 @@ routing = 2
 2, xwafyzovqu.icu
 2, xwddvfoasvtxjo.com
 2, xwdsp.com
+2, xwpmbxdwlkrfzo.com
 2, xxffo.com
 2, xxfjhbiuwyphdi.com
 2, xxhfuaek.icu
