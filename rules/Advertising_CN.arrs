@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6586
+# RULES: 6593
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -17,6 +17,7 @@ routing = 2
 2, 03mnj87wir.com
 2, 049bv1hdzn.com
 2, 0512s.com
+2, 051ss3usg.com
 2, 0592.mobi
 2, 063rpyn37z.com
 2, 06789.xyz
@@ -290,7 +291,6 @@ routing = 2
 2, 26gg.bnq86.com
 2, 26io4qnxz.com
 2, 26yj3wme9q.com
-2, 27gh.cc
 2, 27ocdto914.com
 2, 283.laobanfa.com
 2, 28ksw.com
@@ -1324,6 +1324,7 @@ routing = 2
 2, awcecrod.com
 2, awh3vupyf.com
 2, awifi.cn
+2, awp8r0f7q.com
 2, ax.ifeng.com
 2, ax07in8xkr.com
 2, ax1x.com
@@ -1840,6 +1841,7 @@ routing = 2
 2, concave88.top
 2, concussion33.top
 2, confluent54.top
+2, conjuror45.com
 2, conscience34.top
 2, considerice.com
 2, contagion77.com
@@ -3302,6 +3304,7 @@ routing = 2
 2, jgdzthrmmhnddc.com
 2, jgid.cn
 2, jgo1pcbx9.com
+2, jgp0ohuv2.com
 2, jgpo1zqhj.com
 2, jgstny.com
 2, jh2szzt7n.com
@@ -3357,6 +3360,7 @@ routing = 2
 2, jp532fdo5.com
 2, jpg1.oss-cn-beijing.aliyuncs.com
 2, jpzbjh.icu
+2, jq5ls14m0.com
 2, jqbhtv.icu
 2, jqfuser.icu
 2, jqmr7zssmd.com
@@ -3803,6 +3807,7 @@ routing = 2
 2, m9sz0hh3f7.com
 2, m9ylqs5rn.com
 2, ma1.meishij.net
+2, ma9gqw1l4.com
 2, magnolia77.top
 2, maideatp.com
 2, main.jiukang.org
@@ -4678,6 +4683,7 @@ routing = 2
 2, qxaz2xcw.com
 2, qxbpi331k.com
 2, qxwoiv.com
+2, qy4l27p9f.com
 2, qyel.cn
 2, qykezpy.xyz
 2, qypaizhuo.com
@@ -5966,6 +5972,7 @@ routing = 2
 2, x6d93mku0.com
 2, x6img.com
 2, x6kd8l204b.com
+2, x70wk5e54.com
 2, x7qhjjryf1.com
 2, x7weiubb2f.com
 2, x8s007rgs.com
