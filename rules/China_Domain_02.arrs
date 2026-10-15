@@ -1,60 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 10566
+# RULES: 10513
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xtxh.net
-2, xtxnxk.sbs
-2, xtylxx.com
-2, xtyyw.com
-2, xtzdc.com
-2, xtzhiliji.com
-2, xtzjup.com
-2, xtzpw.com
-2, xtzy.com
-2, xu1s.com
-2, xu8.fun
-2, xuan5.com
-2, xuanba.com
-2, xuancaizi.com
-2, xuanceo.com
-2, xuancheng.org
-2, xuanchuanyi.com
-2, xuandan.com
-2, xuandecarpet.com
-2, xuanfengge.com
-2, xuanhaikuwan.com
-2, xuanhao.com
-2, xuanhk.com
-2, xuanhuange.com
-2, xuanhuange.net
-2, xuanjigame.com
-2, xuanjingcn.com
-2, xuanjutong.com
-2, xuanke.com
-2, xuankuge.com
-2, xuanma.com
-2, xuannaer.com
-2, xuanqii.com
-2, xuanquge.com
-2, xuanqun.com
-2, xuanruanjian.com
-2, xuanshitou.com
-2, xuanshu.com
-2, xuanshu.org
-2, xuansiwei.com
-2, xuantaikeji.com
-2, xuanteng.org
-2, xuanwifi.com
-2, xuanwonainiu.com
-2, xuanwumobile.com
-2, xuanwww.com
-2, xuanxiaodi.com
-2, xuanxiaozhuanjia.com
-2, xuanxuan.com
-2, xuanxuangame.com
 2, xuanxue.com
 2, xuanxuewang.com
 2, xuanyang888.com
@@ -5728,7 +5678,6 @@ routing = 1
 2, yzj.cc
 2, yzja.com
 2, yzjb.com
-2, yzjdgs88.com
 2, yzjj120.com
 2, yzjjw.net
 2, yzjob.net
@@ -6562,7 +6511,6 @@ routing = 1
 2, zgjtb.com
 2, zgjxcad.com
 2, zgjxjjw.com
-2, zgjymg.com
 2, zgjzy.org
 2, zgkao.com
 2, zgkashi.com
@@ -9380,7 +9328,6 @@ routing = 1
 2, znzyf.com
 2, zo-station.com
 2, zoassetmanagement.com
-2, zobmxcfw.com
 2, zocai.com
 2, zocolor.com
 2, zocoxx.com

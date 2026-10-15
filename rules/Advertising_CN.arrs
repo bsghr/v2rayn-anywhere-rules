@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6214
+# RULES: 6210
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -630,7 +630,6 @@ routing = 2
 2, 6aontlsdf.com
 2, 6aoodbdx94.com
 2, 6aqqzbehy.com
-2, 6avz.com
 2, 6b8emvi3ya.com
 2, 6b9wbbjf5s.com
 2, 6bgubwkwoh.com
@@ -777,7 +776,6 @@ routing = 2
 2, 85270jylmzsym.top
 2, 86o5bui4n.com
 2, 86uk.com
-2, 874547.men
 2, 876920.com
 2, 877mcpiom.com
 2, 87uq.com
@@ -807,6 +805,7 @@ routing = 2
 2, 8hvq8jskh.com
 2, 8hx7k0211.com
 2, 8iav2fuiy.com
+2, 8icep0mqi.com
 2, 8j7tu8vtxx.com
 2, 8jkx.com
 2, 8k69vb6421.com
@@ -929,7 +928,6 @@ routing = 2
 2, a.91zhongkao.com
 2, a.armystar.com
 2, a.baidinet.com
-2, a.bake818.cn
 2, a.baomihua.com
 2, a.bfking.cn
 2, a.breaktime.com.tw
@@ -956,7 +954,6 @@ routing = 2
 2, a.qncye.net
 2, a.qsjiajiao.com
 2, a.qunzou.com
-2, a.rensheng5.com
 2, a.shenchuang.com
 2, a.tainengchong.com
 2, a.thn21.com
@@ -1045,7 +1042,6 @@ routing = 2
 2, abc.hkepc.net
 2, abc.ruodian360.com
 2, abc.yebaike.com
-2, abcd.5lu.com
 2, abcd.cnhuoche.com
 2, abcd.yiq.com
 2, abcd.zle.com
@@ -1213,13 +1209,13 @@ routing = 2
 2, alicdn.com
 2, alimama.alicdn.com
 2, alimama.cn
-2, alime-pic.oss-cn-hangzhou.aliyuncs.com
 2, alitui.weibo.com
 2, aliyuncs.com
 2, allyes.$third-party
 2, alnhfq9ov4.com
 2, altitude52.com
 2, am.szhome.com
+2, am3ydgq1h.com
 2, amcraahmou.com
 2, amftsawknf.com
 2, amlindred.com
@@ -1325,7 +1321,6 @@ routing = 2
 2, b8o9c4s42l.com
 2, b9jda4zig.com
 2, bahpqcq.com
-2, baidu-taobao-av.com
 2, baidu.com
 2, baidu1.cardbaobao.com
 2, baidu1.codejie.net
@@ -2191,7 +2186,6 @@ routing = 2
 2, electronic23.com
 2, eliezerpmsa.com
 2, elmerpmsd.com
-2, elsbfby.com
 2, elsieawd.com
 2, elviraawa.com
 2, elwd3duunc.com
@@ -2352,6 +2346,7 @@ routing = 2
 2, first-hufu.oss-cn-shanghai.aliyuncs.com
 2, fitchpmsa.com
 2, fittomniku.com
+2, fizmvbysarrvva.com
 2, fjalsr83a6.com
 2, fjpopxgyfrlxvc.com
 2, fjuga.top
@@ -2374,6 +2369,7 @@ routing = 2
 2, fotao9.com
 2, foxdfpbmignjdq.com
 2, fp.nanrenwo.net
+2, fp0ao2bav.com
 2, fp2nn4zxlp.com
 2, fp9gvw5ber.com
 2, fpb.sohu.com
@@ -2432,6 +2428,7 @@ routing = 2
 2, fxjs.2541.com
 2, fy1vifdn5.com
 2, fyosies.icu
+2, fz1j7l8n2.com
 2, fz55vq.site
 2, fz94px.site
 2, fzavvanz.com
@@ -2907,6 +2904,7 @@ routing = 2
 2, hwrzdbokzdttry.com
 2, hxbt.alading123.com
 2, hxjs.tool.hexun.com$domain=~quote.hexun.com
+2, hxpfsdvfm.com
 2, hy.huangye88.com.cn
 2, hy.huangye88.net
 2, hyaplnr.com
@@ -3085,7 +3083,6 @@ routing = 2
 2, ivza0m05f.com
 2, iwanad.baidu.com
 2, iwoihuemn.com
-2, iy.com.cn
 2, iy0keh7qj7.com
 2, iyhaatedew.com
 2, iyuedu.cn.com
@@ -3319,7 +3316,6 @@ routing = 2
 2, kgou4s5dz.com
 2, kheejcqnll.com
 2, kheivutb.com
-2, khrtac.xiangha.com
 2, khutedov.com
 2, kiees.com
 2, kiuee8.com
@@ -3550,6 +3546,7 @@ routing = 2
 2, lurhtbf.com
 2, luujhia.com
 2, lv.myapks.com
+2, lv3f2bqnb.com
 2, lvdvltsid.com
 2, lvykdmk.icu
 2, lvzs619n1c.com
@@ -3584,7 +3581,6 @@ routing = 2
 2, m1.jintang114.org
 2, m1.kuanff.com
 2, m1.nn670.com
-2, m1.vodjk.com
 2, m1.we556.com
 2, m11bkuusyb.com
 2, m17d1e83q.com
@@ -3617,6 +3613,7 @@ routing = 2
 2, m9ylqs5rn.com
 2, ma1.meishij.net
 2, ma9gqw1l4.com
+2, magician29.com
 2, magnolia77.top
 2, maideatp.com
 2, main.jiukang.org
@@ -4085,6 +4082,7 @@ routing = 2
 2, p4dc8ve6i.com
 2, p4p.sina.com.cn
 2, p5doaulee2.com
+2, p5jrngqnp.com
 2, p5si0mu8u7.com
 2, p66jed4iv.com
 2, p6q6qpze3f.com
@@ -4392,7 +4390,6 @@ routing = 2
 2, qphlllvgt.com
 2, qpvrutah.com
 2, qq2tdd0xx.com
-2, qqfby.com
 2, qqhuhu.com
 2, qrumphathu.com
 2, qrzwjfq.xyz
@@ -4706,7 +4703,6 @@ routing = 2
 2, sirsplajp.com
 2, siutaodka.com
 2, sj2xvswu3r.com
-2, sjbaiduadv1.redou.com
 2, sjbbsja.forum
 2, sjujmxg6d.com
 2, skads.gxsky.com
@@ -4887,7 +4883,6 @@ routing = 2
 2, tempest33.com
 2, tenmax.io
 2, terndzbaritzpw.com
-2, teslaamg.obs.cn-east-3.myhuaweicloud.com
 2, tetiaetwg.com
 2, tezeoddo.com
 2, tf.360.cn
@@ -4978,7 +4973,6 @@ routing = 2
 2, toothpick75.com
 2, top2099.com
 2, torrent25.com
-2, touimg.com
 2, towm85.xyz
 2, tp.sgcn.com
 2, tp.suppercacheimages.top
@@ -5037,6 +5031,7 @@ routing = 2
 2, turcailnt.com
 2, tva4k92u14.com
 2, tvfvxr.icu
+2, tvhftcda.com
 2, tvj8lylgv.com
 2, tvlmzx.icu
 2, tvqagropu.com
@@ -5451,6 +5446,7 @@ routing = 2
 2, w5c6d9.cc
 2, w5daa5.com
 2, w5eep9esa.com
+2, w6n00vtw6.com
 2, w75zr9nfj.com
 2, w766ewvx75.com
 2, w7gx7y9wk.com
@@ -5615,7 +5611,6 @@ routing = 2
 2, x4bxnav4g.com
 2, x4hu95mh0t.com
 2, x6d93mku0.com
-2, x6img.com
 2, x6kd8l204b.com
 2, x70wk5e54.com
 2, x7qhjjryf1.com
@@ -5754,6 +5749,7 @@ routing = 2
 2, xo60kab7yv.com
 2, xommzrn.com
 2, xopldz.icu
+2, xoqloz3tk.com
 2, xoqsxdpx.xyz
 2, xoxitt.icu
 2, xpdgvlxwn.icu
