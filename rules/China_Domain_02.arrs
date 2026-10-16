@@ -1,52 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 10513
+# RULES: 10469
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xuanxue.com
-2, xuanxuewang.com
-2, xuanyang888.com
-2, xuanyge.info
-2, xuanyouwang.com
-2, xuanyuan.cloud
-2, xuanyuan.run
-2, xuanyuancode.com
-2, xuanyuanhuangdi.org
-2, xuanyuans.com
-2, xuanyusong.com
-2, xuanyutech.com
-2, xuanzhi.com
-2, xuanzhuanmumatuwen.com
-2, xubei.com
-2, xuchencq.com
-2, xuchuang.com
-2, xucongbaobao.com
-2, xudan123.com
-2, xudankeji.com
-2, xudong8.com
-2, xudongfood.com
-2, xudoodoo.com
-2, xue.net
-2, xue114.com
-2, xue138.com
-2, xue163.net
-2, xue51.com
-2, xue63.com
-2, xue8nav.com
-2, xue99.com
-2, xueanquan.com
-2, xueba100.com
-2, xuebaclass.com
-2, xuebaike.net
-2, xuebangsoft.com
-2, xuebawang.net
-2, xuecaijie.com
-2, xuecan.net
-2, xueche.com
-2, xuechebu.com
-2, xuechu123.com
 2, xuecoo.com
 2, xueda.com
 2, xuedao.com
@@ -115,7 +73,6 @@ routing = 1
 2, xueshu.com
 2, xueshu5.com
 2, xueshuda.com
-2, xueshujia.com
 2, xueshut.com
 2, xueshuwenhai.com
 2, xuesongshuwood.com
@@ -8654,7 +8611,6 @@ routing = 1
 2, zjhwgroup.com
 2, zjhx520.com
 2, zjhxgf.com
-2, zjhxw.com
 2, zjhyrcb.com
 2, zjhzgy.com
 2, zjhzjt.com

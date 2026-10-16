@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6210
+# RULES: 6206
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -169,7 +169,6 @@ routing = 2
 2, 13afemc28.com
 2, 148a0hqnen.com
 2, 151xrobgqz.com
-2, 159i.com
 2, 15mxfnk6sw.com
 2, 15tianqi.com
 2, 165tchuang.com
@@ -257,7 +256,6 @@ routing = 2
 2, 1zw5kzrzjm.com
 2, 2.haoxue360.com
 2, 200218.com
-2, 2008mm.com
 2, 2016.bkill.net
 2, 2021.dxsbb.com
 2, 202xs.com
@@ -602,7 +600,6 @@ routing = 2
 2, 600g3yf2p.com
 2, 605abezk8.com
 2, 609999.xyz
-2, 614514.com
 2, 61fjluqray.com
 2, 629jpgi3i.com
 2, 63ef.com
@@ -789,6 +786,7 @@ routing = 2
 2, 88s2t1w3w9.com
 2, 8961.jianbihua.com
 2, 89ga0evbha.com
+2, 89y84ta6xg.com
 2, 8al17kw6d.com
 2, 8cj70f905.com
 2, 8cjk04e7sb.com
@@ -845,13 +843,13 @@ routing = 2
 2, 9129666tp.com
 2, 918000.xyz
 2, 91friend.com
-2, 91hs005.xyz
 2, 91pz9so28w.com
 2, 92p3c8lgqt.com
 2, 93692zubo66936.com
 2, 93gtx4pc2w.com
 2, 93txjw4rt2.com
 2, 94ab.com
+2, 94gjh3cedn.com
 2, 94lm.com
 2, 95d684gnf.com
 2, 95ktftpt6.com
@@ -1071,7 +1069,6 @@ routing = 2
 2, ad-img.diyidan.net
 2, ad-survey.com
 2, ad.52av.one
-2, ad.52av.tv
 2, ad.bobi.tw
 2, ad.byfuh.com
 2, ad.ccement.com
@@ -1492,7 +1489,6 @@ routing = 2
 2, boylov.xyz
 2, boylove.cc
 2, boyloves.fun
-2, bp.blogspot.com
 2, bp8mct71pn.com
 2, bphzzzguoqrnxu.com
 2, bpucmkg.com
@@ -1833,7 +1829,6 @@ routing = 2
 2, ctk8ifokyw.com
 2, cu9epqwr6.com
 2, cuk180l9v.com
-2, cupfox.app
 2, curogmc.com
 2, curthkivew.com
 2, cutwater39.com
@@ -2011,6 +2006,7 @@ routing = 2
 2, dlbefft.com
 2, dldhulolw.com
 2, dlelkindp.com
+2, dlfhhlfoguddba.com
 2, dlkliqrxt2.com
 2, dlsybe78o0.com
 2, dm.21hubei.com
@@ -2047,6 +2043,7 @@ routing = 2
 2, dnpz123.com
 2, dns.chuzushijian.cn
 2, dnxtc.net
+2, do7gsv4xsf.com
 2, dogwood96.com
 2, doko.moe
 2, dorgnh.icu
@@ -2216,6 +2213,7 @@ routing = 2
 2, eq9qnbh53.com
 2, eqlhb8m42q.com
 2, equation33.com
+2, equestrian22.com
 2, equidistant19.com
 2, er.5ykj.cn
 2, er.5ykj.com
@@ -2491,6 +2489,7 @@ routing = 2
 2, ge99lo1z2.com
 2, geav5man0.com
 2, geecradv.com
+2, geet3xanxc.com
 2, gef153x1u.com
 2, gefxhyby9.com
 2, gege51.com
@@ -2511,7 +2510,6 @@ routing = 2
 2, gg.blueidea.com
 2, gg.cs090.com
 2, gg.egouz.com
-2, gg.gsdlcn.com
 2, gg.kugou.com
 2, gg.miinaa.com
 2, gg.miued.com
@@ -3366,7 +3364,6 @@ routing = 2
 2, kve026cks7.com
 2, kvfskyv6h7.com
 2, kvg2q75ps.com
-2, kvhee.com
 2, kvno4qgv8n.com
 2, kvwssal.icu
 2, kvxc7buwv3.com
@@ -3654,7 +3651,6 @@ routing = 2
 2, meishiba.com.cn
 2, meituancdn.cc
 2, meitui.org
-2, meixincdn.com
 2, membrane68.com
 2, mernrza.com
 2, mf6xyfh3c.com
@@ -3732,6 +3728,7 @@ routing = 2
 2, mputq031w.com
 2, mq82ovaqu.com
 2, mqaae0c7m1.com
+2, mqgxw8ng75.com
 2, mqndhoceat.com
 2, mqo60hadqz.com
 2, mqondrun.com
@@ -4275,7 +4272,6 @@ routing = 2
 2, pvino9yhp3.com
 2, pvjuzdikhrbblo.com
 2, pvtd.cn
-2, pw321.com
 2, pwk73hidf2.com
 2, pwvlthpqzonnfe.com
 2, pwzrfznosfblpi.com
@@ -4396,6 +4392,7 @@ routing = 2
 2, qs2zdat2pi.com
 2, qsjdi1vyq.com
 2, qsne.cn
+2, qt4wieces3.com
 2, qtevriko.com
 2, qtmojo.com
 2, qtozietgp.com
@@ -5190,7 +5187,6 @@ routing = 2
 2, untitled.dwstatic.com
 2, upk8rvnck.com
 2, upload.cc
-2, uploadhouse.com
 2, uqtwyajmw.com
 2, usbpalsmfz.com
 2, usc8nll40.com
@@ -5602,6 +5598,7 @@ routing = 2
 2, x1.52aoteman.com
 2, x1cz6f8gb.com
 2, x2nq9qb4p.com
+2, x2w54giecw.com
 2, x35ehot6mu.com
 2, x3jhw0klp.com
 2, x3lps9uuog.com
@@ -5798,7 +5795,6 @@ routing = 2
 2, xwddvfoasvtxjo.com
 2, xwdsp.com
 2, xwpmbxdwlkrfzo.com
-2, xxffo.com
 2, xxfjhbiuwyphdi.com
 2, xxhfuaek.icu
 2, xxp4802or.com
