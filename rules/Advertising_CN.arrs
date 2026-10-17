@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6206
+# RULES: 6217
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -45,6 +45,7 @@ routing = 2
 2, 0etmx4b4o.com
 2, 0fs3mb0hh7.com
 2, 0fs6pe6w0j.com
+2, 0grzr3u2t.com
 2, 0h9yewgei.com
 2, 0hagal2csg.com
 2, 0hagz9mdc.com
@@ -229,6 +230,7 @@ routing = 2
 2, 1mb71rr5oo.com
 2, 1n4vrzxdms.com
 2, 1nevsf92q.com
+2, 1nvnkyg65.com
 2, 1o0g85u7k1.com
 2, 1o1nuqbjea.com
 2, 1o23ptd0sv.com
@@ -291,6 +293,7 @@ routing = 2
 2, 29ruu0q5p.com
 2, 29zle9rx4.com
 2, 2agmk5mh07.com
+2, 2bguv53rv.com
 2, 2bwiihrajn.com
 2, 2c4nzn0rn8.com
 2, 2cn9g1efo.com
@@ -305,6 +308,7 @@ routing = 2
 2, 2g1lbrr0qv.com
 2, 2g8lomzrb.com
 2, 2gvnr9sx9.com
+2, 2haxnvf7i.com
 2, 2hiu.com
 2, 2hlcovn7n.com
 2, 2hqxy07fw.com
@@ -348,6 +352,7 @@ routing = 2
 2, 3.cjcp.cn
 2, 3.ssqzj.com
 2, 301848.com
+2, 313xidqu3.com
 2, 31ezrbosr6.com
 2, 31io8wshq.com
 2, 31pjnw0wff.com
@@ -762,6 +767,7 @@ routing = 2
 2, 7yy69rrqpz.com
 2, 7z3mn9x7i.com
 2, 7zivoy6qs.com
+2, 804uptpbx.com
 2, 8052qydk7.com
 2, 80753325p.com
 2, 80juqing.com
@@ -906,6 +912,7 @@ routing = 2
 2, 9r0v0go0el.com
 2, 9rkh7nbaj.com
 2, 9s3g5vd8or.com
+2, 9sgckbc7e.com
 2, 9soefyenw.com
 2, 9swovqnp52.com
 2, 9t9r2tkr9.com
@@ -1317,6 +1324,7 @@ routing = 2
 2, b8mnb9ke9z.com
 2, b8o9c4s42l.com
 2, b9jda4zig.com
+2, ba5la9ccq.com
 2, bahpqcq.com
 2, baidu.com
 2, baidu1.cardbaobao.com
@@ -1480,6 +1488,7 @@ routing = 2
 2, bnobmgl.icu
 2, bnqektutom.com
 2, boardx.huanqiu.com
+2, bobztdbqdxrdng.com
 2, bonehead49.top
 2, boodper.com
 2, booking.com
@@ -1645,6 +1654,7 @@ routing = 2
 2, cataract40.com
 2, cataract77.top
 2, cautious60.com
+2, cavalcade86.com
 2, cb.baidu.com
 2, cb07whvmx.com
 2, cbdm.weathercn.com
@@ -2211,6 +2221,7 @@ routing = 2
 2, epalepnn55.com
 2, ephothuwi.com
 2, eq9qnbh53.com
+2, eqcwxenk7.com
 2, eqlhb8m42q.com
 2, equation33.com
 2, equestrian22.com
