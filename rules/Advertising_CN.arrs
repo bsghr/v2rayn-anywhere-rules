@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6217
+# RULES: 6227
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -31,6 +31,7 @@ routing = 2
 2, 08su45co5x.com
 2, 0a66kw9r8.com
 2, 0aokpbwui.com
+2, 0av9w1ubbh.com
 2, 0b6rvr210q.com
 2, 0bb8jytek.com
 2, 0bhl1k9hi.com
@@ -476,6 +477,7 @@ routing = 2
 2, 4k3nzijpm0.com
 2, 4kngwxegq5.com
 2, 4l5bbkug99.com
+2, 4lqs5j3ckn.com
 2, 4mvkxs0o0.com
 2, 4mwe9ki9r.com
 2, 4nc4qc1fo.com
@@ -777,6 +779,7 @@ routing = 2
 2, 84dwl4bbq.com
 2, 84v3xysu80.com
 2, 85270jylmzsym.top
+2, 86k3uw8q98.com
 2, 86o5bui4n.com
 2, 86uk.com
 2, 876920.com
@@ -1194,6 +1197,7 @@ routing = 2
 2, ainb12311zh.com
 2, airline49.top
 2, airport89.com
+2, airsick32.com
 2, aiwanma99.com
 2, aiwen.cc
 2, aizhantj.com
@@ -1938,6 +1942,7 @@ routing = 2
 2, dbvedren.com
 2, dbzolzzy7s.com
 2, dc5koxhfh.com
+2, dcfxk68sp2.com
 2, dcpgdj.icu
 2, dcqe7gez5.com
 2, dcwxhamq0.com
@@ -2406,6 +2411,7 @@ routing = 2
 2, frustum47.top
 2, frustum77.top
 2, frzlftr9y.com
+2, fsfptzxqdvvnze.com
 2, fsmnmorgb.com
 2, fsnazsmk.icu
 2, fsuooh.cc
@@ -2962,6 +2968,7 @@ routing = 2
 2, iap2e750o.com
 2, iask.cn
 2, ib5s02kbxy.com
+2, ib9hmq125v.com
 2, ibjsaz5v4.com
 2, ibns3ibgf.com
 2, ibwm5lynb6.com
@@ -3180,9 +3187,11 @@ routing = 2
 2, jjnyzeck.icu
 2, jjpe6btbb.com
 2, jk6wmqcut2.com
+2, jk8ineoqdj.com
 2, jke1.jianke.com
 2, jkpzthxjt.com
 2, jkwybt9hc.com
+2, jlulrz094u.com
 2, jm3uvitq0.com
 2, jnes2uutqu.com
 2, jnlenb.icu
@@ -6078,6 +6087,7 @@ routing = 2
 2, zeigraim.com
 2, zellxviqqlhdpg.com
 2, zepcdxyiqtxtbc.com
+2, zexudnxmjadlzg.com
 2, zf56jef1dd.com
 2, zfc2ul88s.top
 2, zfdfs1tpyd.com

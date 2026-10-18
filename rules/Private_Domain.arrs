@@ -1,6 +1,6 @@
 # NAME: Private_Domain
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 130
+# RULES: 132
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Private_Domain
@@ -116,6 +116,8 @@ routing = 1
 2, localhost
 2, localhost.ptlogin2.qq.com
 2, localhost.sec.qq.com
+2, localhost.weixin.qq.com
+2, localhost.work.weixin.qq.com
 2, miwifi.com
 2, my.router
 2, oasisauth.h3c.com
