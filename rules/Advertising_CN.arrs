@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6227
+# RULES: 6238
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -12,6 +12,7 @@ routing = 2
 2, 0171pjx5q.com
 2, 01anf08rf.com
 2, 02exl1ql2l.com
+2, 039ijdlg8.com
 2, 03in08p3r1.com
 2, 03mhpavj25.com
 2, 03mnj87wir.com
@@ -235,6 +236,7 @@ routing = 2
 2, 1o0g85u7k1.com
 2, 1o1nuqbjea.com
 2, 1o23ptd0sv.com
+2, 1ovzgs15u.com
 2, 1paujqtq9.com
 2, 1phyxws373.com
 2, 1pt7wq8di.com
@@ -568,6 +570,7 @@ routing = 2
 2, 5ho41ueq7w.com
 2, 5hu7hee0pt.com
 2, 5ipifco2tf.com
+2, 5j01ouj0l.com
 2, 5j45n3f6r.com
 2, 5jj6zcxpo.com
 2, 5k1cyldc9.com
@@ -739,6 +742,7 @@ routing = 2
 2, 7k1p812e9l.com
 2, 7k4c36c1r.com
 2, 7k7k.com
+2, 7klc3u75r.com
 2, 7kqn7qz4g4.com
 2, 7lavkpncj.com
 2, 7magjd84rd.com
@@ -1659,6 +1663,7 @@ routing = 2
 2, cataract77.top
 2, cautious60.com
 2, cavalcade86.com
+2, caxjro6f0.com
 2, cb.baidu.com
 2, cb07whvmx.com
 2, cbdm.weathercn.com
@@ -2346,6 +2351,7 @@ routing = 2
 2, fhgaikrolq.com
 2, fhnahnad.com
 2, fhovoldaw.com
+2, fhtmpftopdrllm.com
 2, fi0e0xtinp.com
 2, fidruqwny.com
 2, fih3r.com
@@ -3509,6 +3515,7 @@ routing = 2
 2, lm.ijq.tv
 2, lm1.tuliu.com
 2, lm1.wkpcw.cn
+2, lm1o9ejjs.com
 2, lm4u6e80f.com
 2, lmd6dc1aq7.com
 2, lmhrchi.com
@@ -3717,6 +3724,7 @@ routing = 2
 2, mkguynd.com
 2, mks8vq5qfu.com
 2, mkyc81u6je.com
+2, mleqb8227.com
 2, mliyokonw.com
 2, mly5hvbae.com
 2, mm.jbzj.com
@@ -4015,6 +4023,7 @@ routing = 2
 2, ohlanaizn.com
 2, ohvtrokyq.com
 2, oi0wm8b09.com
+2, oit9wnhrp.com
 2, oiu132jhz.com
 2, oj1boygkz.com
 2, oj2c0dkk4.com
@@ -5072,6 +5081,7 @@ routing = 2
 2, txd8s0oif.com
 2, txh201a51k.com
 2, txhywh.cn
+2, txkepwuxr.com
 2, txpbvh.icu
 2, txru.cn
 2, txtvrp.icu
@@ -5290,6 +5300,7 @@ routing = 2
 2, veirkaey.com
 2, veldpj.icu
 2, velocity30.com
+2, velocity83.com
 2, ventriloquist46.com
 2, veq8qbwjh.com
 2, veqekuph.com
