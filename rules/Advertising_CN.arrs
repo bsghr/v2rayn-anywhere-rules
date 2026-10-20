@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6238
+# RULES: 6250
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -666,6 +666,7 @@ routing = 2
 2, 6mdf9teiz.com
 2, 6mdgv1kmj.com
 2, 6mrhrbfqw9.com
+2, 6mujth3wgx.com
 2, 6n528aywi9.com
 2, 6o04ylee62.com
 2, 6o2k80jf8w.com
@@ -821,6 +822,7 @@ routing = 2
 2, 8jkx.com
 2, 8k69vb6421.com
 2, 8k9ynfczfd.com
+2, 8kbg4gnw32.com
 2, 8khgnlxk6.com
 2, 8lj6g9gz4.com
 2, 8lmggang9.com
@@ -1329,6 +1331,7 @@ routing = 2
 2, b7ijghyla1.com
 2, b7pgs2ifvq.com
 2, b7sw62.pingshu8.xyz
+2, b80wsvgkfc.com
 2, b8mnb9ke9z.com
 2, b8o9c4s42l.com
 2, b9jda4zig.com
@@ -1506,6 +1509,7 @@ routing = 2
 2, boylov.xyz
 2, boylove.cc
 2, boyloves.fun
+2, bp44bqnvdb.com
 2, bp8mct71pn.com
 2, bphzzzguoqrnxu.com
 2, bpucmkg.com
@@ -1759,12 +1763,14 @@ routing = 2
 2, classic.39health.com
 2, classroomlf.com
 2, click.taobao.com
+2, climbing77.com
 2, clo41zgrs.com
 2, cm.baidu.com
 2, cm30oc1du.com
 2, cme8k7fuwy.com
 2, cmesgpqq8z.com
 2, cmm.xmfish.com
+2, cmn4xjgp67.com
 2, cmsjs.eastmoney.com
 2, cn.bidushe.com
 2, cn6x.com
@@ -2021,6 +2027,7 @@ routing = 2
 2, dkaktsb.icu
 2, dkaon1jjeo.com
 2, dkc63u5su8.com
+2, dkphbpakvgftxm.com
 2, dkweuy.com
 2, dlads.cn
 2, dlbefft.com
@@ -2972,6 +2979,7 @@ routing = 2
 2, iads.xinmin.cn
 2, iadsvbox2.com
 2, iap2e750o.com
+2, iari2sq1ve.com
 2, iask.cn
 2, ib5s02kbxy.com
 2, ib9hmq125v.com
@@ -4910,6 +4918,7 @@ routing = 2
 2, tenmax.io
 2, terndzbaritzpw.com
 2, tetiaetwg.com
+2, tetrahedron55.com
 2, tezeoddo.com
 2, tf.360.cn
 2, tfgfgtm.com
@@ -5263,6 +5272,7 @@ routing = 2
 2, v1.wphonelife.com
 2, v2bo21e4k.com
 2, v2e5kim4o.com
+2, v3ekghfm2l.com
 2, v3pnvck24.com
 2, v46uj91gh.com
 2, v4ox630nia.com
@@ -5685,6 +5695,7 @@ routing = 2
 2, xdyn03121jy.com
 2, xdyn03130jy.com
 2, xdyn03131jy.com
+2, xeb3x4yj4t.com
 2, xejaxlfypblfvg.com
 2, xekrbwex7d.com
 2, xenlzn.icu
@@ -6028,6 +6039,7 @@ routing = 2
 2, z2uyyp069d.com
 2, z4a.net
 2, z4tnhm97b.com
+2, z5c4tnjw6p.com
 2, z5mw4v9g1a.com
 2, z60ft9y8lj.com
 2, z6faiv46r.com
