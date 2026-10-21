@@ -1,6 +1,6 @@
 # NAME: OpenAI
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 23
+# RULES: 24
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = OpenAI
@@ -13,6 +13,7 @@ routing = 1
 2, crixet.com
 2, host.livekit.cloud
 2, o33249.ingest.sentry.io
+2, o33249.ingest.us.sentry.io
 2, oaistatic.com
 2, oaistatsig.com
 2, oaiusercontent.com

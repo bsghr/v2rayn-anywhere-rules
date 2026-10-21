@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6250
+# RULES: 6256
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -367,6 +367,7 @@ routing = 2
 2, 33mp2fbrns.com
 2, 33o5sjd1ao.com
 2, 3400.org
+2, 34148m9pq.com
 2, 34dcvgw197.com
 2, 34twscl0hl.com
 2, 354xxcdt1.com
@@ -551,6 +552,7 @@ routing = 2
 2, 5bkhq0lwmq.com
 2, 5bpajgg436.com
 2, 5bybyqjzl.com
+2, 5cmog8sd8.com
 2, 5cyi6tp6h.com
 2, 5cyqzktkwh.com
 2, 5dfiuae82.com
@@ -1349,6 +1351,7 @@ routing = 2
 2, baizhu.cc
 2, baj.fanwenzhan.com
 2, bakrathtfa.com
+2, balcnzwmsjrbjs.com
 2, ballast85.top
 2, balmoralmkt.com
 2, balsam18.com
@@ -2185,6 +2188,7 @@ routing = 2
 2, efu871zc4.com
 2, eghaailr.com
 2, eglnktnqnz.com
+2, eguswp0mj.com
 2, egvhd2ggc1.com
 2, egvnfpnb31.com
 2, ehcecws.com
@@ -3116,6 +3120,7 @@ routing = 2
 2, iy0keh7qj7.com
 2, iyhaatedew.com
 2, iyuedu.cn.com
+2, iyyfj0g7m.com
 2, izkgl35mq.com
 2, izrtyacymo.com
 2, izzodzmuu.com
@@ -4827,6 +4832,7 @@ routing = 2
 2, su4wxsrtku.com
 2, sub.powerapple.com
 2, subtraction59.com
+2, subtrahend70.com
 2, sudupan.com
 2, suhfnjm.com
 2, suitcase890.top
