@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6256
+# RULES: 6272
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -345,6 +345,7 @@ routing = 2
 2, 2w7urj3f2.com
 2, 2wg8pp90e.com
 2, 2wqs6d2gp.com
+2, 2x3le64mm.com
 2, 2xi988xu22.com
 2, 2xx63f0bfy.com
 2, 2y2lttjs.hair
@@ -420,6 +421,7 @@ routing = 2
 2, 3qtdjf4830.com
 2, 3qx0pnhyzi.com
 2, 3rc04o1rmy.com
+2, 3rev8wh22y.com
 2, 3rs337ci4.com
 2, 3s7m2ss7g.com
 2, 3sd6w6oga9.com
@@ -454,6 +456,7 @@ routing = 2
 2, 46q8oxohlt.com
 2, 46y7erj0mw.com
 2, 47c7zhqak.com
+2, 47f9jdixm7.com
 2, 480ipil.com
 2, 48dswtxkw.com
 2, 48r3l2u5l2.com
@@ -911,6 +914,7 @@ routing = 2
 2, 9kqh3r24zv.com
 2, 9ma1sr1tb1.com
 2, 9mdg9cu59.com
+2, 9mnmzh506.com
 2, 9nwplq7y2o.com
 2, 9nzrfglryy.com
 2, 9obmf866d.com
@@ -1967,6 +1971,7 @@ routing = 2
 2, ddgjjj.com
 2, ddhwxwi6h.com
 2, ddpoupmu.icu
+2, ddwododotg.com
 2, de.as.pptv.com
 2, dehua.ixinfan.com
 2, dehudoz.com
@@ -2459,6 +2464,7 @@ routing = 2
 2, fxab9iuprt.com
 2, fxjs.2541.com
 2, fy1vifdn5.com
+2, fyi1v4fcw3.com
 2, fyosies.icu
 2, fz1j7l8n2.com
 2, fz55vq.site
@@ -2599,8 +2605,10 @@ routing = 2
 2, ghjyw4h23.com
 2, ghovvadv.com
 2, ght2bvin1.com
+2, gi7n1lmo4o.com
 2, giaumusnsj.com
 2, gie0izinx.com
+2, girigirilove.com
 2, gj8ph3gw8z.com
 2, gjbk0mis4q.com
 2, gjk1sc9o2.com
@@ -2768,6 +2776,7 @@ routing = 2
 2, h4htfgrei0.com
 2, h4soqcsrp5.com
 2, h4tmdz92jq.com
+2, h4z2ko7lb.com
 2, h57vpulpu.com
 2, h5o61akbx.com
 2, h6dc4eiwjf.com
@@ -2816,6 +2825,7 @@ routing = 2
 2, hd2o34yu8.com
 2, hdc.maxli.cn
 2, hdcvecyv8.com
+2, hdhuxrsiymfbvs.com
 2, hdjthzg.cn
 2, hdo0zseqy.com
 2, hdry1a0g9.com
@@ -2978,6 +2988,7 @@ routing = 2
 2, i7xkqmhjw.com
 2, i96wgz4nmy.com
 2, i97wqa881u.com
+2, i9oyj14fq.com
 2, ia3lxhd539.com
 2, iachpi.icu
 2, iads.xinmin.cn
@@ -3468,6 +3479,7 @@ routing = 2
 2, leotard54.com
 2, letvdbrwhbnhrs.com
 2, leyf5q4rk.com
+2, lezplamgzs.com
 2, lf2cgxz0b.com
 2, lftw3i7d5.com
 2, lfxm6qdn0.com
@@ -3635,6 +3647,7 @@ routing = 2
 2, m485oq2gym.top
 2, m4dynuge4.com
 2, m5.66077.cn
+2, m5i3wtd2s6.com
 2, m5nv2f52i.com
 2, m5uiy5gd1.com
 2, m69tvg6wqd.com
@@ -3923,6 +3936,7 @@ routing = 2
 2, niwota.com
 2, njawz0tlek.com
 2, njbilmh12.com
+2, njblnwm2ii.com
 2, njdwxxyem.com
 2, njhlvz.icu
 2, njri9gn72.com
@@ -4820,6 +4834,7 @@ routing = 2
 2, static.okokserver.com
 2, static.rongkao.com
 2, static.wjxcdn.com
+2, statistics46.com
 2, std72yw0s.com
 2, ste000u5mk.com
 2, stepladder10.top
@@ -5417,6 +5432,7 @@ routing = 2
 2, vtrabj.icu
 2, vtrelphail.com
 2, vtx2r60nuf.com
+2, vuhhryua.com
 2, vuielmilg.com
 2, vujglx.icu
 2, vupload.duowan.com
