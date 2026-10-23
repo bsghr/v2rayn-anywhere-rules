@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6272
+# RULES: 6281
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -195,6 +195,7 @@ routing = 2
 2, 1990tu.com
 2, 1999019.com
 2, 19dkfu1wg.com
+2, 1a7pxa2r7.com
 2, 1aa0yygqst.com
 2, 1adi9wenq.com
 2, 1bsb5sic0.com
@@ -460,6 +461,7 @@ routing = 2
 2, 480ipil.com
 2, 48dswtxkw.com
 2, 48r3l2u5l2.com
+2, 490i1rrbd.com
 2, 49dlt9myv.com
 2, 49ioqq6kt.com
 2, 49o4m4a5eo.com
@@ -911,6 +913,7 @@ routing = 2
 2, 9j9gc694o4.com
 2, 9jk7puqza.com
 2, 9kh5b.cn
+2, 9kos5nsw7.com
 2, 9kqh3r24zv.com
 2, 9ma1sr1tb1.com
 2, 9mdg9cu59.com
@@ -2438,6 +2441,7 @@ routing = 2
 2, fsnazsmk.icu
 2, fsuooh.cc
 2, fsxqfjkg.com
+2, ftdpjbzkeprjhs.com
 2, ftqn9wedv.com
 2, ftrgpdecexhzto.com
 2, fuimg.com
@@ -2522,6 +2526,7 @@ routing = 2
 2, gd.ct10000.com
 2, gdbegok47.com
 2, gdcytv.cn
+2, gdfzcez6q.com
 2, gdqu.cn
 2, gdt.qq.com
 2, gdxxb.com
@@ -3096,6 +3101,7 @@ routing = 2
 2, invocation22.com
 2, invvuu9js.com
 2, inzy3qq8q.com
+2, iowj5jof2.com
 2, ipad.pc899.cn
 2, iprefer.com.tw
 2, ipssss.com
@@ -3151,6 +3157,7 @@ routing = 2
 2, j3idyosut.com
 2, j3ossmqgmc.com
 2, j4s12kfavg.com
+2, j59g6ff5k.com
 2, j5sgdum5n4.com
 2, j694fx3bp.com
 2, j6gi9jgjpb.com
@@ -3542,6 +3549,7 @@ routing = 2
 2, lm1.wkpcw.cn
 2, lm1o9ejjs.com
 2, lm4u6e80f.com
+2, lmbmr7zw3.com
 2, lmd6dc1aq7.com
 2, lmhrchi.com
 2, lmlmvip.com
@@ -4328,6 +4336,7 @@ routing = 2
 2, pvino9yhp3.com
 2, pvjuzdikhrbblo.com
 2, pvtd.cn
+2, pwdh28pof.com
 2, pwk73hidf2.com
 2, pwvlthpqzonnfe.com
 2, pwzrfznosfblpi.com
