@@ -1,6 +1,6 @@
 # NAME: Apple
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 1789
+# RULES: 1788
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Apple
@@ -1116,7 +1116,6 @@ routing = 1
 2, icloud-isupport.com
 2, icloud-sandbox.com
 2, icloud.ch
-2, icloud.cn
 2, icloud.com
 2, icloud.com.cn
 2, icloud.de

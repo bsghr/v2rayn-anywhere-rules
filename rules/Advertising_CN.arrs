@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6293
+# RULES: 6306
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -484,6 +484,7 @@ routing = 2
 2, 4j7mf4mmx.com
 2, 4jh1le34m.com
 2, 4k3nzijpm0.com
+2, 4k4zbfclm.com
 2, 4kngwxegq5.com
 2, 4l5bbkug99.com
 2, 4lqs5j3ckn.com
@@ -603,6 +604,7 @@ routing = 2
 2, 5vs7i3cuc.com
 2, 5vszw5ab2.com
 2, 5w31xv1a2.com
+2, 5wczjm7h4.com
 2, 5wkni37mso.com
 2, 5wt390pvwz.com
 2, 5wv0y42ub.com
@@ -2128,6 +2130,7 @@ routing = 2
 2, dup.baidustatic.com
 2, duvm2tveip.com
 2, dv4ku.icu
+2, dv4o54c8p.com
 2, dvjxk947e.com
 2, dvs.china.com
 2, dvser.china.com
@@ -2478,6 +2481,7 @@ routing = 2
 2, fz55vq.site
 2, fz94px.site
 2, fzavvanz.com
+2, fzbaqs9f1.com
 2, fzczw7.site
 2, fzddxwb7y3.com
 2, fziydh0npy.com
@@ -2769,6 +2773,7 @@ routing = 2
 2, gz93n2pkh.com
 2, gzhkarwp9n.com
 2, gzldas.icu
+2, gzq7cji8e.com
 2, gzsy12348.com
 2, gzx2d0jvwm.com
 2, gzzkjdam.cn
@@ -3106,6 +3111,7 @@ routing = 2
 2, invocation22.com
 2, invvuu9js.com
 2, inzy3qq8q.com
+2, iotj6oo90.com
 2, iowj5jof2.com
 2, ipad.pc899.cn
 2, iprefer.com.tw
@@ -3220,6 +3226,7 @@ routing = 2
 2, jiaopei.com
 2, jiaoyou8.com
 2, jibn12.jintang114.org
+2, jieshengsz.com
 2, jigool.org
 2, jinanrqz.com
 2, jinti.com
@@ -3314,6 +3321,7 @@ routing = 2
 2, jyiwnb82b.com
 2, jynv.cn
 2, jywn7lkbdw.com
+2, jzvchdrihqrrfy.com
 2, k06kldksi3.com
 2, k08tn5uk9.com
 2, k0b9nwt6d.com
@@ -3518,6 +3526,7 @@ routing = 2
 2, lixiangmo.com
 2, lj43bm3y8.com
 2, ljvt4pnl9.com
+2, ljyzic8cr.com
 2, lk0v8teerw.com
 2, lk54dfg87.com
 2, lkhmlx.icu
@@ -5091,6 +5100,7 @@ routing = 2
 2, tt.biquge.la
 2, tt123.eastday.com
 2, tt144jrfu.com
+2, tt5omubqh.com
 2, tthelitnfv.com
 2, ttimhethzm.com
 2, ttkxny.com
@@ -5474,6 +5484,7 @@ routing = 2
 2, vxhpzrqgczxbzi.com
 2, vxydbok.com
 2, vyczp.cn
+2, vyq5segjv.com
 2, vysr4o0eg.com
 2, vytf0mqa0.com
 2, vyxw.cn
@@ -5580,6 +5591,7 @@ routing = 2
 2, whazrm9wa.com
 2, wheelbarrow64.com
 2, whfpbc.99.com.cn
+2, whistle88.com
 2, whitening76.top
 2, whkhct2lnf.com
 2, whlwcahw1x.com
@@ -5927,6 +5939,7 @@ routing = 2
 2, y2ej3xxfve.com
 2, y2o57pzzx.com
 2, y2vorexg2u.com
+2, y3yuih3s1.com
 2, y40milgijh.com
 2, y4g8fgj6ra.com
 2, y55lspa2v6.com

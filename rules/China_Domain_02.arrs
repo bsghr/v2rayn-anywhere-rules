@@ -1,10 +1,16 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 10188
+# RULES: 10194
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
+2, xunwan.com
+2, xunwangba.com
+2, xunwei.tm
+2, xunweihc.com
+2, xunxi.com
+2, xunxiang.site
 2, xunxu.com
 2, xunyangzaixian.com
 2, xunyou.com
