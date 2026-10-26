@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6306
+# RULES: 6317
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -64,6 +64,7 @@ routing = 2
 2, 0l7t5qhb4.com
 2, 0lai5bvkg.com
 2, 0mkeb9vth.com
+2, 0nh9bt6v6a.com
 2, 0nyzdw2maq.com
 2, 0oi1ej7mo.com
 2, 0oo9j37xp.com
@@ -411,6 +412,7 @@ routing = 2
 2, 3is34bpqs4.com
 2, 3iulae112b.com
 2, 3j4vjpx7k.com
+2, 3jkb97w0tp.com
 2, 3k2frl8r79.com
 2, 3lbqpzrlmz.com
 2, 3llzzztmz.com
@@ -1378,6 +1380,7 @@ routing = 2
 2, bbepv.com
 2, bbqy4ihvz9.com
 2, bbs.gmbbk.com
+2, bc4zqavx5d.com
 2, bchina-1.xsfaya.com
 2, bcjhlhuhq.icu
 2, bcmbmedbqx.icu
@@ -2916,6 +2919,7 @@ routing = 2
 2, houotgk3m.com
 2, household35.top
 2, houyi.baofeng.net
+2, hpbxrvnentfrre.com
 2, hpflxxdwnbvpda.com
 2, hqeiwwnkce.icu
 2, hqfhspz.com
@@ -3485,6 +3489,7 @@ routing = 2
 2, lctpvmaxz.icu
 2, lcugzodfdo.com
 2, lczk.cn
+2, ld1qwww3kj.com
 2, lddvxfmswnnxny.com
 2, ldmnq.com
 2, ldphrdhawfxhvc.com
@@ -4036,6 +4041,7 @@ routing = 2
 2, o28wg9kq8i.com
 2, o2x4h2txrc.com
 2, o40d17vln.com
+2, o522zsxbgf.com
 2, o5y2zd1lq8.com
 2, o6oxvugdl.com
 2, o8agbq0qwm.com
@@ -4415,6 +4421,7 @@ routing = 2
 2, qemh16ihyw.com
 2, qenb2pxx.xyz
 2, qezkdby1jj.com
+2, qf21yrnmnk.com
 2, qf51ho9qtz.com
 2, qfc4ac1f6.com
 2, qgckb3ov46.com
@@ -4743,6 +4750,7 @@ routing = 2
 2, sdnc.top
 2, seaquake54.com
 2, secondly74.com
+2, secretaire97.com
 2, seductive37.top
 2, seijlfsx.com
 2, senior82.com
@@ -4838,6 +4846,7 @@ routing = 2
 2, ssb.ah499.com
 2, ssc9v54oew.com
 2, ssgg.chazidian.com
+2, ssi1gqcx0m.com
 2, sskuwzv.com
 2, ssnn.net
 2, ssp.21ic.com
@@ -5273,6 +5282,7 @@ routing = 2
 2, unjrkrxme.com
 2, unknown47.top
 2, unpkg.com
+2, unqm8c9dfk.com
 2, unqvaof.xyz
 2, untitled.dwstatic.com
 2, upk8rvnck.com
@@ -5448,6 +5458,7 @@ routing = 2
 2, vpxyw6rbv3.com
 2, vpy105341.com
 2, vqbmxyzda.icu
+2, vqnvib2h7e.com
 2, vrovadwd.com
 2, vrtafd.icu
 2, vrufe4ikql.com
