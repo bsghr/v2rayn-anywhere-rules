@@ -1,6 +1,6 @@
 # NAME: Apple
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 1788
+# RULES: 1790
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Apple
@@ -1643,7 +1643,9 @@ routing = 1
 2, services-apple.net
 2, servicetalk.io
 2, sf-api-token-service.itunes.apple.com
+2, sh-pod1-smp-device.apple.com
 2, sh-pod2-smp-device.apple.com
+2, sh-pod3-smp-device.apple.com
 2, shazam-insights.cdn-apple.com
 2, shazam.com
 2, shoers.com

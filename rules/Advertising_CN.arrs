@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6317
+# RULES: 6329
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -428,6 +428,7 @@ routing = 2
 2, 3rev8wh22y.com
 2, 3rs337ci4.com
 2, 3s7m2ss7g.com
+2, 3sbbnyzps.com
 2, 3sd6w6oga9.com
 2, 3sqvexc60y.com
 2, 3t4j5adg9x.com
@@ -1650,6 +1651,7 @@ routing = 2
 2, c3q6l5oeq.com
 2, c3vzqvifsn.com
 2, c4ru5li2sa.com
+2, c5i6rfwyf.com
 2, c5krw17gn0.com
 2, c5mj81yuuo.com
 2, c5mwwyqfvi.com
@@ -2394,6 +2396,7 @@ routing = 2
 2, firqacv.com
 2, first-hufu.oss-cn-shanghai.aliyuncs.com
 2, fitchpmsa.com
+2, fitment47.com
 2, fittomniku.com
 2, fizmvbysarrvva.com
 2, fjalsr83a6.com
@@ -2450,6 +2453,7 @@ routing = 2
 2, fsmnmorgb.com
 2, fsnazsmk.icu
 2, fsuooh.cc
+2, fsxpdfugtwrzde.com
 2, fsxqfjkg.com
 2, ftdpjbzkeprjhs.com
 2, ftqn9wedv.com
@@ -2983,6 +2987,7 @@ routing = 2
 2, i-gamer.net
 2, i.imgur.com
 2, i06s7yrhn1.com
+2, i0gh0cpwb.com
 2, i12het785.com
 2, i14laze0.xyz
 2, i16vlgqdhh.com
@@ -3509,6 +3514,7 @@ routing = 2
 2, lftw3i7d5.com
 2, lfxm6qdn0.com
 2, lgaekait.com
+2, lgfktruknrjbxc.com
 2, lgmi.com
 2, lgu7in90o.com
 2, lh168.net
@@ -4040,6 +4046,7 @@ routing = 2
 2, o1fhfeu6qa.com
 2, o28wg9kq8i.com
 2, o2x4h2txrc.com
+2, o35jufwu6.com
 2, o40d17vln.com
 2, o522zsxbgf.com
 2, o5y2zd1lq8.com
@@ -4168,6 +4175,7 @@ routing = 2
 2, p4p.sina.com.cn
 2, p5doaulee2.com
 2, p5jrngqnp.com
+2, p5regbg09.com
 2, p5si0mu8u7.com
 2, p66jed4iv.com
 2, p6q6qpze3f.com
@@ -4674,6 +4682,7 @@ routing = 2
 2, rwtraqur.com
 2, rwtzv9ehv.com
 2, rx1iwebx2.com
+2, rx7pi9v1x.com
 2, rxglmys.icu
 2, rxi8jcy0aq.com
 2, rxys.cn
@@ -4940,6 +4949,7 @@ routing = 2
 2, t7h2otlhd.com
 2, t7ywa5ai3.com
 2, t8yctltd8s.com
+2, t9j3lrvrv.com
 2, t9x2gu6it3.com
 2, ta7088hrd.com
 2, ta7tfk0o2h.com
@@ -5124,6 +5134,7 @@ routing = 2
 2, tu6767109513.cc
 2, tupmsen.com
 2, turcailnt.com
+2, tuxcpf6pq.com
 2, tva4k92u14.com
 2, tvfvxr.icu
 2, tvhftcda.com
@@ -5434,6 +5445,7 @@ routing = 2
 2, vljyztqsnkhvra.com
 2, vlrvrntcxjljnu.com
 2, vlxmfvvknsxldw.com
+2, vm1mmq2h1.com
 2, vm5xs8nvqh.com
 2, vmgi10lt0i.com
 2, vmj428qvi4.com

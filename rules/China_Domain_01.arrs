@@ -61152,8 +61152,6 @@ routing = 1
 2, longanlaw.com
 2, longau.com
 2, longbenren.com
-2, longbridgeapp.com
-2, longbridgehk.com
 2, longcai.com
 2, longcai027.com
 2, longcat.chat
@@ -79023,7 +79021,9 @@ routing = 1
 2, sh-oca.com
 2, sh-pet.com
 2, sh-pn.com
+2, sh-pod1-smp-device.apple.com
 2, sh-pod2-smp-device.apple.com
+2, sh-pod3-smp-device.apple.com
 2, sh-pp.com
 2, sh-printing.com
 2, sh-prosperity.com
