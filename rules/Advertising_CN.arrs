@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6329
+# RULES: 6336
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -1918,6 +1918,7 @@ routing = 2
 2, d2kadvyeq051an.cloudfront.net
 2, d2pfd8w05h.com
 2, d3.sina.com.cn
+2, d3h02f4xol.com
 2, d3iih5w7xp5hdg.cloudfront.net
 2, d3q5v0ai8.com
 2, d4.sina.com.cn
@@ -2139,6 +2140,7 @@ routing = 2
 2, dvjxk947e.com
 2, dvs.china.com
 2, dvser.china.com
+2, dvtkppqczzfhpk.com
 2, dvvv9ld5b0.com
 2, dwchovra.com
 2, dwh3rjyzxj.com
@@ -2189,6 +2191,7 @@ routing = 2
 2, ebr6v3tdw.com
 2, ebsqxaj8u.com
 2, ec00t7oue1.com
+2, ec2ic6ew5k.com
 2, ec8pr7nny.com
 2, ecg21n9t8d.com
 2, ecma.bdimg.com
@@ -2393,6 +2396,7 @@ routing = 2
 2, files.xtpag.top
 2, fircokqe.com
 2, firefoxchina.cn
+2, fireplace32.com
 2, firqacv.com
 2, first-hufu.oss-cn-shanghai.aliyuncs.com
 2, fitchpmsa.com
@@ -2746,6 +2750,7 @@ routing = 2
 2, gtethuui.com
 2, gtimg.com
 2, gtj1myjla.com
+2, gtkgxcfx5f.com
 2, gtmajs.click
 2, gtrimmani.com
 2, gtwrpsm.icu
@@ -5319,6 +5324,7 @@ routing = 2
 2, uu22662.com
 2, uu8bq6rnj.com
 2, uuvuuxi7z.com
+2, uvaf6ko09w.com
 2, uvd9re60w.com
 2, uwants.com
 2, uwerpyh.cn
@@ -5728,6 +5734,7 @@ routing = 2
 2, x6d93mku0.com
 2, x6kd8l204b.com
 2, x70wk5e54.com
+2, x781w71m0j.com
 2, x7qhjjryf1.com
 2, x7weiubb2f.com
 2, x8s007rgs.com
