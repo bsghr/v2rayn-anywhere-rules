@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6336
+# RULES: 6344
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -201,6 +201,7 @@ routing = 2
 2, 1adi9wenq.com
 2, 1bsb5sic0.com
 2, 1buu1.penyouw.com
+2, 1chtx8re2.com
 2, 1cimslrk3.com
 2, 1dgfd.cc
 2, 1ehioxpqe.com
@@ -489,6 +490,7 @@ routing = 2
 2, 4k3nzijpm0.com
 2, 4k4zbfclm.com
 2, 4kngwxegq5.com
+2, 4l0h5xxoc.com
 2, 4l5bbkug99.com
 2, 4lqs5j3ckn.com
 2, 4mvkxs0o0.com
@@ -623,6 +625,7 @@ routing = 2
 2, 600g3yf2p.com
 2, 605abezk8.com
 2, 609999.xyz
+2, 60cxjeiyq.com
 2, 61fjluqray.com
 2, 629jpgi3i.com
 2, 63ef.com
@@ -646,6 +649,7 @@ routing = 2
 2, 68td4yete.com
 2, 68tkaiaji.com
 2, 69shuba.cx
+2, 6a4oabslx.com
 2, 6acupxubky.com
 2, 6aontlsdf.com
 2, 6aoodbdx94.com
@@ -1521,6 +1525,7 @@ routing = 2
 2, bonehead49.top
 2, boodper.com
 2, booking.com
+2, bookshelf07.com
 2, boraerzutd.com
 2, borh1pxlp.com
 2, bowo666.com
@@ -3143,6 +3148,7 @@ routing = 2
 2, isthmus08.top
 2, isthmus72.com
 2, itadapi.ithome.com.tw
+2, itkdb58mo.com
 2, itm1yqknq.com
 2, itmsc.cn
 2, itraamelr.com
@@ -3254,6 +3260,7 @@ routing = 2
 2, jke1.jianke.com
 2, jkpzthxjt.com
 2, jkwybt9hc.com
+2, jlpfbhmefcthbk.com
 2, jlulrz094u.com
 2, jm3uvitq0.com
 2, jnes2uutqu.com
@@ -3926,6 +3933,7 @@ routing = 2
 2, ncnwmwomz.com
 2, ndbgngx6m.com
 2, ndd3wvq0cw.com
+2, ndhfz9zw2.com
 2, ndpfxnu.com
 2, necessitate22.com
 2, nehpjdjqbafnvm.com
