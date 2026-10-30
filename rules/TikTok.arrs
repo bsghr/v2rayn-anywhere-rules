@@ -1,6 +1,6 @@
 # NAME: TikTok
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 37
+# RULES: 40
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = TikTok
@@ -31,11 +31,14 @@ routing = 1
 2, tiktokglobalshopv.com
 2, tiktokminis.us
 2, tiktokrow-cdn.com
+2, tiktokshop.com
+2, tiktokstaticb.com
 2, tiktokv.com
 2, tiktokv.com.edgekey.net
 2, tiktokv.com.edgesuite.net
 2, tiktokv.eu
 2, tiktokv.us
+2, tiktokvapp.com
 2, tiktokw.eu
 2, tiktokw.us
 2, ttcdn-us.com

@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6344
+# RULES: 6353
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -71,6 +71,7 @@ routing = 2
 2, 0otmh22aj2.com
 2, 0qry58i9es.com
 2, 0qxfxqif0.com
+2, 0r5e0xvwes.com
 2, 0s1wclct6.com
 2, 0s5qb3rfz.com
 2, 0tc1bdbgsm.com
@@ -237,6 +238,7 @@ routing = 2
 2, 1nevsf92q.com
 2, 1nrgur4y43.com
 2, 1nvnkyg65.com
+2, 1nvxl968le.com
 2, 1o0g85u7k1.com
 2, 1o1nuqbjea.com
 2, 1o23ptd0sv.com
@@ -670,6 +672,7 @@ routing = 2
 2, 6iejd9pk0.com
 2, 6ign0q6xb1.com
 2, 6iiz8ni96v.com
+2, 6iwulft12t.com
 2, 6iyq4atled.com
 2, 6j7ywcn8sx.com
 2, 6jei0t6xp.com
@@ -1377,6 +1380,7 @@ routing = 2
 2, bandages84.com
 2, barqmajk.com
 2, barrister85.top
+2, barstool59.com
 2, bas.boshi.tv
 2, basically97.top
 2, bauddoih.com
@@ -2928,6 +2932,7 @@ routing = 2
 2, hohmanrtit.com
 2, hokkid5.com
 2, holmesmind.com
+2, holxlriacffphq.com
 2, hoopchina.com.cn
 2, horribletrainer.com
 2, houotgk3m.com
@@ -3372,6 +3377,7 @@ routing = 2
 2, k9egtgh8v.com
 2, k9x1d1uuj0.com
 2, k9zxbudgix.com
+2, ka9gcc8ifd.com
 2, kab201k0xs.com
 2, kaboodle49.com
 2, kacq.cn
@@ -4509,6 +4515,7 @@ routing = 2
 2, qtozietgp.com
 2, qtqv3cy43w.com
 2, qttroiey.com
+2, qty00vcqh8.com
 2, quarterdeck96.top
 2, qucxwvt.com
 2, quince22.top
@@ -5574,6 +5581,7 @@ routing = 2
 2, w5daa5.com
 2, w5eep9esa.com
 2, w6n00vtw6.com
+2, w6v754e1uw.com
 2, w75zr9nfj.com
 2, w766ewvx75.com
 2, w7gx7y9wk.com
@@ -6079,6 +6087,7 @@ routing = 2
 2, ys630.com
 2, ysm.ezprice.net
 2, ysx8.vip
+2, ysy5uobifs.com
 2, yt-adp.nosdn.127.net
 2, yt-adp.ws.126.net
 2, ytelc.com
