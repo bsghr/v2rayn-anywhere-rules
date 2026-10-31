@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6353
+# RULES: 6363
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -495,6 +495,7 @@ routing = 2
 2, 4l0h5xxoc.com
 2, 4l5bbkug99.com
 2, 4lqs5j3ckn.com
+2, 4m0tg6axs.com
 2, 4mvkxs0o0.com
 2, 4mwe9ki9r.com
 2, 4nc4qc1fo.com
@@ -598,6 +599,7 @@ routing = 2
 2, 5n131lck8.com
 2, 5ntq14y5y.com
 2, 5p35xkp1p.com
+2, 5qnyx6k5w.com
 2, 5sghirlr5b.com
 2, 5t5z6augl3.com
 2, 5tf1zp1jgb.com
@@ -1883,6 +1885,7 @@ routing = 2
 2, ctk8ifokyw.com
 2, cu9epqwr6.com
 2, cuk180l9v.com
+2, cupboard40.com
 2, curogmc.com
 2, curthkivew.com
 2, cutwater39.com
@@ -2317,6 +2320,7 @@ routing = 2
 2, eyp7uowejx.com
 2, eyzerannl.com
 2, ez2q38b1ik.com
+2, ezaudueu6.com
 2, ezcl19vy10.com
 2, ezd6n7n4m7.com
 2, eztravude.com
@@ -2458,6 +2462,7 @@ routing = 2
 2, freshet40.top
 2, fretsaw55.top
 2, frhi5v6ez1.com
+2, frhsxjpciitptq.com
 2, frp8r3le9c.com
 2, frustum47.top
 2, frustum77.top
@@ -3533,6 +3538,7 @@ routing = 2
 2, lfxm6qdn0.com
 2, lgaekait.com
 2, lgfktruknrjbxc.com
+2, lgh8ua4fj.com
 2, lgmi.com
 2, lgu7in90o.com
 2, lh168.net
@@ -3746,6 +3752,7 @@ routing = 2
 2, me4b65enw.com
 2, meander29.top
 2, meander32.com
+2, mebqlxk7o.com
 2, mediav.com
 2, medicine4.top
 2, mediocre38.com
@@ -4617,6 +4624,7 @@ routing = 2
 2, rgaagnida.com
 2, rgdnlzsth.icu
 2, rgoxcknehm.com
+2, rgt8qby8k.com
 2, rgzz3rs.icu
 2, rhaol5omof.com
 2, rhiolf.cn
@@ -5358,6 +5366,7 @@ routing = 2
 2, uzurliev.com
 2, v.center
 2, v0su9ogte.com
+2, v0v9ko8q4.com
 2, v1.19purify.com
 2, v1.kwpewga.cn
 2, v1.phb123.com
@@ -5720,6 +5729,7 @@ routing = 2
 2, wxikfd89f.com
 2, wxx776sxqk.com
 2, wxy9b202h.com
+2, wxylxfmqd.com
 2, wxztfkiga.com
 2, wy213.com
 2, wy7btl038.com
