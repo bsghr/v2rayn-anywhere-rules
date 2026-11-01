@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6363
+# RULES: 6374
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -27,6 +27,7 @@ routing = 2
 2, 06hkgn0jl3.com
 2, 0755rc.com
 2, 078pwrxpbg.com
+2, 08137tabw.com
 2, 086123.xyz
 2, 08pkgxft0u.com
 2, 08su45co5x.com
@@ -271,6 +272,7 @@ routing = 2
 2, 2021.dxsbb.com
 2, 202xs.com
 2, 20images36.com
+2, 20ml7x2sk.com
 2, 21.cizhibaogao.org
 2, 21.fh21static.com
 2, 21.zhaozongjie.com
@@ -756,6 +758,7 @@ routing = 2
 2, 7eehi3vqy3.com
 2, 7g6p21pmm.com
 2, 7g761j2nc.com
+2, 7hc5zpcv6.com
 2, 7ho8oc3svg.com
 2, 7imz0d5nay.com
 2, 7istqn6fh.com
@@ -952,6 +955,7 @@ routing = 2
 2, 9tlfy3rrh.com
 2, 9txnu9rlmd.com
 2, 9uza7fi60e.com
+2, 9v0ptnfes.com
 2, 9v7sbm9zc.com
 2, 9vmbje748.com
 2, 9yspkomgq.com
@@ -2429,6 +2433,7 @@ routing = 2
 2, fl7i15bxzr.com
 2, fldlxx.icu
 2, fmfrht.icu
+2, fmnmuuo7c.com
 2, fmnoaqebhe.com
 2, fnsdycspg.com
 2, foolhardy76.com
@@ -2965,6 +2970,7 @@ routing = 2
 2, ht55hm12n2.com
 2, ht9s1j1bf.com
 2, htazjxk.com
+2, htfaxfwqywzfdo.com
 2, hthelulyq.com
 2, htlwbn.icu
 2, httpcn.com
@@ -3372,6 +3378,7 @@ routing = 2
 2, k5w06v2yzh.com
 2, k69wes8q8.com
 2, k6d.falang.net
+2, k6p5kaelz.com
 2, k7m4co459k.com
 2, k8mb640mta.com
 2, k8t39fu2n.com
@@ -3693,6 +3700,7 @@ routing = 2
 2, m1jm3nzf2.com
 2, m2.lelemh.com
 2, m292dfq9c.com
+2, m2fnnugqp.com
 2, m2wrsmrsbj.com
 2, m30bh0coz2.com
 2, m3cqjc3og6.com
@@ -4024,6 +4032,7 @@ routing = 2
 2, npuwalz.com
 2, npzc1yzag7.com
 2, npzjrlkmmjjtxe.com
+2, nq6jitu4y.com
 2, nqrsdhemqmfdry.com
 2, nqwgvk.cn
 2, nrfvq6g98.com
@@ -4565,6 +4574,7 @@ routing = 2
 2, r5gcp9.com
 2, r5n8ic3on.com
 2, r6yigjfvp.com
+2, r7aon5a2a.com
 2, r7pnnukr.xyz
 2, r8ln4v4nef.com
 2, ra0mpyy93.com
@@ -4982,6 +4992,7 @@ routing = 2
 2, ta7088hrd.com
 2, ta7tfk0o2h.com
 2, tableland06.top
+2, tableware66.com
 2, tad.suning.com
 2, taf9vs2wz.com
 2, tagtoo.co
