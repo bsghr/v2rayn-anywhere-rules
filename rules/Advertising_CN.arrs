@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6386
+# RULES: 6392
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -83,6 +83,7 @@ routing = 2
 2, 0wpfe0duo.com
 2, 0x79jjyph7.com
 2, 0xr7ii3df.com
+2, 0xxbtt1ov.com
 2, 0xzxwnkqdu.com
 2, 0yfqg4qm0.com
 2, 0yjeii25x4.com
@@ -1057,6 +1058,7 @@ routing = 2
 2, a6o69f9ky0.com
 2, a78lx5fbd.com
 2, a85t9mxnj.com
+2, a8ougj16a.com
 2, a8qwjt7dwi.com
 2, a8wqu3fbmk.com
 2, aa.gushiwen.org
@@ -2385,6 +2387,7 @@ routing = 2
 2, fdi1rg6ihs.com
 2, fdk6z2l7jt.com
 2, fdluoxnn.com
+2, fdseb8s0y.com
 2, fdtarpaueilvrs.com
 2, fe7xxmtg3.com
 2, feeceeyf.com
@@ -3405,6 +3408,7 @@ routing = 2
 2, kbkvmeg.com
 2, kbr23k89xz.com
 2, kc30leutua.top
+2, kca7afgqg.com
 2, kd5anwumy.com
 2, kdewa111.familydoctor.com.cn
 2, kdiwpsdrk.com
@@ -4685,6 +4689,7 @@ routing = 2
 2, rnvwzd0t9.com
 2, rofnjd.icu
 2, roj7ah16d.com
+2, romwdc1mv.com
 2, ronfjvonmo.com
 2, rorwdbuazjbxta.com
 2, rotovator44.top
@@ -5401,6 +5406,7 @@ routing = 2
 2, v4ox630nia.com
 2, v53groc9v.com
 2, v5rv8mnfk.com
+2, v62hjyw4o.com
 2, v700rtlhd.com
 2, v7mf6q1mx.com
 2, v84tz11w7.com
