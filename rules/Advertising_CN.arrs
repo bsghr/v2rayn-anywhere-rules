@@ -1,12 +1,13 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6420
+# RULES: 6430
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
 routing = 2
 2, 002777.xyz
 2, 003store.com
+2, 007bq3y7e5.com
 2, 00k456wyh.com
 2, 011qt7cln.com
 2, 0171pjx5q.com
@@ -685,6 +686,7 @@ routing = 2
 2, 6ggstcmglf.com
 2, 6grxxoqmpc.com
 2, 6h6pdph56.com
+2, 6htu6jje0l.com
 2, 6iejd9pk0.com
 2, 6ign0q6xb1.com
 2, 6iiz8ni96v.com
@@ -846,6 +848,7 @@ routing = 2
 2, 8eo93qj18r.com
 2, 8fdmj67f5e.com
 2, 8feichai.com
+2, 8fjklyd4os.com
 2, 8g2a7mifv.com
 2, 8gptk28oag.com
 2, 8h6oiw0uo.com
@@ -2015,6 +2018,7 @@ routing = 2
 2, dd81bp3qbj.com
 2, ddc888.com
 2, ddckenbga.com
+2, ddft5oqi7q.com
 2, ddgjjj.com
 2, ddhwxwi6h.com
 2, ddpoupmu.icu
@@ -2023,7 +2027,6 @@ routing = 2
 2, dehua.ixinfan.com
 2, dehudoz.com
 2, deliver.ifeng.com
-2, delivery.playallvideos.com
 2, delivery.wasu.cn
 2, dependence39.com
 2, derivative10.top
@@ -2082,6 +2085,7 @@ routing = 2
 2, dkaktsb.icu
 2, dkaon1jjeo.com
 2, dkc63u5su8.com
+2, dkkm83qokh.com
 2, dkphbpakvgftxm.com
 2, dkweuy.com
 2, dlads.cn
@@ -2438,6 +2442,7 @@ routing = 2
 2, fitchpmsa.com
 2, fitment47.com
 2, fittomniku.com
+2, fivvdbnotgndfg.com
 2, fizmvbysarrvva.com
 2, fjalsr83a6.com
 2, fjpopxgyfrlxvc.com
@@ -2904,6 +2909,7 @@ routing = 2
 2, hellocenter.xyz
 2, henghost.com
 2, heoddikvdm.com
+2, heptagon54.com
 2, herculean57.com
 2, herogame.com
 2, heuristic95.top
@@ -3041,6 +3047,7 @@ routing = 2
 2, i16vlgqdhh.com
 2, i27jhc4ut0.com
 2, i2fxsez4f0.com
+2, i2jmbz5ec0.com
 2, i2t1zp6t2v.com
 2, i2ye9dnle.com
 2, i3j6h7j9cj.com
@@ -4350,6 +4357,7 @@ routing = 2
 2, pn9f3utrxu.com
 2, pnlx1ofua.com
 2, pnpq9y4te.com
+2, po1c0tw4b2.com
 2, po3x411qe3.com
 2, poco.cn
 2, podcxz.icu
@@ -5056,6 +5064,7 @@ routing = 2
 2, tdlqxdwwpptpli.com
 2, tebv.cn
 2, tech.jiukang.org
+2, tecraccimk.com
 2, tek3shnfk.com
 2, telecome.cn
 2, telphiruq.com
@@ -5483,6 +5492,7 @@ routing = 2
 2, vfpkraveam.com
 2, vfqhky3tos.com
 2, vfymgla.com
+2, vg3z87oecg.com
 2, vglkx9lick.com
 2, vgtmosn.com
 2, vgzard.icu
@@ -5607,6 +5617,7 @@ routing = 2
 2, w0079.com
 2, w0082.com
 2, w010w.com.cn
+2, w0c42chjph.com
 2, w0kaf7jjg.com
 2, w11.zhongkaohelp.com
 2, w18.9939.com
@@ -5840,7 +5851,6 @@ routing = 2
 2, xdlipr.icu
 2, xdnjqtn.com
 2, xdxqw9nnr.com
-2, xdyjt.com
 2, xdyn03010jy.com
 2, xdyn03011jy.com
 2, xdyn03021jy.com

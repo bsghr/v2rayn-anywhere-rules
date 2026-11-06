@@ -1,13 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 10142
+# RULES: 10141
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xvwprdk.com
-2, xw-chip.com
-2, xw-planning.com
 2, xw-scm.com
 2, xw360.com
 2, xw365.com
@@ -4464,6 +4461,7 @@ routing = 1
 2, yundonghao.com
 2, yundongit.com
 2, yundousoft.com
+2, yundouxueyuan.com
 2, yundui.cc
 2, yunduimedia.com
 2, yundun.com
@@ -5113,6 +5111,7 @@ routing = 1
 2, yy960.com
 2, yyaotec.com
 2, yyarea.com
+2, yybip.com
 2, yyblly.com
 2, yybnet.net
 2, yybox.cc
