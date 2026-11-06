@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6408
+# RULES: 6420
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -24,6 +24,7 @@ routing = 2
 2, 067oij53m.com
 2, 06cp8ypn8j.com
 2, 06evyxnibl.com
+2, 06f2egypr.com
 2, 06hkgn0jl3.com
 2, 0755rc.com
 2, 078pwrxpbg.com
@@ -412,6 +413,7 @@ routing = 2
 2, 3f1l3f80xm.com
 2, 3f6e7oacgi.com
 2, 3fcu1sqox2.com
+2, 3g0p5hjwa.com
 2, 3ge064tt79.com
 2, 3hfmrv8d45.com
 2, 3hg6yh6h0.com
@@ -434,6 +436,7 @@ routing = 2
 2, 3q9j4w2r9d.com
 2, 3qtdjf4830.com
 2, 3qx0pnhyzi.com
+2, 3r6fs2855.com
 2, 3rc04o1rmy.com
 2, 3rev8wh22y.com
 2, 3rs337ci4.com
@@ -478,6 +481,7 @@ routing = 2
 2, 48dswtxkw.com
 2, 48r3l2u5l2.com
 2, 490i1rrbd.com
+2, 494b6x7u8.com
 2, 49dlt9myv.com
 2, 49ioqq6kt.com
 2, 49o4m4a5eo.com
@@ -878,6 +882,7 @@ routing = 2
 2, 8wvb8xoqgq.com
 2, 8x919j7l2l.com
 2, 8ya9li3d2g.com
+2, 8ybghd4zn.com
 2, 8yo772d29.com
 2, 8yuwd5lpj.com
 2, 8z1eg6o2j.com
@@ -1257,6 +1262,7 @@ routing = 2
 2, alcoholic56.top
 2, aldehyde06.com
 2, aleldrodm.com
+2, alhgxftiz.com
 2, ali213.net
 2, alicdn.com
 2, alimama.alicdn.com
@@ -2902,6 +2908,7 @@ routing = 2
 2, herogame.com
 2, heuristic95.top
 2, hfisngksng.com
+2, hfparjrmndbvta.com
 2, hfqarnolmm.com
 2, hfr8l4ebdt.com
 2, hfrkamhoz.com
@@ -3140,6 +3147,7 @@ routing = 2
 2, impdsp.meituan.com
 2, in5nx9xbd.com
 2, incapacity75.top
+2, incenter12.com
 2, inception27.com
 2, incubation95.top
 2, inequation23.com
@@ -3956,6 +3964,7 @@ routing = 2
 2, n8bpikx1mt.com
 2, n8g1kvtmrf.com
 2, n906n29tm.com
+2, na50e68jx.com
 2, nahdlvqwqkzxby.com
 2, nahg4lhbr.com
 2, naivety48.com
@@ -4257,6 +4266,7 @@ routing = 2
 2, pavxtxikkjrdfy.com
 2, pb.shuxigua.com
 2, pb1b7cqwvs.com
+2, pbe40xy8g.com
 2, pbeldhnbk.com
 2, pbo8y8igrp.com
 2, pbuuzazvrw.com
@@ -4495,6 +4505,7 @@ routing = 2
 2, qgreedreau.com
 2, qguwoq.cn
 2, qgvvtce98.com
+2, qh7ptb6mc.com
 2, qhaelqata.com
 2, qhangrotl.com
 2, qhirlilzda.com
@@ -5320,6 +5331,7 @@ routing = 2
 2, uhiwh2tsu.com
 2, uhyqieok5u.com
 2, uiakvibuzy.com
+2, uibpd67j6.com
 2, uiqyuydt9t.com
 2, uj08lr3rv.com
 2, uj2h8xm8w.com
