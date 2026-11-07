@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6430
+# RULES: 6442
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -247,6 +247,7 @@ routing = 2
 2, 1o0g85u7k1.com
 2, 1o1nuqbjea.com
 2, 1o23ptd0sv.com
+2, 1okxxe67d.com
 2, 1ovzgs15u.com
 2, 1p5j4qb3zc.com
 2, 1paujqtq9.com
@@ -292,6 +293,7 @@ routing = 2
 2, 22svkcdbyp.com
 2, 22vie9ula.com
 2, 2345.com
+2, 23civw6cl.com
 2, 23cox7hu4.com
 2, 23dx6xe42.com
 2, 23img.com
@@ -486,6 +488,7 @@ routing = 2
 2, 49dlt9myv.com
 2, 49ioqq6kt.com
 2, 49o4m4a5eo.com
+2, 4ad9bqnjb.com
 2, 4bo5t8fzd.com
 2, 4br824ktty.com
 2, 4c0wa2ml2f.com
@@ -499,6 +502,7 @@ routing = 2
 2, 4grqz7x6z3.com
 2, 4h87y9pc59.com
 2, 4hf2saujov.com
+2, 4hfm8gfow.com
 2, 4i2q0y9wv.com
 2, 4ikj2pbeqb.com
 2, 4j7mf4mmx.com
@@ -1860,6 +1864,7 @@ routing = 2
 2, convergent16.top
 2, corkscrew33.com
 2, cos1999.top
+2, cosecant36.com
 2, cosiskkm.com
 2, count.xxxssk.com
 2, coywadlw9r.com
@@ -2842,6 +2847,7 @@ routing = 2
 2, h1cn8nwng.com
 2, h1yfrt.com
 2, h27aq0mc6.com
+2, h2m1op6zw.com
 2, h32rbpk7ne.com
 2, h40q9nv18.com
 2, h4htfgrei0.com
@@ -2880,6 +2886,7 @@ routing = 2
 2, hawsehole52.top
 2, hawthorn33.top
 2, hazardous58.top
+2, hb287nh0w.com
 2, hbcjdwm.com
 2, hbfpml.cn
 2, hbiaz6xxya.com
@@ -3050,6 +3057,7 @@ routing = 2
 2, i2jmbz5ec0.com
 2, i2t1zp6t2v.com
 2, i2ye9dnle.com
+2, i3594uli4.com
 2, i3j6h7j9cj.com
 2, i3l7wf.com
 2, i3z.cn
@@ -3843,6 +3851,7 @@ routing = 2
 2, miwifi.com
 2, mixer.sina.cn
 2, mj2fdb4kdq.com
+2, mjpauup21.com
 2, mjursnb.com
 2, mjvb60t4g.com
 2, mk0d5qbdj.com
@@ -4405,6 +4414,7 @@ routing = 2
 2, propeller73.com
 2, property58.top
 2, prosecute39.top
+2, ps2nsp6nz.com
 2, psa1xoeve.com
 2, psdovpvghfphju.com
 2, psgpllf.com
@@ -4500,6 +4510,7 @@ routing = 2
 2, qd32n9lpq.com
 2, qd38xgoin9.com
 2, qddlm.com
+2, qde87pge0.com
 2, qdqf7syrx0.com
 2, qdzyspjx.com
 2, qe9wckxig.com
@@ -5781,6 +5792,7 @@ routing = 2
 2, wuliao.chzsport.cn
 2, wuliao.epro.sogou.com
 2, wuliao.juqingba.cn
+2, wuos2fhox.com
 2, wvepppysvo.com
 2, wvrp.cn
 2, wvuiaqx.com
