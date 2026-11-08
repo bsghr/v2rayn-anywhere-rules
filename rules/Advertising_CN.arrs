@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6442
+# RULES: 6453
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -81,6 +81,7 @@ routing = 2
 2, 0tkwnl1cw.com
 2, 0u9w05cxo.com
 2, 0v0qj9fnwf.top
+2, 0vpekhux1f.com
 2, 0wk6gdkg8r.com
 2, 0wpfe0duo.com
 2, 0x79jjyph7.com
@@ -244,6 +245,7 @@ routing = 2
 2, 1nvnkyg65.com
 2, 1nvxl968le.com
 2, 1ny5gaksj8.com
+2, 1o057bolbb.com
 2, 1o0g85u7k1.com
 2, 1o1nuqbjea.com
 2, 1o23ptd0sv.com
@@ -261,6 +263,7 @@ routing = 2
 2, 1s8hpetv3.com
 2, 1s8pj.cn
 2, 1s8zfj6p4.com
+2, 1ttxjgo7fd.com
 2, 1tvg524vih.com
 2, 1u6hvoykk3.com
 2, 1ub29e88i.com
@@ -400,6 +403,7 @@ routing = 2
 2, 3798.com
 2, 37lwjdaua.com
 2, 37nu0riwfd.com
+2, 37rk0rihje.com
 2, 37shrmvlju.com
 2, 380.tw
 2, 38ksw.com
@@ -507,6 +511,7 @@ routing = 2
 2, 4ikj2pbeqb.com
 2, 4j7mf4mmx.com
 2, 4jh1le34m.com
+2, 4k1x3mkrus.com
 2, 4k3nzijpm0.com
 2, 4k4zbfclm.com
 2, 4kngwxegq5.com
@@ -1410,6 +1415,7 @@ routing = 2
 2, barqmajk.com
 2, barrister85.top
 2, barstool59.com
+2, barycentre98.com
 2, bas.boshi.tv
 2, basically97.top
 2, bauddoih.com
@@ -2243,6 +2249,7 @@ routing = 2
 2, edrakiber.com
 2, edu.jiukang.org
 2, eduad.baidu.com
+2, edyr2ip7zg.com
 2, ee.shixunwang.net
 2, eevfstl1n.com
 2, efg.zle.com
@@ -2464,6 +2471,7 @@ routing = 2
 2, fmfrht.icu
 2, fmnmuuo7c.com
 2, fmnoaqebhe.com
+2, fnrvva9u4z.com
 2, fnsdycspg.com
 2, foolhardy76.com
 2, foremost57.top
@@ -3096,6 +3104,7 @@ routing = 2
 2, idzdsbanio.com
 2, iedchqswx7.com
 2, iemshbwfg.com
+2, ifawj9hvvl.com
 2, ifb33zuqc.com
 2, ifeng.com
 2, ifengimg.com
@@ -3262,6 +3271,7 @@ routing = 2
 2, jba33y5xx.com
 2, jbdch1.appmobile.cn
 2, jbiwvt6x1e.com
+2, jbnizvqmwmnldg.com
 2, jbriyba0f.com
 2, jbsy20riz9.com
 2, jbw4kkuf2y.com
@@ -3672,6 +3682,7 @@ routing = 2
 2, longdidi.top
 2, love.furenkeji.com
 2, lp340p7czf.com
+2, lp70zi3ou3.com
 2, lp780937a.com
 2, lpaitrekoe.com
 2, lpalartra.com
