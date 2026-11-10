@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6453
+# RULES: 6471
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -607,6 +607,7 @@ routing = 2
 2, 5hdz1gnue.com
 2, 5hebtbbgbo.com
 2, 5hffr1p22j.com
+2, 5hi8d6076.com
 2, 5ho41ueq7w.com
 2, 5hu7hee0pt.com
 2, 5ipifco2tf.com
@@ -938,6 +939,7 @@ routing = 2
 2, 99d8z9oqnu.com
 2, 99zuowen.com
 2, 9a4v0clpi.com
+2, 9bialak0c.com
 2, 9ck9umcyvt.com
 2, 9cwcu1574.com
 2, 9dehzr5d2i.com
@@ -984,6 +986,7 @@ routing = 2
 2, 9v0ptnfes.com
 2, 9v7sbm9zc.com
 2, 9vmbje748.com
+2, 9wkvbvm90.com
 2, 9yspkomgq.com
 2, 9z6p1shhsh.top
 2, a.10tianqi.com
@@ -1929,6 +1932,7 @@ routing = 2
 2, cv5gezvaj.com
 2, cvd2jag5ru.com
 2, cvpl9qbz6.com
+2, cvpovse.com
 2, cwmlm.com
 2, cxafybp.com
 2, cxdcn9c.fjshxjs.cn
@@ -2177,6 +2181,7 @@ routing = 2
 2, dtroldad.com
 2, dtrurqeq.com
 2, du1.bbdj.com
+2, du9kcdusj.com
 2, duapp.com
 2, duiwai.baidu.com
 2, dukwznn0x.com
@@ -2410,6 +2415,7 @@ routing = 2
 2, fd6s5sa7ji.com
 2, fdc.com.cn
 2, fdc.my0511.com
+2, fddmimp37.com
 2, fdetolgput.com
 2, fdfda.zhuzhai.com
 2, fdfghgfdd.yunqishi.net
@@ -2920,6 +2926,7 @@ routing = 2
 2, hebaidu.cc
 2, hecwgmokvc.com
 2, heiw99ovji.com
+2, hejdlnmicpblpm.com
 2, heky0uxng.com
 2, hellocenter.xyz
 2, henghost.com
@@ -3038,6 +3045,7 @@ routing = 2
 2, hxbt.alading123.com
 2, hxjs.tool.hexun.com$domain=~quote.hexun.com
 2, hxpfsdvfm.com
+2, hxuxv7vx0.com
 2, hy.huangye88.com.cn
 2, hy.huangye88.net
 2, hyaplnr.com
@@ -3514,12 +3522,14 @@ routing = 2
 2, ktlztpx8f.com
 2, ku8d1fla8.com
 2, kuaizitech.com
+2, kuerlefc.com
 2, kugoucdn.com
 2, kuheju.com
 2, kuk8.com
 2, kukanmanhua.cyou
 2, kuku99.com
 2, kumphurwyr.com
+2, kusjw4wqj.com
 2, kvdxvqw.xyz
 2, kve026cks7.com
 2, kvfskyv6h7.com
@@ -3714,6 +3724,7 @@ routing = 2
 2, lv.myapks.com
 2, lv3f2bqnb.com
 2, lvdvltsid.com
+2, lvnqnjiocnfvvk.com
 2, lvykdmk.icu
 2, lvzs619n1c.com
 2, lwdla7fjns.com
@@ -3800,6 +3811,7 @@ routing = 2
 2, matwbp.iask.sina.com.cn
 2, mazincike.com
 2, mb.gulongbbs.com
+2, mbfo10wjf.com
 2, mbn6duism5.com
 2, mbuuceth.com
 2, mc.weather.com.cn
@@ -4828,6 +4840,7 @@ routing = 2
 2, s2ze6h0miy.com
 2, s3-nl-01.mangabuddy.in
 2, s3bltexcm.com
+2, s3kokfksap.com
 2, s3t75j8o7.com
 2, s45hkb25i.com
 2, s4fqior1wk.com
@@ -4934,6 +4947,7 @@ routing = 2
 2, solicitor44.com
 2, solitaire47.com
 2, solitaire50.top
+2, solution97.com
 2, soob00avn4.com
 2, soorbka.cn
 2, sotunet.com
@@ -5133,6 +5147,7 @@ routing = 2
 2, tizdfz.icu
 2, tjfskxz0t6.com
 2, tjgssn.com
+2, tjhi6gplu.com
 2, tjv251109ads.com
 2, tjv260529xxx.com
 2, tk.504pk.com
@@ -5390,6 +5405,7 @@ routing = 2
 2, un1.lawyernet.cn
 2, un8hlx.com
 2, underhand19.com
+2, undersurface08.com
 2, undertow52.top
 2, undertow88.com
 2, undm.qibulo.com
@@ -5558,6 +5574,7 @@ routing = 2
 2, vkeqoidm.com
 2, vkoq4kyzmj.com
 2, vle6r0hma.com
+2, vlifpif.com
 2, vlion.cn
 2, vljyztqsnkhvra.com
 2, vlrvrntcxjljnu.com
@@ -5605,6 +5622,7 @@ routing = 2
 2, vuhhryua.com
 2, vuielmilg.com
 2, vujglx.icu
+2, vul4a3k0kt.com
 2, vupload.duowan.com
 2, vv1.pyhfxdm.cn
 2, vvogrqq6r.com
