@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6471
+# RULES: 6480
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -176,6 +176,7 @@ routing = 2
 2, 12ypksztq.com
 2, 12yr3wkwi5.com
 2, 136ckqmwc.com
+2, 137ioe2krr.com
 2, 13afemc28.com
 2, 148a0hqnen.com
 2, 151xrobgqz.com
@@ -851,6 +852,7 @@ routing = 2
 2, 89ga0evbha.com
 2, 89y84ta6xg.com
 2, 8al17kw6d.com
+2, 8c2sxamc6w.com
 2, 8cj70f905.com
 2, 8cjk04e7sb.com
 2, 8csgiuclxz.com
@@ -966,6 +968,7 @@ routing = 2
 2, 9nvj3swk9l.com
 2, 9nwplq7y2o.com
 2, 9nzrfglryy.com
+2, 9o2r9h0ket.com
 2, 9obmf866d.com
 2, 9oxhstb2m2.com
 2, 9p81m19kr.com
@@ -2576,6 +2579,7 @@ routing = 2
 2, g2wg5308q.com
 2, g3m92egwo.com
 2, g4d2cox74f.com
+2, g4dgp989f.com
 2, g4z8712756.com
 2, g5xu1dslr6.com
 2, g64njjhyh.com
@@ -3586,6 +3590,7 @@ routing = 2
 2, lcugzodfdo.com
 2, lczk.cn
 2, ld1qwww3kj.com
+2, ld7v2xm6ti.com
 2, lddvxfmswnnxny.com
 2, ldmnq.com
 2, ldphrdhawfxhvc.com
@@ -3783,6 +3788,7 @@ routing = 2
 2, m6cx48b0e.com
 2, m6qxdu6m6w.com
 2, m78vxjm35d.com
+2, m7xud9jqpu.com
 2, m81mfege2.com
 2, m8h5qjmlb3.com
 2, m8qk101065.com
@@ -4298,6 +4304,7 @@ routing = 2
 2, pansoso.com
 2, pantomime32.top
 2, panyh123456.cn
+2, parallelepiped48.com
 2, partnership75.com
 2, patient15.top
 2, patriotic66.top
@@ -4642,6 +4649,7 @@ routing = 2
 2, r.99waiyu.com
 2, r0d2dzltw7.com
 2, r1jprcr42.com
+2, r1owcxiy50.com
 2, r27y52dd7.com
 2, r30vhf31sv.com
 2, r40xff8q48.com
@@ -6458,6 +6466,7 @@ routing = 2
 2, zvhtzl.icu
 2, zvptrf.icu
 2, zvrl.cn
+2, zw17ig1gnw.com
 2, zwbngpnpa.com
 2, zwfqxj.icu
 2, zwg5j61a8.com
