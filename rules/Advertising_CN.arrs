@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6480
+# RULES: 6493
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -33,6 +33,7 @@ routing = 2
 2, 086123.xyz
 2, 08pkgxft0u.com
 2, 08su45co5x.com
+2, 0a1t46qpf.com
 2, 0a66kw9r8.com
 2, 0aokpbwui.com
 2, 0av9w1ubbh.com
@@ -441,6 +442,7 @@ routing = 2
 2, 3o6a7kbcwo.com
 2, 3p8801.co
 2, 3pf2kwmc3g.com
+2, 3pq0vah1e0.com
 2, 3q9j4w2r9d.com
 2, 3qtdjf4830.com
 2, 3qx0pnhyzi.com
@@ -511,6 +513,7 @@ routing = 2
 2, 4i2q0y9wv.com
 2, 4ikj2pbeqb.com
 2, 4j7mf4mmx.com
+2, 4j9cjy80f.com
 2, 4jh1le34m.com
 2, 4k1x3mkrus.com
 2, 4k3nzijpm0.com
@@ -802,6 +805,7 @@ routing = 2
 2, 7mxn77h4vr.com
 2, 7na721c64.com
 2, 7nb71ub2xi.com
+2, 7oavaac8i.com
 2, 7p5ruxflv0.com
 2, 7pe17z68y.com
 2, 7q2701vx8e.com
@@ -1078,6 +1082,7 @@ routing = 2
 2, a32a.com.cn
 2, a4bbltm3u2.com
 2, a4j126meg3.com
+2, a4k2h8jii.com
 2, a4xvv2g18l.com
 2, a51wzxssu.com
 2, a588g3q4t.com
@@ -1326,6 +1331,7 @@ routing = 2
 2, archetype32.top
 2, arithmetic48.top
 2, arlavilqyt.com
+2, artjnley.com
 2, arullelb.com
 2, as1.m.hao123.com
 2, as1.wenku.baidu.com
@@ -1934,6 +1940,7 @@ routing = 2
 2, cv3qb5813.com
 2, cv5gezvaj.com
 2, cvd2jag5ru.com
+2, cvmnq9cre.com
 2, cvpl9qbz6.com
 2, cvpovse.com
 2, cwmlm.com
@@ -1947,6 +1954,7 @@ routing = 2
 2, cyq8vqq9s.com
 2, cyu6bl939o.com
 2, cz16vlh0la.com
+2, czeqjvr.com
 2, czt4gnz57.com
 2, d-test.39.net
 2, d.6xw.com
@@ -2150,6 +2158,7 @@ routing = 2
 2, do7gsv4xsf.com
 2, dogwood96.com
 2, doko.moe
+2, donwgdsqq.com
 2, dorgnh.icu
 2, douban.com
 2, doubanio.com
@@ -2330,6 +2339,7 @@ routing = 2
 2, equidistant19.com
 2, er.5ykj.cn
 2, er.5ykj.com
+2, eraf2uzhji.com
 2, erebor.douban.com
 2, ergeapp.com
 2, esa2j46dwf.com
@@ -3026,6 +3036,7 @@ routing = 2
 2, htazjxk.com
 2, htfaxfwqywzfdo.com
 2, hthelulyq.com
+2, htjkgmxcg.com
 2, htlwbn.icu
 2, httpcn.com
 2, https-filtering-check.adtidy.org
@@ -3469,6 +3480,7 @@ routing = 2
 2, kdiwpsdrk.com
 2, kdpic.pchome.com.tw
 2, kduwvaq3dt.com
+2, ke8me98qh.com
 2, kefeng56.com
 2, kegll5mwl2.com
 2, kejyrcp923.com
@@ -3945,6 +3957,7 @@ routing = 2
 2, mukkoiigam.com
 2, multiple46.top
 2, multiplication29.top
+2, multiplicator98.com
 2, multiplier47.top
 2, multiply5.top
 2, musclesaskewfeeding.com
