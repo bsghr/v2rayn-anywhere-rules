@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6493
+# RULES: 6498
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -496,6 +496,7 @@ routing = 2
 2, 49ioqq6kt.com
 2, 49o4m4a5eo.com
 2, 4ad9bqnjb.com
+2, 4ae8xsq18s.com
 2, 4bo5t8fzd.com
 2, 4br824ktty.com
 2, 4c0wa2ml2f.com
@@ -1433,6 +1434,7 @@ routing = 2
 2, bauddoih.com
 2, baztfhhqiuvttm.com
 2, bb2k0pq1vf.com
+2, bb5uxk0dfa.com
 2, bbepv.com
 2, bbqy4ihvz9.com
 2, bbs.gmbbk.com
@@ -3606,6 +3608,7 @@ routing = 2
 2, lddvxfmswnnxny.com
 2, ldmnq.com
 2, ldphrdhawfxhvc.com
+2, ldxxawzpy9.com
 2, ldyqwzfmd.com
 2, leabd.douguo.com
 2, leektiylpi.com
@@ -4666,6 +4669,7 @@ routing = 2
 2, r27y52dd7.com
 2, r30vhf31sv.com
 2, r40xff8q48.com
+2, r44r4l5na1.com
 2, r4uws5iu3g.com
 2, r528e.cn
 2, r5g13d8py3.com
@@ -5726,6 +5730,7 @@ routing = 2
 2, w9cvyte89.com
 2, w9p70nort.com
 2, waioidmwg.com
+2, waj301k9sb.com
 2, waly7k3sg3.com
 2, wanfumei.net
 2, wap.qqbiquge.net
