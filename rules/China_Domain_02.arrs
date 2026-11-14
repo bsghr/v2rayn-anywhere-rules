@@ -1,57 +1,10 @@
 # NAME: China_Domain_02
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 10241
+# RULES: 10192
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = China_Domain_02
 routing = 1
-2, xunlu-led.com
-2, xunlugame.com
-2, xunma.xyz
-2, xunmall.net
-2, xunmei.net
-2, xunmeinet.com
-2, xunmengtu.com
-2, xunpaibao.com
-2, xunqinji.net
-2, xunrenzhaoren.com
-2, xunruicms.com
-2, xunruns.com
-2, xunsearch.com
-2, xunshi.cc
-2, xunsho.com
-2, xunshou.com
-2, xunshu.org
-2, xunsl.com
-2, xunsn.com
-2, xunsns.com
-2, xuntongwuxian.com
-2, xuntou.com
-2, xuntou.mobi
-2, xuntuoguan.com
-2, xunurl.com
-2, xunvision.com
-2, xunw.shop
-2, xunwan.com
-2, xunwangba.com
-2, xunwei.tm
-2, xunweihc.com
-2, xunxi.com
-2, xunxiang.site
-2, xunxu.com
-2, xunyangzaixian.com
-2, xunyou.com
-2, xunyou.mobi
-2, xunyouyw.com
-2, xunyuan1314.com
-2, xunyun.com
-2, xunzai.com
-2, xunzhuang.net
-2, xuooo.com
-2, xupai.com
-2, xupea.com
-2, xupernode.com
-2, xupertves.com
 2, xuprinter.com
 2, xupu.name
 2, xupu120.com
@@ -6917,7 +6870,6 @@ routing = 1
 2, zhhaitai.com
 2, zhheo.com
 2, zhhfedu.com
-2, zhhlaw.com
 2, zhhlogistics.com
 2, zhhrm.com
 2, zhhs-china.com
@@ -10199,7 +10151,6 @@ routing = 1
 2, zzwonder.com
 2, zzwqqx.com
 2, zzwro.com
-2, zzwtjx.com
 2, zzwwiidd.com
 2, zzwzj.com
 2, zzxca.com
