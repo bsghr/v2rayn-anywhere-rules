@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6516
+# RULES: 6526
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -83,6 +83,7 @@ routing = 2
 2, 0u9w05cxo.com
 2, 0v0qj9fnwf.top
 2, 0vpekhux1f.com
+2, 0vtqrw86o.com
 2, 0wk6gdkg8r.com
 2, 0wpfe0duo.com
 2, 0x79jjyph7.com
@@ -630,6 +631,7 @@ routing = 2
 2, 5p35xkp1p.com
 2, 5p478n58i9.com
 2, 5qnyx6k5w.com
+2, 5qpogztzt.com
 2, 5sghirlr5b.com
 2, 5t5z6augl3.com
 2, 5tf1zp1jgb.com
@@ -806,6 +808,7 @@ routing = 2
 2, 7mxn77h4vr.com
 2, 7na721c64.com
 2, 7nb71ub2xi.com
+2, 7nwt5qq78.com
 2, 7oavaac8i.com
 2, 7p5ruxflv0.com
 2, 7pe17z68y.com
@@ -2372,6 +2375,7 @@ routing = 2
 2, expediency36.com
 2, exponent69.com
 2, exrwl.com
+2, extraction14.com
 2, extremely58.top
 2, exwz.cn
 2, ey8u1z38v.com
@@ -3360,6 +3364,7 @@ routing = 2
 2, jm3uvitq0.com
 2, jnes2uutqu.com
 2, jnlenb.icu
+2, jnno9y1a9.com
 2, jo9q3dhqf.com
 2, jollyspring.com
 2, josqdb7jn4.com
@@ -3755,6 +3760,7 @@ routing = 2
 2, lvzs619n1c.com
 2, lwdla7fjns.com
 2, lwfdlv.icu
+2, lwlqblkcucbrjy.com
 2, lwlybwd5zq.com
 2, lwoffilapu.com
 2, lwrmft.icu
@@ -4686,6 +4692,7 @@ routing = 2
 2, r30vhf31sv.com
 2, r40xff8q48.com
 2, r44r4l5na1.com
+2, r45jho6ug.com
 2, r4uws5iu3g.com
 2, r528e.cn
 2, r5g13d8py3.com
@@ -5492,6 +5499,7 @@ routing = 2
 2, uwants.com
 2, uwerpyh.cn
 2, uwxez.com
+2, uxawyas.com
 2, uxb030ku4s.com
 2, uxee5bmf1k.com
 2, uxfe.cn
@@ -6066,6 +6074,7 @@ routing = 2
 2, xrnrplqcfmpxfg.com
 2, xrymwt5bap.com
 2, xs.houyi.baofeng.net
+2, xs27ycutl.com
 2, xscp03091xq.com
 2, xscp03100xq.com
 2, xscp03101xq.com
@@ -6302,6 +6311,7 @@ routing = 2
 2, z2ke56999.com
 2, z2ubj8bpk.com
 2, z2uyyp069d.com
+2, z3vkcnj9f.com
 2, z4a.net
 2, z4tnhm97b.com
 2, z5c4tnjw6p.com

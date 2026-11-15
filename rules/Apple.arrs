@@ -1,6 +1,6 @@
 # NAME: Apple
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 1791
+# RULES: 1795
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Apple
@@ -768,6 +768,7 @@ routing = 1
 2, camelphat.com
 2, camelspaceeffect.com
 2, canada-beatsbydre.com
+2, captive.apple.com
 2, carbon.com
 2, carekit.org
 2, casque-fr.com
@@ -883,6 +884,7 @@ routing = 1
 2, configuration-lb.ls-apple.com.akadns.net
 2, configuration.apple.com
 2, configuration.apple.com.akadns.net
+2, configuration.ls.apple.com
 2, cooliphonecasesstore.com
 2, coolmonster.net
 2, coreml.net
@@ -1521,6 +1523,7 @@ routing = 1
 2, ms4dre.com
 2, music.apple.com
 2, musickit.net
+2, musicstatus.itunes.apple.com
 2, musicstatus.music.apple.com
 2, mvod.itunes.apple.com
 2, myapp.itunes.apple.com
@@ -1533,6 +1536,7 @@ routing = 1
 2, myipod.net
 2, mylcloud.net
 2, mzstatic.com
+2, mzstorekit.itunes.apple.com
 2, namemybeats.com
 2, neborder.com
 2, negozimonsterbeats.com
