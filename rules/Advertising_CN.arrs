@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6526
+# RULES: 6540
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -12,6 +12,7 @@ routing = 2
 2, 011qt7cln.com
 2, 0171pjx5q.com
 2, 01anf08rf.com
+2, 01wgskp9y3.com
 2, 02exl1ql2l.com
 2, 039ijdlg8.com
 2, 03in08p3r1.com
@@ -208,6 +209,7 @@ routing = 2
 2, 1a7pxa2r7.com
 2, 1aa0yygqst.com
 2, 1adi9wenq.com
+2, 1bdy5sl4fc.com
 2, 1bsb5sic0.com
 2, 1buu1.penyouw.com
 2, 1chtx8re2.com
@@ -562,6 +564,7 @@ routing = 2
 2, 51yhzp.com
 2, 51ympuu7y.com
 2, 52av.be
+2, 52cg5n8jjd.com
 2, 52tian.net
 2, 5399.com
 2, 54ad.net
@@ -678,6 +681,7 @@ routing = 2
 2, 66l11y82dn.com
 2, 6789.net
 2, 67qlvj0jcj.com
+2, 681znub3xp.com
 2, 6820tp1.com
 2, 68287zubo85737.com
 2, 68b1hx8ej.com
@@ -824,6 +828,7 @@ routing = 2
 2, 7usgqu07mk.com
 2, 7w7kditsz.com
 2, 7xi9g1.com1.z0.glb.clouddn.com
+2, 7xjdieyglr.com
 2, 7xkdyg9b8k.com
 2, 7xm6spgwu.com
 2, 7xsf3h.com1.z0.glb.clouddn.com
@@ -1873,6 +1878,7 @@ routing = 2
 2, com052bin.com
 2, comedy34.com
 2, compass12.top
+2, complement88.com
 2, compose99.com
 2, compress33.top
 2, concave88.top
@@ -2108,6 +2114,7 @@ routing = 2
 2, divergent59.com
 2, divergentld.com
 2, dividend56.top
+2, divisible26.com
 2, division43.top
 2, dixbvzvuzhvxbg.com
 2, dizziness47.com
@@ -2326,6 +2333,7 @@ routing = 2
 2, enews10.yxlady.net
 2, engineer66.com
 2, enhancement44.com
+2, enjihdh0t.com
 2, enqrudnf.com
 2, ent1.12584.cn
 2, ent1.qunchua.cn
@@ -2792,6 +2800,7 @@ routing = 2
 2, greikvuth.com
 2, grinder15.top
 2, grinder47.com
+2, grmxqjo.com
 2, grrergiol.com
 2, gsjdzx.com
 2, gsk801200hh.com
@@ -3264,6 +3273,7 @@ routing = 2
 2, iwoihuemn.com
 2, iy0keh7qj7.com
 2, iyhaatedew.com
+2, iytnwiw0e1.com
 2, iyuedu.cn.com
 2, iyyfj0g7m.com
 2, izkgl35mq.com
@@ -3669,6 +3679,7 @@ routing = 2
 2, lkthfpii.xyz
 2, lkwj.cn
 2, ll.gxsky.com
+2, ll4d0puaa2.com
 2, llbquucai.com
 2, lle6t62id.com
 2, lllencim.com
@@ -5223,6 +5234,7 @@ routing = 2
 2, tl9q49ffi.com
 2, tlgivardfp.com
 2, tljsxt.icu
+2, tlomdebs.com
 2, tlq8ufqddj.com
 2, tlre4aso7.com
 2, tluutoido.com
@@ -6163,6 +6175,7 @@ routing = 2
 2, y66xvgo5i.chuimg.com
 2, y6a7ap3io3.com
 2, y6p7022ep4.com
+2, y756n8wwt8.com
 2, y84shrg6ui.com
 2, y89fjgm3vc.com
 2, y9oog9hyuo.com
@@ -6476,6 +6489,7 @@ routing = 2
 2, zrkeirapi.com
 2, zrosq6dsha.com
 2, zrz0c0sh7e.com
+2, zs68h9vow.com
 2, zsdrjjcqutdnja.com
 2, zsi24utdu.com
 2, zsjxwj.com
