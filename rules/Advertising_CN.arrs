@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6540
+# RULES: 6550
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -246,6 +246,7 @@ routing = 2
 2, 1mb71rr5oo.com
 2, 1n4vrzxdms.com
 2, 1nevsf92q.com
+2, 1nqv0i1kk.com
 2, 1nrgur4y43.com
 2, 1nvnkyg65.com
 2, 1nvxl968le.com
@@ -1576,6 +1577,7 @@ routing = 2
 2, bmjs.xzw.com
 2, bmjtlfhahyhhru.com
 2, bmmpotgeaz.com
+2, bmznrj7oi.com
 2, bmzzojmzu.com
 2, bn067lnkrb.com
 2, bnbklsss.homes
@@ -2328,6 +2330,7 @@ routing = 2
 2, emdcadvertise.eastmoney.com
 2, emjs.mkzhan.com
 2, ems59cq77u.com
+2, enar18ahs1.com
 2, enelveufry.com
 2, enennsa.gushiwen.cn
 2, enews10.yxlady.net
@@ -3081,6 +3084,7 @@ routing = 2
 2, hxuxv7vx0.com
 2, hy.huangye88.com.cn
 2, hy.huangye88.net
+2, hy851xvexj.com
 2, hyaplnr.com
 2, hydrocarbon77.top
 2, hygiene86.com
@@ -3101,6 +3105,7 @@ routing = 2
 2, i12het785.com
 2, i14laze0.xyz
 2, i16vlgqdhh.com
+2, i20k3b5yi.com
 2, i27jhc4ut0.com
 2, i2fxsez4f0.com
 2, i2jmbz5ec0.com
@@ -3111,6 +3116,7 @@ routing = 2
 2, i3l7wf.com
 2, i3z.cn
 2, i4320rdrta.com
+2, i5dtd6dfl.com
 2, i5le8m3qxs.com
 2, i5qquywfz.com
 2, i5rd6bukys.com
@@ -3818,6 +3824,7 @@ routing = 2
 2, m3rsa3rnbm.com
 2, m3v8x28jut.com
 2, m43ocq1uoj.com
+2, m4820qu4n.com
 2, m485oq2gym.top
 2, m4dynuge4.com
 2, m5.66077.cn
@@ -5245,6 +5252,7 @@ routing = 2
 2, tmkfjbitxzlhijfcenxe.top
 2, tmkhirkrol.com
 2, tmlyhh.icu
+2, tmn70vp2u.com
 2, tmpsdp.icu
 2, tmtmkfjbitxzlhijfcen.top
 2, tns.simba.taobao.com
@@ -5551,6 +5559,7 @@ routing = 2
 2, v8j1rkai1.com
 2, va3yq7si6w.com
 2, vapvllaajrhhzc.com
+2, variance36.com
 2, vaudeville44.top
 2, vauu8z77p.com
 2, vb5gi1zp5.com
@@ -6096,6 +6105,7 @@ routing = 2
 2, xscp03121xq.com
 2, xscp03130xq.com
 2, xscp03131xq.com
+2, xsdnb.com
 2, xspxdhkcaplhza.com
 2, xssncc2tv.com
 2, xsyhy.cn
