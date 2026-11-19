@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6550
+# RULES: 6558
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -87,6 +87,7 @@ routing = 2
 2, 0vtqrw86o.com
 2, 0wk6gdkg8r.com
 2, 0wpfe0duo.com
+2, 0x2jt61f3l.com
 2, 0x79jjyph7.com
 2, 0xr7ii3df.com
 2, 0xxbtt1ov.com
@@ -274,6 +275,7 @@ routing = 2
 2, 1u6hvoykk3.com
 2, 1ub29e88i.com
 2, 1udy3nzsqx.com
+2, 1uei2j0mz0.com
 2, 1ujz59h62z.com
 2, 1urjtp1t6.com
 2, 1vd2esrss.com
@@ -1929,6 +1931,7 @@ routing = 2
 2, crusher28.com
 2, crusher38.top
 2, cruzietv.com
+2, crzzbyrea5.com
 2, cs.37see.com
 2, csaimall.com
 2, cscbd31jv.com
@@ -2371,6 +2374,7 @@ routing = 2
 2, etjkljs.beauty
 2, etqu.cn
 2, ettoday.net
+2, eu4as22g0c.com
 2, eutrnfnm.com
 2, eux6eonqhd.com
 2, evidence20.com
@@ -3163,6 +3167,7 @@ routing = 2
 2, ihbkqdj55.com
 2, ihhuyvugv.com
 2, ii1.chajiaotong.com
+2, ii4mju7bta.com
 2, iia1.pikacn.com
 2, iiahutvaa.com
 2, iklparx8i.com
@@ -3424,6 +3429,7 @@ routing = 2
 2, jsckjqr.com
 2, jscode.acg68.com
 2, jscode.jbzj.com
+2, jsdikro5nj.com
 2, jsf.cnlinfo.net
 2, jsinfo.net
 2, jsnznlmiboptzo.com
@@ -3509,6 +3515,7 @@ routing = 2
 2, kdpic.pchome.com.tw
 2, kduwvaq3dt.com
 2, ke8me98qh.com
+2, ked61ojxow.com
 2, kefeng56.com
 2, kegll5mwl2.com
 2, kejyrcp923.com
@@ -5283,6 +5290,7 @@ routing = 2
 2, trammel74.top
 2, trampoline12.com
 2, trapezium69.top
+2, trapezoid76.com
 2, travel44.top
 2, treatment11.top
 2, trebleperfect.com
