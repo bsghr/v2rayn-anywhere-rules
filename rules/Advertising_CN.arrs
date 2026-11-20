@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6558
+# RULES: 6565
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -749,6 +749,7 @@ routing = 2
 2, 6tdz25urqj.com
 2, 6uliq2uive.com
 2, 6ulv19ce9.com
+2, 6uw4lcf0qu.com
 2, 6v2wkfw6pc.com
 2, 6v4.cn
 2, 6vspt720xf.com
@@ -1146,6 +1147,7 @@ routing = 2
 2, ac.86huoche.com
 2, ac.art456.com
 2, ac00qmnjz.com
+2, ac0vjhnpp.com
 2, ac1.pingpingw.com
 2, acc.3gbizhi.com
 2, accommodate53.top
@@ -1839,6 +1841,7 @@ routing = 2
 2, chunyuqiufeng.com
 2, chushoushijian.cn
 2, chwyt1hzb.com
+2, chxzsq0cu1.com
 2, cidb5rr2t.com
 2, cientch.360doc.cn
 2, cilipa.com
@@ -3990,6 +3993,7 @@ routing = 2
 2, mrko3xiug.com
 2, ms.cnbanbao.com
 2, mscs.svaeuzh.cn
+2, msg3zn5w9.com
 2, msn5vg8em.com
 2, mt1exxfnf.com
 2, mtaitdupf.com
@@ -4341,6 +4345,7 @@ routing = 2
 2, p1.zhongyoo.com
 2, p1oo54kz6d.com
 2, p2muoczf5.com
+2, p3bqgc0pi.com
 2, p43c4oysmb.com
 2, p4dc8ve6i.com
 2, p4p.sina.com.cn
@@ -4400,6 +4405,7 @@ routing = 2
 2, periscope80.com
 2, permissible67.com
 2, pexels.com
+2, pfac2u4n5.com
 2, pfh01c50p.com
 2, pfk94y5ke.com
 2, pfp.sina.com.cn
@@ -5122,6 +5128,7 @@ routing = 2
 2, syncope12.top
 2, synopsis95.com
 2, szbnb3wmaj.com
+2, szhtkldy4.com
 2, szjbo9a13.com
 2, szlite.cn
 2, szqwzosxn3.com
