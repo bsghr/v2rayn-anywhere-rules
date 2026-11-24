@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6278
+# RULES: 6293
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -442,6 +442,7 @@ routing = 2
 2, 3sd6w6oga9.com
 2, 3t4j5adg9x.com
 2, 3tv4botiq.com
+2, 3twgodwqu.com
 2, 3vkgutjorg.com
 2, 3vvuu0z8ui.com
 2, 3wrv1uzotr.com
@@ -488,6 +489,7 @@ routing = 2
 2, 4d9f09z8c.com
 2, 4djkbk96r4.com
 2, 4e0jpheoi1.com
+2, 4eyn3s9wj.com
 2, 4f8g9foqwy.com
 2, 4fd0jlybx.com
 2, 4grqz7x6z3.com
@@ -516,10 +518,12 @@ routing = 2
 2, 4ppj7n846t.com
 2, 4pyszxxaw.com
 2, 4q7unmlg5.com
+2, 4rlqjv5c5.com
 2, 4ro76m7k2n.com
 2, 4rzph5ytr.com
 2, 4u079hpvl.com
 2, 4uitrrt700.com
+2, 4vzi54g47.com
 2, 4w3ol467n.com
 2, 4w54d7rjg.com
 2, 4wbvq8yl2.com
@@ -542,6 +546,7 @@ routing = 2
 2, 52av.be
 2, 52cg5n8jjd.com
 2, 52tian.net
+2, 533upqfg6.com
 2, 5399.com
 2, 54ad.net
 2, 54ads.com
@@ -562,6 +567,7 @@ routing = 2
 2, 58tg.com
 2, 591520.xyz
 2, 595image.com
+2, 59j22m33n.com
 2, 59ufs4hof5.com
 2, 59zzkdt8pj.com
 2, 5b0a1c63v9.com
@@ -1052,6 +1058,7 @@ routing = 2
 2, a5wlr2yplf.com
 2, a65vocvbfe.com
 2, a6cfvavw1.xyz
+2, a6j9wqsyq6.com
 2, a6o69f9ky0.com
 2, a78lx5fbd.com
 2, a85t9mxnj.com
@@ -2160,6 +2167,7 @@ routing = 2
 2, dynamo57.com
 2, dytt.com
 2, dytuj6zs26.com
+2, dyv86qq19o.com
 2, dz6xqe19d2.com
 2, dzihsqn.icu
 2, dzz8yyd41.com
@@ -2794,6 +2802,7 @@ routing = 2
 2, h1.wk2.com
 2, h1883c5wn.com
 2, h1cn8nwng.com
+2, h1tv22icy.com
 2, h1yfrt.com
 2, h27aq0mc6.com
 2, h2m1op6zw.com
@@ -3179,6 +3188,7 @@ routing = 2
 2, j1bla75rck.com
 2, j1s956aee8.com
 2, j2fu64j4e.com
+2, j31pozck4v.com
 2, j33xvvanl.com
 2, j3fvhzit0.com
 2, j3gkwzt7o.com
@@ -3423,6 +3433,7 @@ routing = 2
 2, klljo2cp63.com
 2, kls24qtvc.com
 2, klt2ojvew1.com
+2, kmbvclcac.com
 2, kmdjdu5cc.com
 2, kmqianneng66.com
 2, knie8wmsk.com
@@ -3592,6 +3603,7 @@ routing = 2
 2, lmbmr7zw3.com
 2, lmd6dc1aq7.com
 2, lmhrchi.com
+2, lmhx6w4tm.com
 2, lmlmvip.com
 2, lmtruueagl.com
 2, lmxnthoobcznvu.com
@@ -4594,6 +4606,7 @@ routing = 2
 2, reke.at.sohu.com
 2, relapse37.com
 2, reluctance58.com
+2, remainder22.com
 2, remainder38.com
 2, remedyy46.com
 2, remehealth.net
@@ -4779,6 +4792,7 @@ routing = 2
 2, secretaire97.com
 2, seductive37.top
 2, seijlfsx.com
+2, semicircle59.com
 2, senior82.com
 2, sentiment39.top
 2, sexy-more.com
@@ -5598,6 +5612,7 @@ routing = 2
 2, wc6y3nrv7g.com
 2, wc74aa875.com
 2, wcu79k85a.com
+2, wcx3gf.site
 2, wde0a1qrm.com
 2, wdp5rczwlp.com
 2, wdtuc.cn
