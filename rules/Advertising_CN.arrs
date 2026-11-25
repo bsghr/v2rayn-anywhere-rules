@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6293
+# RULES: 6304
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -59,6 +59,7 @@ routing = 2
 2, 0hr4wyjfv3.com
 2, 0i2nax2di.com
 2, 0ihw4ipvm5.com
+2, 0jbyj9d2l.com
 2, 0jghm60qg.com
 2, 0kl9n3q2b.com
 2, 0kplffrs42.com
@@ -479,6 +480,7 @@ routing = 2
 2, 494b6x7u8.com
 2, 49dlt9myv.com
 2, 49ioqq6kt.com
+2, 49ivw88hj9.com
 2, 49o4m4a5eo.com
 2, 4ad9bqnjb.com
 2, 4ae8xsq18s.com
@@ -496,6 +498,7 @@ routing = 2
 2, 4h87y9pc59.com
 2, 4hf2saujov.com
 2, 4hfm8gfow.com
+2, 4hg1oddm34.com
 2, 4i2q0y9wv.com
 2, 4ikj2pbeqb.com
 2, 4j7mf4mmx.com
@@ -1242,6 +1245,7 @@ routing = 2
 2, aiwen.cc
 2, aizhantj.com
 2, ajazaci.icu
+2, ajc1d0k4nr.com
 2, ajhwwlye.com
 2, ajjo5hsvlp.com
 2, ajvznxaox.com
@@ -1958,6 +1962,7 @@ routing = 2
 2, d8lzzy93g.com
 2, d8oh0sebl8.com
 2, d984u5wqh.com
+2, d9zkof.com
 2, d9zx24n0d.com
 2, da.daji.com
 2, da.mgtv.com
@@ -2455,7 +2460,9 @@ routing = 2
 2, fpgxyjv3h.com
 2, fpoyvjgdm.com
 2, fprrpv.icu
+2, fps3xggxro.com
 2, fpz4gr87mq.com
+2, fqfhznr3qn.com
 2, fqk6e78c80.com
 2, fqthetotf.com
 2, fqwv7k7ex.com
@@ -2976,6 +2983,7 @@ routing = 2
 2, hweiopvvxd.icu
 2, hwrzdbokzdttry.com
 2, hxbt.alading123.com
+2, hxgnwrwslhzgrmjsfvdevrjpn.com
 2, hxjs.tool.hexun.com$domain=~quote.hexun.com
 2, hxpfsdvfm.com
 2, hxuxv7vx0.com
@@ -4592,6 +4600,7 @@ routing = 2
 2, re.taotaosou.com
 2, re0rlupcz.com
 2, recount57.com
+2, rectangle20.com
 2, rectangle99.com
 2, rectangular10.com
 2, rectangular18.com
@@ -4716,6 +4725,7 @@ routing = 2
 2, rxi8jcy0aq.com
 2, rxys.cn
 2, rxzfhfmoegfvts.com
+2, ry6wy3dr62usd0fnicfk.com
 2, ry7icaih0p.com
 2, ryd626moj.com
 2, rypebb.icu
@@ -5298,6 +5308,7 @@ routing = 2
 2, ulny.cn
 2, ulpsd9qmja.com
 2, ulx1cpf68.com
+2, umd8dz8x9.com
 2, umhjh9rwe.com
 2, umini.shujupie.com
 2, umqigvethe.com
