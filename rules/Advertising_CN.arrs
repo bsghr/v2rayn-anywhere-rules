@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6304
+# RULES: 6310
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -965,6 +965,7 @@ routing = 2
 2, 9v7sbm9zc.com
 2, 9vmbje748.com
 2, 9wkvbvm90.com
+2, 9xxne23lm.com
 2, 9yspkomgq.com
 2, 9z6p1shhsh.top
 2, a.10tianqi.com
@@ -3204,6 +3205,7 @@ routing = 2
 2, j3ossmqgmc.com
 2, j4s12kfavg.com
 2, j59g6ff5k.com
+2, j5gv7t9sv.com
 2, j5sgdum5n4.com
 2, j694fx3bp.com
 2, j6gi9jgjpb.com
@@ -3827,6 +3829,7 @@ routing = 2
 2, mm.nwell.net
 2, mm.paizi.net
 2, mm.wxc.cc
+2, mn3hdpe1y.com
 2, mnnmnn.com
 2, mnwor.xuanlishi.com
 2, mo-tuo.com
@@ -3939,6 +3942,7 @@ routing = 2
 2, n8g1kvtmrf.com
 2, n906n29tm.com
 2, na50e68jx.com
+2, nah9b3ag8.com
 2, nahdlvqwqkzxby.com
 2, nahg4lhbr.com
 2, naivety48.com
@@ -5255,6 +5259,7 @@ routing = 2
 2, u8jlui323.com
 2, u8rnuky6e.com
 2, u90p9zk9r7.com
+2, uaazwczowtfswj.com
 2, ub1.job592.com
 2, ub6weu52p.com
 2, ubeeludrt.com
@@ -6215,6 +6220,7 @@ routing = 2
 2, zinoe.cn
 2, zipobfrcbodrvq.com
 2, zisu.cn.com
+2, zitdymshto.icu
 2, zither89.com
 2, ziweuu.com
 2, ziwl05nrf1.com
