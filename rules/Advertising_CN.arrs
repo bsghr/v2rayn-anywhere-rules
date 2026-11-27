@@ -1,6 +1,6 @@
 # NAME: Advertising_CN
 # GENERATED-FOR: Anywhere Routing Rule Set
-# RULES: 6310
+# RULES: 6324
 # SOURCE: Loyalsoldier/v2ray-rules-dat
 
 name = Advertising_CN
@@ -758,6 +758,7 @@ routing = 2
 2, 7996epzfh.com
 2, 79n4cubmu8.com
 2, 79ssr9d244.com
+2, 7a9m8uas28.com
 2, 7asx1bxaw.com
 2, 7c96k2gysn.com
 2, 7car.com.cn
@@ -1203,6 +1204,7 @@ routing = 2
 2, aguo.com
 2, ahejtw.onelink.me
 2, ahfaihethh.com
+2, ahfhmvd0vf.com
 2, ahm.135320.com
 2, ahtjhe1bka.com
 2, ai.bioon.com
@@ -1842,6 +1844,7 @@ routing = 2
 2, cos1999.top
 2, cosecant36.com
 2, cosiskkm.com
+2, coty7m14cr.com
 2, count.xxxssk.com
 2, coywadlw9r.com
 2, cp.7y7.com
@@ -3302,6 +3305,7 @@ routing = 2
 2, jqszhz7wo.com
 2, jquery.envi-met.com.cn
 2, jqz8z7gqxw.com
+2, jqzck6m0vv.com
 2, jr9v5lx1ro.com
 2, jrge.cn
 2, js.263y.com
@@ -3813,6 +3817,7 @@ routing = 2
 2, miwifi.com
 2, mixer.sina.cn
 2, mj2fdb4kdq.com
+2, mjf6aq4jua.com
 2, mjpauup21.com
 2, mjursnb.com
 2, mjvb60t4g.com
@@ -4029,12 +4034,14 @@ routing = 2
 2, no4k35w6zy.com
 2, no99z05m4p.com
 2, notlwkjg8.com
+2, noxtzixkdg.com
 2, npgjij.cn
 2, nplsxlziftfbnk.com
 2, npunr.cn
 2, npuwalz.com
 2, npzc1yzag7.com
 2, npzjrlkmmjjtxe.com
+2, nq2b2hvkni.com
 2, nq6jitu4y.com
 2, nqrsdhemqmfdry.com
 2, nqwgvk.cn
@@ -4532,6 +4539,7 @@ routing = 2
 2, qtozietgp.com
 2, qttroiey.com
 2, qty00vcqh8.com
+2, quadrant59.com
 2, quarterdeck96.top
 2, qucxwvt.com
 2, quince22.top
@@ -4539,6 +4547,7 @@ routing = 2
 2, qunlove.com
 2, qunphoty.com
 2, quoits96.top
+2, quotient68.com
 2, quotient75.com
 2, quu175kt3.com
 2, quudraidfg.com
@@ -4652,6 +4661,7 @@ routing = 2
 2, rib0nsgx6.com
 2, richh.cn
 2, ridfvncgizfjlq.com
+2, riilabmhzs.icu
 2, rio9s1zdpd.com
 2, riptgxsype.com
 2, rising.cn
@@ -4760,6 +4770,7 @@ routing = 2
 2, s17uqjk39o.com
 2, s1gr2198h.com
 2, s2dln6sdu.com
+2, s2glduwz1.com
 2, s2plb194m.com
 2, s2v36b902.com
 2, s2ze6h0miy.com
@@ -4800,6 +4811,7 @@ routing = 2
 2, script-bd.baixing.net
 2, sd0ycgs3n0.com
 2, sdd.hi1718.com
+2, sdgugmgkcwtaij.com
 2, sdnc.top
 2, seaquake54.com
 2, secondly74.com
@@ -4811,6 +4823,7 @@ routing = 2
 2, sentiment39.top
 2, sexy-more.com
 2, sf5yzh4yqz.com
+2, sfajs30mmk.com
 2, sfzjk57ov.com
 2, sga2frwjjh.com
 2, sgg.southcn.com
@@ -5177,6 +5190,7 @@ routing = 2
 2, tu3921276844.cc
 2, tu4038097360.cc
 2, tu6767109513.cc
+2, tu6boqunqq.com
 2, tupmsen.com
 2, turcailnt.com
 2, tuxcpf6pq.com
